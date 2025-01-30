@@ -4,11 +4,11 @@ from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
-from callback_functions import update_bar_chart
+from callback_functions import *
 from dash.exceptions import PreventUpdate
 
 # Register page
-register_page(__name__, name="Bar chart", path='/')
+register_page(__name__, name="Bar chart", path='/barcharts')
 
 options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
 options2 = ['Malaysia', 'Singapore', 'Thailand','Indonesia']
@@ -115,4 +115,4 @@ def update_content(Item, country):
     if Item is None or country is None:
         raise PreventUpdate
     else:
-        return update_bar_chart(Item, country)
+        return update_pie_chart(Item, country)

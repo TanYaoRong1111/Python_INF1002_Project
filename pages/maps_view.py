@@ -33,18 +33,6 @@ layout = dbc.Container(
                 width=6
             )
         ),
-
-        dbc.Row(
-            dbc.Col(
-                dcc.Dropdown(
-                    id='country_name',
-                    options=options2,
-                    placeholder="Select Country",
-                    className="mb-4"
-                ),
-                width=6
-            )
-        ),
         
         dbc.Row(
             dbc.Col(
@@ -70,10 +58,10 @@ layout = dbc.Container(
 # Callback to update the choropleth map
 @callback(
     [Output('choropleth-map', 'figure'), Output("3rd-graph-container", "style")],
-    [Input('product_name', 'value'), Input('country_name', 'value')]
+    [Input('product_name', 'value')]
 )
-def update_map(product_name, country_name):
-    if product_name is None or country_name is None:
+def update_map(product_name):
+    if product_name is None:
         raise PreventUpdate
     
     # Example: Update revenue data based on the selected product category
