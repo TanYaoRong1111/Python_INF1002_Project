@@ -210,7 +210,7 @@ def update_top5(input_str):
     
     brand_filter = None
     price_min = 0
-    price_max = float('inf')
+    price_max = 0
 
     # Extract the brand from the input if mentioned
     for word in input_parts:
@@ -223,6 +223,10 @@ def update_top5(input_str):
         price_parts = input_str.lower().split("price range")[1].strip()
         # Split the extracted string into two variables and change their data type to int
         price_min, price_max = map(int, price_parts.split(","))
+
+    # If price_max is 0, set it to infinity (no upper limit)
+    if price_max == 0:
+        price_max = float('inf')
 
     # Read the dataset for the specific country and product category
     df = pd.read_csv(f'./Dataset/{country}_Laptop.csv', index_col=0)
