@@ -176,7 +176,7 @@ def generate_all_bar_chart():
     return figs
 
 # Function to get unique brands and countries from the dataset
-def get_unique_brands_and_countries(input_str):
+def get_brands_and_country(input_str):
     # Extract country from the input
     input_parts = input_str.lower().split()
     
@@ -190,14 +190,14 @@ def get_unique_brands_and_countries(input_str):
             country = word.capitalize()
             break
     
-    # If no country is found, raise an error or handle the case
+    # If no country is found, raise an error and it will cause update_content(input_filter) to show a popup
     if not country:
-        raise ValueError("Specify a country please!")
+        raise ValueError
     
     # Now, load the dataset based on the extracted country
     df = pd.read_csv(f'./Dataset/{country}_Laptop.csv', index_col=0)
 
-    # Get unique brands (no need to fetch countries since it's embedded in the dataset name)
+    # Get one instance of each unique brand
     brands = df['Brand'].unique().tolist()
     
     return brands, country
@@ -206,7 +206,7 @@ def update_top5(input_str):
     input_parts = input_str.lower().split()
 
     # Get the unique brands and country from the input string
-    brands, country = get_unique_brands_and_countries(input_str)
+    brands, country = get_brands_and_country(input_str)
     
     brand_filter = None
     price_min = 0
