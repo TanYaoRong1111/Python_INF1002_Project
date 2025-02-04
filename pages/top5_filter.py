@@ -3,7 +3,7 @@ from dash import dash_table, dcc, html, callback, register_page
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 import pandas as pd
-from callback_functions import update_top5
+from callback_functions import update_top5, get_brands_and_country
 from dash.exceptions import PreventUpdate
 
 # Register page
@@ -47,7 +47,11 @@ layout = dbc.Container(
         
         dbc.Row(
             dbc.Col(
-                html.Div(id="output", className="alert alert-info", role="alert"),
+                html.Div(
+                    id="country-popup",  # Alert if country not present in input
+                    children="Please specify a country in the filter input!",
+                    style={'display': 'none'}  # Initially hidden
+                ),
                 className="mb-4"
             )
         ),
@@ -93,11 +97,20 @@ layout = dbc.Container(
 
 # Callback function to update the table based on the user's input
 @callback(
-    Output('data-table3', 'data'),
+    [Output('data-table3', 'data'), Output('country-popup', 'style')],
     [Input('input_filter', 'value')]
 )
 def update_content(input_filter):
     if not input_filter:
         raise PreventUpdate
-    else:
-        return update_top5(input_filter)
+    
+    # Checking to see if a ValueError is raised from get_brands_and_country
+    try:
+        get_brands_and_country(input_filter)
+        
+        # Return the data for the table and ensure the popup is not displayed
+        return update_top5(input_filter), {'display': 'none'}
+    
+    except (ValueError):
+        # If no country is found, trigger the popup (ValueError is raised)
+        return [], {'display': 'block'}
