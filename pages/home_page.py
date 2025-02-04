@@ -10,19 +10,23 @@ from dash.exceptions import PreventUpdate
 # Register page
 register_page(__name__, name="Home_Page", path='/')
 
-
 figs = list(generate_all_bar_chart())
 
 layout = html.Div([
     html.H1("Welcome to the Lazada Sales Dashboard", style={'textAlign': 'center'}),
 
     dbc.Row([
-        dbc.Col(dcc.Graph(figure=figs[i]), width=6) if i < len(figs) else None  # Left Column
-        for i in range(0, len(figs), 2)  # Step through figs in pairs
+        dbc.Col(dcc.Graph(figure=figs[i]), width=6) if i < len(figs) else None  
+        for i in range(0, len(figs), 2) 
     ] + [
-        dbc.Col(dcc.Graph(figure=figs[i + 1]), width=6) if i + 1 < len(figs) else None  # Right Column
+        dbc.Col(dcc.Graph(figure=figs[i + 1]), width=6) if i + 1 < len(figs) else None  
         for i in range(0, len(figs), 2)
-    ])
+    ]),
+
+    dcc.Graph(
+        id='total-sales-treemap',
+        figure=generate_total_sales_treemap('Laptop')  # Generate the treemap for "Laptop"
+    ),
 ])
 
 
