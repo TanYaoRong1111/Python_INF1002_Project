@@ -100,7 +100,6 @@ def create_csv():
 
     res = webScrapingLazadaPhilippines(str(input_item), page=input_pages)
 
-
     df = data_to_dataframe(res)
 
     df = data_frame_filtering(df)
