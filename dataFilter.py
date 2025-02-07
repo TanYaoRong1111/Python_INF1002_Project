@@ -93,7 +93,13 @@ def data_processing(df):
 
 
 def create_csv():
-    res = webScrapingLazadaPhilippines("Laptop", page=50)
+    input_country = input("Enter Country to Web Scrape: [Malaysia, Singapore, Thailand, Indonesia]")
+    input_item = input("Enter item to scrape from lazada: ")
+    input_pages = int(input("Enter number of pages to scrape: "))
+
+
+    res = webScrapingLazadaPhilippines(str(input_item), page=input_pages)
+
 
     df = data_to_dataframe(res)
 
@@ -101,4 +107,4 @@ def create_csv():
 
     df = data_processing(df)
 
-    df.to_csv("Philippines_Laptop.csv")
+    df.to_csv(f"{input_country}_Laptop.csv")

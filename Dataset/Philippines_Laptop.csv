@@ -1,638 +1,453 @@
-,Name,Price,Brand,Rating,Seller Name,Number of Sales,Number of Reviews
-0,"FUJITSU LAPTOP 133 inches and 156 inches intel Celeron/i3/i5 | Memory 4GB 8GB 16GB | SSD128GB 256GB 512GB SSD Laptop WINDOWS 10 ""PRELOVED""",4703.02,Fujitsu japan surplus,4.98,FicoPc Trading Corp.,280.0,96.0
-1,Asus Laptop E410K 14'' FHD Celeron N4500 4GB RAM/64GB eMMC Win11,9990.0,ASUS,4.98,GAMEXTREME,475.0,116.0
-2,Lenovo Laptop ThinkPad X260 Intel Core i5 6200U Quad-Core HD520 Graphics 8G/16G DDR4 RAM 128G/256G/512G SSD Office Study Business Notebook,10800.0,Lenovo,4.87,INFOCRAFT,1100.0,149.0
-3,HP Elitebook 820 G1 [Brand New] legit Laptop Intel Quad/Dual-Core i7/i5 8G/12G/16G RAM 128G SSD+500G/1T HDD 125 Inches Screen Built In Camera/Webcam Business Work at home Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth/Notebook,8076.93,HP,4.83,iSimu Laptop ,1400.0,565.0
-6,"Lenovo laptop ThinkPad 125inch X240 Intel Quad/ i7/i5 / 8GB RAM / 1TB / HDD / Built-in HD WEBCAM,WiFi Bluetooth / Microsoft office/New",8822.0,ProVision,5.0,iJUNE PC,6.0,2.0
-10,"Lenovo ThinkPad X1 Carbon laptop -  Ultra-thin 14""FHD / intel Core i5 i7/ 16G RAM DDR4 / 512GB 1T SSD / Windows11Pro&office /  BrandNew Original",15972.02,Lenovo ThinkPad,4.96,YuMo Advanced Digital Store,242.0,103.0
-11,HUAWEI Matebook D 14 2024 Laptop | Eye Comfort HUAWEI Fullview Display | Super Device | HUAWEI Metaline Antenna,29999.0,Huawei,4.91,HUAWEI,474.0,150.0
-12,laptop Gaming laptop TUF/9th  I5-9300H/I7-9750H /AMD Ryzen 7-3750h 120Hz High refresh rate FHD camera +RGB keyboard lighting/professional game book + large design software,28914.31,OEM,4.62,Tianchuan laptop store,329.0,105.0
-13,DELL laptop 6th generation Core i5 /i7processor/Separate graphics /156 inches/Camera/built-in numeric keypad /wifi/ Suitable for online education/office/gaming,12652.97,Dell,4.94,Tianchuan laptop store,1600.0,1030.0
-14,"HP Elitebook 820G1 & 840G1 Laptop / 125"" & 14"" / Intel Core i5 i7 / 16GB RAM / 128SSD+1TB HDD / Windows11Pro&Includes Office Suite",8468.18,HP,4.91,YuMo Advanced Digital Store,543.0,286.0
-15,ICON Brand New Laptop Intel Win11 Celeron N5095 Core i7 256G 512G Solid State Hard Disk 156-Inch HD Portable Student Office Business Game Laptop brand new original,16040.0,Icon,4.94,Icon Technology Inc,2300.0,179.0
-16,"ASUS 14"" Vivobook Laptop i3-1215U 8GB/128GB SSD Win11 X1404ZA",18990.0,ASUS,4.93,GAMEXTREME,626.0,209.0
-17,HP Laptop | 15 inch | Ryzen 3 5th/7th Generation | 4/8GB | 128-512GB | Windows 11 | AMD Radeon Integrated Graphics | 100% Free Shipping | 2 Years Warranty | Brand New | Original | Low Price,27540.0,HP,4.8,HP,588.0,168.0
-18,Lenovo Factory Laptop Original 156 Inch 10TH Gen Intel Core i7 / N5095 RAM 16GB SSD 512GB Windows 10 / MS Office,16489.03,OEM,4.97,Laptop Computer,453.0,228.0
-19,MSI Modern 15 B7M - AMD Ryzen 7000 Series Processor / 16GB DDR4 RAM / AMD RX Vega Graphics / 512GB SSD / 156 Ultrawide Display / Wifi 6E / Full Size Backlit Keyboard / Windows 11,30995.0,MSI,4.98,MSI Business and Productivity,424.0,148.0
-20,Lenovo New Laptop Core i7+16GB RAM Game Full 512GB SSD Game Laptop Student Laptop Installation Genuine Windows 11 System and MS Office PC Game Free Gift,19680.33,OEM,4.86,Chuangyun Technology,285.0,97.0
-21,Lenovo  laptop brand new original  Intel core i7 10510U 16G DDR4 RAM 512G SSD HD Gaming Office Laptop 156-inch Business Laptop 2-year warranty,19690.03,OEM,4.88,Chuangyun Technology,610.0,200.0
-22,"Acer AL14-31P-C582 Intel Celeron N100 8GB 512GB SSD 14"" Shared W11 CoPilot Silver Laptop | Acer Laptop FREE! Laptop bag and Mousepad",23803.0,Acer,4.97,Acer,566.0,178.0
-23,Apple MacBook Air 13-inch (M1),38590.0,Apple,4.85,Apple Flagship Store,113.0,47.0
-24,"Lenovo IdeaPad l 156""HD laptop Celeron N4500 4GB/128GB eMMC Win11 Cloud Grey with Free Mouse and Earbuds",14990.0,Lenovo,4.96,GAMEXTREME,259.0,71.0
-25,Lenovo [Brand New]ThinkPad X260 laptop Intel Quad/Dual-Core i7/i5-6600u/6300u 8G/16G DDR4 RAM 256G/512G/1T SSD ROM Built In Camera/WEBCAM Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,8501.65,Thinkpad,4.89,iSimu Laptop ,629.0,208.0
-26,Lenovo ThinkPad X240 Laptop Intel Quad/Dual-Core i7/i5 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office 365 Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch  Screen,8501.66,Thinkpad,4.85,iSimu Laptop ,870.0,323.0
-27,Topton  L4 Pocket Mini Laptop 7Inch Touch Screen Celeron N4000 12GB DDR4 Webcam Notebook 20MP Windows 11 Pro Fanless,12022.23,TOPTON,4.91,Topton Computer Store,164.0,67.0
-28,"Lenovo ThinkPad T470 14"" FHD (1920 x 1080), Intel Core i5-6300U 8 GB DDR4 RAM, 256 GB SSD, Windows 10 (Preloved)",10500.0,Gigaware,5.0,Gigaware,10.0,3.0
-29,ACER C731 Laptop | 116 inches Screen Size | 4GB RAM Intel Celeron N3060 | Win10 | With Built in Camera PRELOVED,2945.01,Acer,4.43,Funplus Computer Parts,39.0,7.0
-30,Brand New Lenovo ThinkPad X280/8TH X270/7TH X260/6TH laptop Intel Dual/Quad-Core i5/i7  8G/16G DDR4 RAM 256/512/1TB SSD HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO Ultra-thin 125 inch Screen class/learning  Business notebook computer,8347.0,Lenovo ThinkPad,4.92,CM Super Laptop,841.0,332.0
-31,"Lenovo ThinkPad X13 X390 laptop -  Ultra-thin 133""FHD / Intel Core i5 i7 / 16GB RAM DDR4 / 512GB 1TB SSD /  Windows11Pro&office / BrandNew Original Laptop",21921.03,Lenovo ThinkPad,5.0,YuMo Advanced Digital Store,30.0,16.0
-32,"HP 255 G9 156"" FHD Laptop, Ryzen 5-5625U 16GB/512GB Win 11 Silver",25990.0,HP,4.91,GAMEXTREME,199.0,46.0
-33,"HP Victus 156"" FHD | AMD Ryzen 5 7535HS | 8GB DDR5/512gb SSD Radeon RX 6550M | Win11 | Mica Silver",36990.0,HP,4.95,GAMEXTREME,60.0,21.0
-34,"Lenovo Flex 5i 14"" WUXGA Touchscreen 2n1 Laptop i3-1215U 8GB/256GB SSD Win 11 Home S mode - Storm Grey",26990.0,Lenovo,5.0,GAMEXTREME,28.0,6.0
-35,Lenovo [Brand New]ThinkPad Yoga 260 2-in-1 laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD FHD IPS brilliant 125'' touch screen Windows11 Pro Ms office 365 Online Class Learning Computer WiFi/Bluetooth/Notebook/Business,15538.77,Thinkpad,4.93,iSimu Laptop ,552.0,223.0
-36,"Acer Aspire Go 15 156"" FHD Slim Laptop i3-N305 8GB /128GB UFS Win11 Pure Silver AG15-31P-3947",19495.0,Acer,5.0,GAMEXTREME,419.0,115.0
-37,Latitude E7450/5Th Gen processor/Dual Core Four Thread/141in/16GB RAM+1TB SSD,13914.65,Dell,4.95,16G+Laptop Mall,723.0,554.0
-38,Hot Sale Machenike Light 16Air 13th Gen i7 13620H Laptop 16 inches 25K Screen 100%sRGB 120Hz 16G RAM LPDDR5 512G SSD PCIE40 2024 brand new laptop,41999.1,MACHENIKE,4.82,Machenike Official Store,234.0,77.0
-39,Lenovo ThinkPad X240/X250 Laptops Intel Dual/Quad-Core i5/i7 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch  Screen,8084.65,Thinkpad,4.91,RoWind PC,656.0,266.0
-40,dell Gaming laptop/Intel I5 + I7 core /GTX960-4GB  FHD camera + WiFi + Bluetooth/built-in numeric keypad/suitable for online education + work + games,18405.65,Dell,4.95,Tianchuan laptop store,522.0,333.0
-41,"Lenovo Ideapad 1 156"" Laptop AMD Athlon Silver 7120U 4gb/128gb Cloud Grey",13990.0,Lenovo,4.92,GAMEXTREME,253.0,74.0
-42,Asus factory Laptop official store ph laptop brand new original Core N5095/i7 16G 512G 156 inch Gaming Laptop Computer Camera Windows 11 OS Microsoft office WiFi Bluetooth,16392.03,OEM,4.95,MONSPRIN Laptop Computer,1800.0,825.0
-43,Lenovo Laptop ThinkPad 14inch  Laptop T460 T470 T480 Laptop - Ultra-thin 14inch FHD / intel Core i5 i7 6th Gen I5 7th Gen i5 8th Gen/ 16GB RAM / 512GB 1TB SSD / Windows11Pro&office / New,12999.0,ProVision,4.78,iJUNE PC,35.0,9.0
-44,Apple MacBook Air 13-inch M2 8-Core CPU-8-Core GPU-16GB-256GB (Late 2024),57390.0,Apple,5.0,Beyond the Box,83.0,30.0
-45,"Acer AG14-31P-31M3 i3-N300 8GB 512GB SSD 14"" Shared Win11 H&S Silver | Acer Laptop FREE! Laptop bag and mousepad",28599.0,Acer,4.93,Acer,427.0,136.0
-46,Lenovo Laptop X260  Thinkpad I7 I5 I3 Quad-core Inel HD520 Graphics 4G 8g 16g DDR4 RAM 120G 240G 480G ssd New,11113.0,ProVision,4.79,iJUNE PC,167.0,71.0
-48,Dell Latitude E7490/Intel Core i5 i7/16G RAM/1TB SSD/integrated graphics/HDMI+WIFI+HD Camera,14905.99,Dell,4.97,Focusing on IT laptop,341.0,243.0
-49,156 Inches ASUS Gaming Laptop Intel Core i5/i7 11th Gen 32G RAM 512G SSD RTX3050/GTX1650 gaming laptop,36772.0,ASUS,4.9,AnFi,75.0,20.0
-51,LAPTOP LENOVO YOGA 11E INTEL PENTIUM 4GB RAM 128GB SSD + ACCESSORIES,5399.0,Lenovo,5.0,TFIVE,8.0,1.0
-52,Lenovo ThinkPad Yoga 370 / X380 Yoga  2-in-1 laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Windows11 Pro Ms office Online Class Learning  WiFi/Bluetooth/Notebook/Business,18101.62,Thinkpad,4.8,iSimu Laptop ,229.0,82.0
-53,"LAPTOP HP PROBOOK 4520S INTEL CORE i3 1ST GEN 4GB RAM 500GB HDD DVD ROM NO BUILT IN CAMERA ( FREE USB CAM ) 156"" INCHES WINDOWS 10 CLASS B",4000.0,HP,3.8,JJ-King Marketing,15.0,1.0
-54,HP Laptop Brand New Original Elitebook 820 G1/840 G1 Intel Quad/Dual-Core i7/i5 8/12/16GB RAM 128G SSD+500G/1T HDD 125/146 Inches Screen Built In Camera/Webcam Business  Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook computer,9578.75,HP,4.95,CM Super Laptop,714.0,331.0
-55,"Lenovo ThinkPad X280 Laptop - Ultra-thin 125"" / Intel Core i5 i7 / 16G RAM / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original",13229.02,Lenovo ThinkPad,4.93,YuMo Advanced Digital Store,227.0,99.0
-56,Nextfun 101-inch win10 tablet windows PC 2-in-1 Laptop Office Entertainment 4GB RAM +128GB ROM,3996.4,nextfun,4.94,nextFun Brand ,403.0,235.0
-57,AIODIY Laptop Original HD Gaming Office Laptop Intel Celeron N5095 16G DDR4 RAM 512G SSD 156-inch Business Laptop,13679.1,AIODIY,4.93,AIODIY,7500.0,214.0
-58,HP Laptop Brand New Original 450 G3 Intel Core i3/i5/i7 128/256/512G SSD Ultra-thin and Portable Computer 156 Inch HD Screen Students Office Business Gaming Notebook Laptop,10863.0,HP,4.95,INFOCRAFT,703.0,126.0
-59,HP 14 G4 | Class C | Intel Celeron N2840 | 4GB RAM | Good for Online class and Office use | Preloved,3491.03,HP,4.83,Funplus Computer Parts,15.0,6.0
-60,Brand New Lenovo ThinkPad X280/8T X270/7TH X260/6TH laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 256/512/1TB SSD HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO Ultra-thin 125 inch Screen class/learning  Business notebook computer,8300.0,Lenovo,4.97,M.C.ISLAND ONLINE SHOP,33.0,30.0
-65,"Acer Aspire 3 A315-24P-R7VH Slim 156"" FHD Laptop Ryzen 3 7320U 8gb/128gb NVMe SSD Pure Silver",19990.0,Acer,5.0,GAMEXTREME,16.0,3.0
-66,ICON laptop brand new original Intel Win11 Celeron N5095 Core i7 256G 512G Solid State Hard Disk 156-Inch HD Portable Student Office Business Game Laptop Rose Gold,16040.0,Icon,4.94,Icon Technology Inc,34.0,17.0
-68,Lenovo ThinkPad X280 laptop Intel Quad-Core i5/i7 8G/16G DDR4 RAM 256G/512G/1T SSD Built In Camera/WEBCAM Business Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,12396.91,Thinkpad,4.72,iSimu Laptop ,179.0,53.0
-69,"Lenovo ThinkPad X260 X270 laptop - Ultrabook 125"" / Intel Core i5 i7 / 16GB RAM DDR4 / 512G 1TB SSD / Windows11Pro&office /  BrandNew Original",8794.52,Lenovo ThinkPad,4.97,YuMo Advanced Digital Store,595.0,210.0
-70,"Asus Chromebook 116"" HD Laptop Celeron N4020 4gb/32gb eMMC C204MA-YB02-GR Dark Gray",7990.0,ASUS,4.96,GAMEXTREME,220.0,53.0
-71,Lenovo  Laptop Original HD Gaming Office Laptop Intel core i7 8706G  16G DDR4 RAM 1TB SSD 156-inch Gaming Laptop Built in webcam/camera for online classroom/learning WiFi Bluetooth Windows11 and MS Office,19971.33,OEM,5.0,Chuangyun Technology,167.0,45.0
-72,14 Inch Windows 11 Laptops New N4000 26Ghz 8GB RAM 256GB ROM Notbook Pc Computer Laptop,7509.0,Founder,5.0,Founder,7.0,2.0
-74,LAPTOP HP ELITEBOOK 725 G4 /AMD PRO A8 7TH GEN OR AMD PRO A10 6TH GEN / 8GB RAM 128GB SSD / 125 INCHES / BUILT IN CAMERA / WIFI READY / PREOWNED UNIT,6489.0,HP,4.67,JJ-King Marketing,11.0,3.0
-75,ThinkPad X395/AMD Ryzen 7 Pro 3700U/Four Core/Eight Thread/133in FHD/DDR4 2400MHz 8GB RAM/512GB SSD/AMD Radeon RX Vega,25704.03,Lenovo ThinkPad,4.98,16G+Laptop Mall,618.0,472.0
-76,HP Laptop 14/15 inch | Intel Core i3 12th Generation | 4/8GB | 256/512GB | Windows 11 | Intel UHD Graphics | 100% Free Shipping | 2 Years Warranty | Free Microsoft Office,28990.0,HP,5.0,HP,170.0,51.0
-77,Brand New laptop used laptop Intel Celeron N4000/N5095 Gaming laptops Gaming setup 12G RAM 512G SSD 1080P 5G WiFi Windows 11 Pro laptop gaming laptop 156 Inches mini pc laptop for sale original [5-year warranty],7999.0,OME,5.0,LIAGMK Factory Store,10.0,3.0
-78,"Lenovo Yoga 7 2-in-1 14"" 2K Touchscreen Laptop - AMD Ryzen 5-8640HS  8GB/512GB SSD - Artic Grey",35995.0,Lenovo,4.57,GAMEXTREME,20.0,7.0
-79,"Acer Spin 5 135""IPS Touch Convertible Laptop - Intel Core i5-1035G4 8GB RAM/256GB NVMe SSD Win10 Pro- Steel Gray [SP513-54N]",27895.0,Acer,5.0,GAMEXTREME,79.0,20.0
-80,"Acer Extensa 156"" FHD Laptop  i5-1235U 8GB/512GB Win11 EX215-55 -  Steel Gray",29990.0,Acer,4.7,GAMEXTREME,44.0,10.0
-81,Kimstore Bmax X15 Intel ® 9Th Gen Uhd Graphics 600 256Gb Quad-Core 4 Threads 156-In Display 10000Mah Gray,9000.0,Kimstore,4.84,Kimstore PH,155.0,58.0
-82,Nextfun 2-in-1 laptop computer with Intel Celeron processor dual-band 5G WiFi full touch screen office laptop,10592.4,nextfun,4.98,nextFun Brand ,678.0,370.0
-83,Lenovo Laptop  14  FHD Screen Intel core i5 8GB RAM 128GB SSD Ultra HD Graphics 600 Windows 11 Student Laptops with WiFi Bluetooth play a game,12027.03,OEM,4.73,Chuangyun Technology,46.0,15.0
-84,"Asus Vivobook Go 156"" FHD Laptop AMD Ryzen 3-7320u 8GB/128GB Win11 - Mixed Black (E1504fa-As3)",19990.0,ASUS,5.0,GAMEXTREME,7.0,3.0
-85,ORIGINAL Acer C731 Chromebook upgraded to WIN 10  l plus 512 GB I 3 MONTHS WARRANTY I  REFURBISHED LAPTOP,2999.0,Acer,4.64,YouNiqueLovebyLeizel,600.0,205.0
-86,Nextfun 2in1 laptop Intel CPU 101inch tablet PC Office Ultra-thin Computer Windows Tablet HDMI Business office laptop,4300.0,nextfun,4.95,geyakeji,157.0,127.0
-87,Dell Laptop Original Intel Core i5/i7 7th 8th Gen 156 inch HD Screen 480G SSD Students Office Business Gaming laptop,15415.0,Dell,4.9,AnFi,138.0,41.0
-88,Lenovo ThinkPad Yoga 260 2-in-1 laptop Tablet computer stylus pen Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS brilliant 125'' touch screen Windows11 Pro Ms office2019 Online Class Learning Computer WiFi/Bluetooth/Notebook/Business,15221.65,Thinkpad,5.0,RoWind PC,52.0,16.0
-90,"BrandNew Lenovo laptop ThinkPad X240 Intel Quad/Dual-Core i7 / 8GB RAM / 128G SSD+1TB / HDD / Built-in HD WEBCAM,WiFi Bluetooth / Microsoft office",9583.0,Lenovo ThinkPad,4.86,iSimu Laptop expert store,1300.0,539.0
-91,MacBook Air 13-inch M3 8-Core CPU-8-Core GPU-16GB-256GB (Late 2024),64890.0,Apple,5.0,Beyond the Box,28.0,3.0
-94,lenovo Core i7+ Fingerprint Backlight new laptop intel CPU  ram 16GB 512GB SSD cheap notebook 2025 student game this girl design ultra-thin laptop for business office Install windows 11 pro Warranty provided,20425.6,OEM,4.95, Weiwo laptop,380.0,155.0
-95,"(PRELOVED) Toshiba Portege Z30-C  Ultrabook Laptop Windows 11 Pro 6th gen Intel Core i5 cpu 8gb /16gb memory, 256GB / 512GB SSD storage, US keyboard, magnesium body MS Office",8148.0,Toshiba,5.0,KotseParts Online Shop,16.0,5.0
-96,"NingMei NL100P 156"" Laptop Intel 11th Gen / DDR4 16GB / M2 512GB SSD Genuine Windows 11 Slim Laptop Laptop",14699.0,INPLAY,4.98,Inplay Gears,444.0,61.0
-97,"Apple MacBook Air 13"" M1 Chip with 8‑Core CPU and 7‑Core GPU 256GB SSD Storage",43990.0,Apple,4.95,WhiteHaus,1100.0,400.0
-98,Alldocube GTBOOK 14 (2024) 12GB+256GB Laptop,11640.0,Kimstore,4.83,Kimstore PH,249.0,70.0
-99,"HP 250 G9 156""FHD Laptop i3-1215U 8GB/512GB SSD Win11 Dark Ash Silver",23990.0,HP,5.0,GAMEXTREME,16.0,3.0
-100,"Asus 16"" Vivobook Wuxga Laptop Intel I7-1255U 16gb/512gb Win11 Black",38990.0,ASUS,4.92,GAMEXTREME,194.0,60.0
-101,"HP Elitebook 820G3 & 840G3 Laptop / 125"" & 14"" / Intel Core i5 i7 / 16GB RAM / 1TB SSD / Windows11Pro&Includes Office Suite / BrandNew Original",13568.36,HP,4.96,YuMo Advanced Digital Store,105.0,50.0
-102,(Free Gifts)Lsxvern 141 Inch Screen Intel Celeron Z8350/N3350 2G/6G RAM 32/64G/128/256GB SSD ROM Windows Narrow Bezel Keyboard Ultrabook Traditional/Gaming Laptop Office Work[1 Year Warranty],7814.75,FUNXUN,4.79,FUNXUN Store,73.0,29.0
-103,Laptop - HP Chromebook 11 G5 4GB Ram 16GB SSD Chrome OS Playstore free Charger and Laptop Pouch ( Pre-Owned ),2900.0,HP,4.8,JAPAN SURPLUS SUPPLIER,491.0,219.0
-105,ALLDOCUBE GTBook 141 12+256 GB Laptop,12000.0,ALLDOCUBE,5.0,Alldocube Philippines,5.0,1.0
-106,Asus Zenbook 14 OLED 14'' WUXGA Touch Laptop Ultra 5 Intel Evo 8GB/ 512GB SSD Win11 Q415 - Jasper Gray,39995.0,ASUS,5.0,GAMEXTREME,5.0,2.0
-107,BMAX S13A 133 inch Laptop brand new original sale lowest price for Student Windows 10 Notebook 8GB LPDDR4 128/256GB SSD 19201080 IPS Intel N3350 Computer,10999.0,BMAX,4.66,BMAX,352.0,96.0
-108,"HP 15-dy4013dx 156"" Touch-Screen Laptop - Intel Core i5 12GB RAM /256GB SSD [Natural Silver]",26990.0,HP,5.0,GAMEXTREME,212.0,47.0
-110,Lenovo ThinkPad X1 Carbon 2016 laptop Intel Dual-Core i5/i7 6300u/6500u 8GB RAM 256G/512GB/1T SSD 14-inch IPS FHD 1920×1080 Screen Ultra-Thin Built In Camera/WEBCAM Window 11Pro OS Authentic Ms office Work/Game/Online learning Portable business notebook,15380.21,Thinkpad,4.88,iSimu Laptop ,118.0,41.0
-112,Lenovo ThinkPad X270 laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 128G SSD+500G/1T HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,8981.66,Thinkpad,4.93,iSimu Laptop ,212.0,73.0
-113,"HP EXP 250 G9 156"" FHD Laptop i3-1215U 8GB/256GB SSD Win11 Asteroid Silver",22990.0,HP,5.0,GAMEXTREME,30.0,10.0
-114,HP Gaming Laptop Light Wizard 9 generation Intel Core i59300H/i7-9750H NVIDIA Display GTX1650-4G suitable for gaming + design,29259.72,HP,4.98,Tianchuan laptop store,84.0,41.0
-116,MSI Modern 14 C13M Laptop - Intel Core i3 1315U Raptor Lake / 8GB DDR4 RAM / Intel Graphics / 512GB SSD / 14-inch Ultrawide Display / Wifi 6E / Backlit Keyboard / Windows 11 / 2-year Warranty,26995.0,MSI,5.0,MSI Business and Productivity,18.0,7.0
-118,"Lenovo ThinkPad T460s T470s T480s Laptop - Ultra-thin 14""FHD / intel Core i5 i7 / 16GB RAM / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original",15023.36,Lenovo ThinkPad,4.95,YuMo Advanced Digital Store,241.0,112.0
-120,Hot Sale MACHENIKE Light 16Pro 25K 165Hz Screen RTX4060 8GB AMD Ryzen 7 7735H 16G RAM 1T SSD PCIE40 Gaming Laptop 2024 new laptop,66998.0,MACHENIKE,5.0,Machenike Official Store,69.0,26.0
-122,Acer C732 | Intel Celeron N3350 | 32GB Storage | 4GB RAM | Good for Online class and Office use | Preloved,2899.0,Acer,5.0,Funplus Computer Parts,7.0,3.0
-126,Acer C771 | Intel Celeron N3588U | 4GB RAM | Good for Online class and Office use | Preloved,3103.03,Acer,5.0,Funplus Computer Parts,6.0,2.0
-127,DELL laptop gaming laptop computer brand  original laptop pc 8th i7/i5 NVIDIA GTX1060-6G graphics card suitable for online education + work + gaming + large design,22955.71,Dell,4.83,Tianchuan laptop store,92.0,24.0
-128,ASUS Gaming Laptop brand new original AMD Ryzen 7 2700U Windwos 11 RAM16GB+512GB 156 Inches Play Support Fingerprint Unlock Free Computer Bag Mouse,17010.0,OEM,4.6,Tinolfs Gaming Laptop,109.0,26.0
-129,Dell Laptop E6420 Storage Intel Core i3 2nd i5 2nd i7 2nd Processor 15 inches LED Screen Display 8GB RAM 128GB 240GB 480GB  REFURBISHED,7600.0,Xtyle,5.0,XTYLE TECH,2900.0,365.0
-133,"Asus Vivobook 156""FHD Laptop Intel core i5-1135G7 8GB RAM / 256GB SSD Win11 Black [F1500EA-WB51]",26990.0,ASUS,5.0,GAMEXTREME,114.0,24.0
-135,"Acer A15-51P-33C3 Core 3 100U 8GB 512GB SSD 156"" Shared Win11 H&S Grey Laptop | Acer Laptop FREE!!! Laptop Bag and mousepad",31243.0,Acer,5.0,Acer,12.0,2.0
-136,Apple MacBook Air 13-inch M2 8-Core CPU 8-Core GPU 8GB Unified Memory 256GB SSD Storage,59890.0,Apple,4.95,WhiteHaus,221.0,65.0
-137,JSHIX 2023 New Original Laptop Latest Intel Celeron N4000 N5095 J4105 8G/12G/16G RAM 256G/512G SSD 141 156 Inch IPS Full HD Home Office Gaming Student Ultrathin Laptop Desktop Computer,6990.0,OEM,4.43,JSHIX Franchise Store,60.0,28.0
-138,"Asus E410K 14"" FHD Laptop Celeron N4500 4GB/64GB eMMC Win11",9995.0,ASUS,5.0,PC Xtreme by Gamextreme,6.0,2.0
-139,"ASUS 14"" Vivobook Laptop i3-1215U 8GB/128GB SSD Win11 X1404ZA",18995.0,ASUS,5.0,PC Xtreme by Gamextreme,7.0,4.0
-140,Acer Aspire Lite (AL14-51M-57H1) OPI | 140inch IPS | Intel Core i5-1235U | 8GB DDR5 RAM | 512GB SSD | Intel UHD Graphics | WIN11 | PC CENTRAL,32999.0,Acer,5.0,PC Central,6.0,2.0
-142,"Apple MacBook Air 13-inch (M3, 2024)",75990.0,Apple,5.0,Beyond the Box,97.0,35.0
-143,HP EliteBook Laptop Intel Core i7 HD Graphics 4GB  240GB  Camera  WiFi Ready  156 Screen Size REFURBISHED,7500.0,HP,4.0,Logicgate Cristyle Store,5.0,2.0
-145,HP laptop 15-dk0038TX/156in/9Th Gen Intel Core i5 i7/16G 32G RAM/512G SSD 1TB SSD/NVIDIA Display GTX1650-4G suitable for gaming + design/Built in WIFI+Bluetooth+camera,30351.0,HP,5.0,giegie Gaming laptop,13.0,6.0
-146,HP Laptop Elitebook 820/840 G3 Intel Dual/Quad-Core i5/i7 8G/12G/16G RAM 256G/512G/1T SSD 125/14 Inches Screen Built In Camera/Webcam Business Work Windows 11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook,10909.33,HP,5.0,RoWind PC,60.0,26.0
-147,"HP 14"" Laptop AMD Ryzen 3 3250U 4GB/128GB SSD - Natural Silver",16995.0,HP,5.0,Gadget World,7.0,2.0
-149,Dell laptop/dell Inspiron 15 7000 (7557)/156in FHD/4Th Gen Intel Core i7/16G RAM/512G SSD/NVIDIA GeForce GTX 960M-4G/gaming laptop,17991.26,Dell,5.0,giegie Gaming laptop,18.0,14.0
-150,"HP Laptop [Brand New] Elitebook 840 G1 [1 year Warranty] Intel Dual/Quad-Core i5/i7 8G/12G RAM 128G SSD+500GB HDD 14"" Inches Screen Built In Camera/Webcam Business Work Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook",9469.28,HP,4.97,RoWind PC,144.0,67.0
-151,"Dell Chromebook 11 3180 HP Chromebook 116""- Intel Celeron N3060 Dual-core (2 Core) - 4 GB RAM - 16 GB SSD and 128G TF card WINDOWS 10 OS - English (US) Keyboard  used laptop 2k budget mini laptop second hand laptop[PRELOVED]",3000.0,No,4.87,Refurb Zone,1800.0,460.0
-159,"Lenovo IP3-15IAU7 Slim3 (82RK00WKPH) Laptop | Intel Core i3-1215U, 6C (2P + 4E) / 8T, P-core 12 / 44GHz, E-core 09 / 33GHz, 10MB | 8GB Memory | 156"" FHD | 512GB SSD M2 | Integrated Intel UHD Graphics | Windows 11 Home |  Arctic Grey",32394.0,Lenovo,5.0,PC Express,8.0,2.0
-160,LAPTOP ASSORTED BRAND CHROMEBOOK 4GB RAM 16GB SSD + ACCESORIES,3131.0,Dell,5.0,TFIVE,11.0,1.0
-161,"Lenovo IdeaPad 1 14"" HD Laptop Intel Celeron N4020 4GB/128GB eMMC WIn11",13995.0,Lenovo,4.83,GAMEXTREME,409.0,89.0
-162,on sale original [ASUS Factory]2024 new Monsprin Intel Slim Laptop 156 inch Screen Intel N5095/Core i7-1065G7 16GB RAM 512GB SSD Business Netbook Windows 11 Gaming Notebook Computer Tatlong taong lokal na warranty,15519.03,OEM,4.98,MONSPRIN Laptop Computer,316.0,229.0
-163,Lenovo ThinkPad L480 E480/Intel Core i5 i7/14in/16GB RAM+512GB SSD/HD Camera/WiFi/Bluetooth/Lightweight and portable office laptop,22444.83,Lenovo,5.0,16G+Laptop Mall,16.0,13.0
-164,ASUS Factory 2024 New Laptop 14 Inch Low Price Laptop J4025/Intel Core i7-1165G7 - i5- i3 Quad Core Laptops 6GB RAM 256GB SSD Student Notebook Windows 10 Band WiFi 2K FHD IPS Screen,15519.03,OEM,5.0,MONSPRIN Laptop Computer,67.0,50.0
-165,156Inch Intel Celeron N5095 Laptop Original with Fingerprint Unlocking Backlight Windows10 Office IPS  2 Years Warranty,16999.0,OEM,5.0,Laptop Computer,41.0,28.0
-166,HP Laptop | 15 inch | Intel i5 13th Generation| 8GB RAM | 512GB | Windows 11 | AMD | 2 Year Warranty | FREE LAPTOP BAG,37990.0,HP,4.74,HP,111.0,47.0
-167,HP Laptop | 14/15 inch | Ryzen 5 5th/7th Generation | 8GB | 256/512GB | Windows 11 | AMD Radeon Integrated Graphics | 100% Free Shipping | 2 Years Warranty | Free Microsoft Office | Brand New | Original | Low Price,33940.3,HP,4.88,HP,71.0,17.0
-168,"HP Laptop 14"" FHD Dual-core Celeron 4GB RAM 64GB eMMC  Windows 11 Home in S Mode",13395.0,HP,4.91,GAMEXTREME,159.0,46.0
-169,"HP Elitebook 830G5 & 840G5 Laptop / 133"" & 14"" FHD / Intel Core i5 i7 / 16GB RAM / 1TB SSD / Win11 Pro & Includes Office Suite / BrandNew Original",20369.03,HP,5.0,YuMo Advanced Digital Store,86.0,38.0
-170,"Lenovo Flex 5i 14"" FHD Touchscreen 2-in-1 Laptop i5-1235u 8GB/512GB SSD Intel Iris Xe Graphics Storm Grey",34790.0,Lenovo,4.75,GAMEXTREME,12.0,4.0
-172,"HP 13"" Laptop Intel Core i5 8-Gen 8250u /Wifi/ Camera/For basic gaming, work, office use and online education 1-year warranty",19255.17,HP,4.89,Tianchuan laptop store,45.0,27.0
-174,Lenovo 2024 New Matebook 156-inch IPS Full HD Laptop Screen Original Intel Celeron  N5095 Quad Core RAM 16GB 512GB SSD Windows 11 Professional and MS Office,15810.03,OEM,4.91,Chuangyun Technology,439.0,104.0
-175,2024 Lenovo Notebook Intel Core i7 RAM: 16GB/SSD: 1TB 156-inch Game Laptop Fingerprint unlock Windows 11 operating system  New laptop Free Computer Backpack,19981.03,OEM,4.94,Chuangyun Technology,365.0,127.0
-176,Nextfun 2in 1 laptop and tablet 12G DDR4 writing notebook windows tablet pc 1TB SSD mini laptop official store,11700.0,nextfun,5.0,nextFun Brand ,37.0,23.0
-177,"Lenovo ThinkPad T460s/T470s/T480s Laptop/Intel Quad/Dual-core i5/i7 Ultra-thin 14""FHD IPS/DDR4 8G/12G/16G/20G RAM/256G/512G/1T SSD BrandNew Original/Windows11Pro/Ms office/HDCamera/WiFi/Bluetooth/Business Word Notebook Computer",14410.19,Lenovo ThinkPad,4.74,RoWind PC,53.0,31.0
-178,Lenovo ThinkPad T480s/Intel Core i7/20G RAM/1TB SSD/integrated graphics/HDMI+WIFI+HD Camera,19187.57,Lenovo ThinkPad,4.93,Focusing on IT laptop,359.0,235.0
-180,HUWEI MateBook laptop official store ph 156 Inch 16GB Laptop 512GB SSD Windows 10/11 Notebook Intel Celeron N5095 Office Computer Backlit with Fingerprint WiFI Camera BT,18429.03,OEM,5.0,MONSPRIN Laptop Computer,107.0,57.0
-181,Lenovo Legion Gaming Laptop i7/i5 10th Gen NVIDIA RTX3050/GTX1650 Graphics Card /Can run large games laptop,32172.0,Lenovo,5.0,AnFi,32.0,6.0
-187,Lenovo Laptop 2022 IdeaPad 1 14 HD Intel Core i3-1215U 4GB RAM 128GB SSD Win11 [CLoud Grey],19495.0,Lenovo,5.0,GAMEXTREME,73.0,19.0
-188,"AFFORDABLE LAPTOP Core i7, i5 , i3 / 8GB RAM / SSD or HDD / Built-in WiFi & Camera - Best for student or work use | with Freebies",7790.0,HP,3.0,OPENPINOY - The Legit MAR PC Store,6.0,2.0
-189,"ASUS Factory Dual Screen Laptop Intel N5095 12TH Gen Processor 156"" Dual Screen 7"" Touch Screen Business Notebook",22309.03,OEM,5.0,Laptop Computer,35.0,13.0
-190,"FUNXUN Windows 11 AcoBook X7 Pro Laptop 156"" 1920x1080 FHD IPS Display 12GB/16GB DDR4 128GB/2562GB/512GB/1T SSD Intel Celeron N5095(Turbo up to 29 GHz) Full Backlit Keyboard Fingerprint Reader 24/5G WIFI, BT",10726.26,FUNXUN,3.89,FUNXUN Store,14.0,9.0
-191,Lenovo ThinkPad Yoga 370 /X380 2-in-1 laptop original Tablet computer Intel Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Backlit keyboard Windows11 Pro Ms office Online Class WiFi/Bluetooth/Notebook/Business,18101.63,Thinkpad,4.79,RoWind PC,59.0,33.0
-192,ThinkPad A285/AMD Ryzen 5 Pro 2500U/Four Core/Eight Thread/125in FHD/DDR4 2400MHz 16GB RAM/512GB SSD/AMD Radeon RX Vega 8,20907.38,Lenovo ThinkPad,4.95,16G+Laptop Mall,60.0,43.0
-193,"ASUS Factory Laptop Dual Screen Laptop 156"" IPS+7"" Touch Screen 16G DDR4 2TB SSD Intel 11th Gen N5095 Windows11 Notebook Computer",23279.03,OEM,4.91,MONSPRIN Laptop Computer,49.0,43.0
-196,ASUS Factory 2024 New MONSPRIN original for laptop office use 156-inch CPU Celeron N5095/Core i5/i7 16GB RAM 512GB SSD ROM with full-size keyboard 19201080 screen laptop window 10 suitable for students murah,16693.01,OEM,5.0,MONSPRIN Laptop Computer,151.0,107.0
-198,"EONE 156"" Laptop Intel Celeron N5095 16GB 512G Full HD IPS Office Gaming Computer Brand New Original PC Solar",16040.0,Eone,5.0,EONE OFFICAL STORE,113.0,41.0
-200,"Acer Aspire Go 15 156"" FHD Slim Laptop i3-N305 8GB/128GB UFS AG15-31P-3947 Windows 11 - Pure Silver",19995.0,Acer,5.0,Gadget World,64.0,11.0
-202,（Brand new）Lenovo Thinkpad L570 Laptop office gaming computer 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,21599.0,Lenovo ThinkPad,5.0,RaytekConsumerGoodstrading,1900.0,93.0
-204,"Acer A315-44P-R9LQ Ryzen 7-5700u 16GB 512GB SSD 156"" Shared Win11 H&S Silver/ 156"" display with IPS/ AMD Radeon Graphics/ Win 11 Home with Microsoft Office for Home and Student 2021",39875.0,Acer,5.0,Acer,69.0,27.0
-205,Dell Latitude E6430 Laptop Intel i5/i7 3th Gen Processor 16GB RAM 480GB SSD 14/inch Screen office game dual-purpose laptop,9999.0,Dell,5.0,EXRAM.ph,12.0,2.0
-206,Dell laptop/dell Inspiron 3543/156in/5Th Gen Intel Core i5/8G RAM/512G SSD/NVIDIA GeForce820M-2G/gaming laptop,13717.44,Dell,5.0,giegie Gaming laptop,14.0,11.0
-208,dell laptop E7450/14 inches/5Th Gen Intel Core i7/16GB memory/256GB 512GB 1TB SSD/laptop brand new original/Built in WiFi camera,16568.57,Dell,4.96,A Bear Laptop store,1200.0,813.0
-209,ASUS laptop brand new original Ryzen 7 2700U Game Laptop 156-inch FHD 120Hz RAM12/16GB SSD 256GB/512GB Windows 11 System Business Game Laptop,17100.0,OEM,4.86,Zoeyol Laptop,135.0,42.0
-210,Dell laptop  i5 -8265/Ryzen R5-3500 156 inches /1080P/ Camera /wifi/ Suitable for online education/office/gaming,19236.74,Dell,4.91,Tianchuan laptop store,48.0,22.0
-215,Dell Inspiron 3520 Laptop 156 Inch FHD | 12th Gen Intel Core i5 | 8GB + 512GB | Intel UHD Graphics | Windows 11 Home | 2yrs Warranty | FREE 12months McAfee and BAG,38990.0,Dell,5.0,Dell,10.0,2.0
-220,TOSHIBA Laptop R634 Ultrathin work study intel Core i5 6th Gen Processore 133 inches 4G 8G 16G ddr3 RAM 250g 320g 500g HDD 128g ssd Good for Study Business REFURBISHED,7671.25,Xtyle,5.0,XTYLE TECH,5.0,2.0
-221,101inch Netbook Lightweight Portable Laptop ACTIONS S500 15GHz ARM Cortex-A9/Android 51/1G+8G/1024x600,6994.28,Netac,5.0,Data Mall,8.0,1.0
-222,"Infinix INbook X2 Plus, Core i3, 8GB + 256GB Laptop",25999.0,Infinix,5.0,Infinix,23.0,3.0
-224,Dell Latitude E7490/8Th Gen processor/141in/16GB RAM+1TB SSD,20982.07,Dell,4.89,16G+Laptop Mall,11.0,9.0
-225,"HP Envy x360 2n1 14""FHD Touchscreen Laptop intel i5-1335U 8GB/512GB SSD Win 11 SIlver 14-0013dx",37990.0,HP,5.0,GAMEXTREME,31.0,12.0
-226,Alldocube GTBook 14 (2024) 12GB+256GB Laptop,11640.0,ALLDOCUBE,5.0,Technopop PH,38.0,10.0
-228,Nextfun Intel UHD Graphics Laptop 156-inch IPS A standard screen with fingerprint unlock,14980.68,nextfun,4.99,nextFun Brand ,136.0,92.0
-230,VOVOVA 156inch Laptop Intel Core i7 - i5- i3 | 16GB / 8GB / 4GB Memory | 512G / 256G / 128G SSD  new original Laptop,15793.0,VOVOVA,4.81,VOVOVA OFFICAL STORE,3400.0,57.0
-232,Dell Laptop | Latitude E7450 | Intel® Core™i5 i7 | 16GB +1TB SSD | integrated graphics | 14 inches | laptop brand new original,16104.91,Dell,4.98,Game Computer Mall,665.0,600.0
-234,"Asus E410K 14"" FHD Laptop Celeron N4500 4GB/64GB eMMC Windows 11",9995.0,ASUS,5.0,Gadget World,9.0,2.0
-236,Lenovo Factory OEM Laptop for Office Use New Original Intel Laptop 156-inch N5095 16GB RAM 512GB SSDWindows 11 Game Notebook Gamer PC Fingerprint Unlock Free Computer Bag,17460.0,OEM,5.0, Weiwo laptop,227.0,59.0
-237,"Acer Aspire Lite AL14-31P-C6PU 14"" Full HD | Intel N100 | 8GB DDR5 RAM | 512GB SSD | UHD Windows 11 Laptop",23890.0,Acer,5.0,Allworld Communications,37.0,11.0
-238,Lenovo OEM 2024 laptop brand new original AMD Ryzen R7 student RAM 20GB 512GB SSD legion 5 online class game Windows 10/11 NotebooK With Fingerprint Backlit BT 5G-WiFi Install genuine Microsoft Office,22309.03,OEM,5.0,MONSPRIN Laptop Computer,334.0,233.0
-239,laptop Gaming Laptops  TUF 11Th i7-11600H unique RTX3050 RGB keyboard  can play CF/LOL/PUBGM esports game 3D design video clip,40188.74,OEM,5.0,Tianchuan laptop store,51.0,28.0
-243,Dell Chromebook 11 3180  UPGRADED TO WINDOWS 10 WITH 3 Months Warranty REFURBISHED LAPTOP,2999.0,Dell,4.85,YouNiqueLovebyLeizel,392.0,165.0
-244,MSI Modern 14 C7M - AMD Ryzen 7000 Series Processor / 16GB DDR4 RAM / AMD RX Vega Graphics / 512GB SSD / 14 inch 1080p IPS Level Display / Wifi 6E / Full Size Backlit Keyboard / Windows 11,35495.0,MSI,5.0,MSI Business and Productivity,50.0,16.0
-245,"HP Laptop [Brand New] Elitebook 820 G1/840G1 [1 year Warranty] Intel Dual/Quad-Core i5/i7 8G/12G RAM 128G SSD+500GB HDD 125"" Inches Screen Built In Camera/Webcam Business Work Windows 11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook",8209.88,HP,4.93,RoWind PC,919.0,427.0
-246,DELL Chromebook Laptop 3100 4GB RAM 16GB 128GB SSD Online Learning Office Work Laptops Refurbished,3399.0,Dell,4.73,INFOCRAFT,2400.0,156.0
-247,Toshiba  Laptop I5 5200U  16G RAM 16GB 128GB SSD 1-Year warranty Home Office Laptops,5778.0,Toshiba,5.0,XTYLE TECH,107.0,7.0
-249,"Lenovo Ultrabook L430 T430 L450 8GB 16GB memory options 14inch Windows 10 Intel Core i5 cpu 120gb SSD 4GB 8GB options 14inch Windows 10 ""[PRELOVED]""",6319.0,Thinkpad,4.39,BYTE Q IT,92.0,38.0
-251,ASUS Zenbook 14 OLED 14'' WUXGA Touch Laptop Ultra 7 155H 16GB/1TB SSD Q425 - Jasper Gray,54995.0,ASUS,5.0,GAMEXTREME,8.0,5.0
-253,DELL Laptop E5470 Intel Quad-core i5 6200U With 4G/8G/16G DDR4 MEMORY Built-in Intel HD Graphics 520 Hard disk 60G 120G 240G 480G 512G SSD for Office Gaming Study refurbished,8969.0,ProVision,4.06,iJUNE PC,32.0,16.0
-254,"Assorted Used Notebook Laptop & Chromebook Laptop | Free Laptop Bag, Mouse, Mousepad & Charger | For Business, Work from Home, Online Class |Preloved",2999.0,Assorted brand,4.69,Ttrend IT Solution,649.0,251.0
-255,ASUS  Factory 2024 New Laptop 156-inch Screen Laptop Game Laptop AMD Ryzen R5 RAM 16GB+512GB SSD Professional Edition Windows 10 Pro Backlit Keyboard Support Fingerprint Unlock New Laptop 1-Year Warranty,19115.19,OEM,5.0,Zoeyol Laptop,10.0,0.0
-256,Dell laptop/dell G3/156in FHD/8Th Gen Intel Core i7/16G RAM/256G SSD+1TB HDD/NVIDIA GTX1060-6G/gaming laptop,25046.07,Dell,5.0,giegie Gaming laptop,21.0,14.0
-257,141 in/8Th Gen core i7-8650U/DDR4 32GB Memory/512GB SSD/laptop brand new original/HD camera can be connected to 5G WiFi/Compatible Windows 11+Office 2016,23849.28,HP,5.0,CN Laptop Mall,27.0,14.0
-258,Nextfun 2-in-1 Laptop 4GB+ 128GB 101 Inch tablet HD Screen Office Study Laptop windows tablet pc,5999.0,nextfun,4.96,aedtfghsrytj,167.0,113.0
-259,Lenovo ThinkPad X270 laptop Intel Quad/Dual-Core i3/i5 6th or 7th gen 8GB RAM 128GB/240GB/256GB SSD Ultra-thin 125/INCH mobile office computer Business notebook computer,9499.0,Lenovo,4.53,EXRAM.ph,39.0,19.0
-261,Acer Nitro V (ANV15-41-R2M0)  | AMD Ryzen 5-7535HS  | 8GB DDR5 | 512gb SSD | NVIDIA RTX 2050 4GB | WINDOWS 11 HOME (PC Central),40999.0,Acer,5.0,PC Central,9.0,4.0
-262,2 in 1 Laptop Windows 10 Business Laptop Microsoft Office Tablet PC 2023 Touch Screen 101 Inch Windows 10 System Laptop,4530.0,nextfun,4.85,geyakeji,165.0,88.0
-264,Lenovo Ideapad 3 156'' Laptop 11th Gen Core i5 12gb/256gb Arctic Grey,33895.0,Lenovo,5.0,GAMEXTREME,14.0,2.0
-265,Nextfun laptop Full touch screen laptop HD IPS screen Windows tablet Intel Celeron CPU Windows11 laptop 16G RAM DDR4,13999.0,nextfun,4.91,nextFun Brand ,52.0,44.0
-266,Dell Latitude E5570 E5580/6Th Gen、7Th Gen  processor/Dual Core Four Thread/156in/16GB RAM+1TB SSD/Built in numeric keypad,17410.53,Dell,5.0,16G+Laptop Mall,35.0,18.0
-267,"Nextfun notebook computer suitable for business and home use, with Windows 10, online course learning WiFi/Bluetooth",4836.0,nextfun,4.64,nextFun Brand ,16.0,11.0
-268,"Lenovo Ultrabook T480 T470 T460 T440S  L430 I5 I7 Windows 10 "" "" 8GB 16GB memory 14inch Windows 10 Intel Core i7 cpu  With 128g ssd 256g ssd  [REFURBISHED] 512g ssd",6498.03,Thinkpad,4.63,Refurb Zone,1700.0,215.0
-269,"Lenovo Ideapad Slim 3 15IAH8 (83ER00HEPH) | Intel Core i5-12450H | 156"" 1920x1080 | 16GB DDR5 RAM | 512GB NVMe SSD | Win 11 (PC CENTRAL)",34999.0,Lenovo,5.0,PC Central,155.0,51.0
-271,DHP Brandnew Laptop 156in IPS High Resolution Screen 1080P/ Small Digital Keypad/Built in Camera /Core i7 Processor quad-core /21GHz ~ 27GHz/8GB RAM /128GB SSD/ Thin + very light,17265.0,ProVision,4.94,iJUNE PC,315.0,205.0
-272,"Lenovo Legion 5 Series R7000P 2023/2024 Brand New Gaming Laptop Series 156"" 165Hz 16GB RAM 512GB SSD",75600.0,Lenovo,5.0,ZZMTRADING,146.0,71.0
-273,DELL Laptop E5470 Intel Quad-core i5 6200U With 4G/8G/16G DDR4 MEMORY Built-in Intel HD Graphics 520 Hard disk 60G 120G 240G 480G 512G SSD for Online Office refurbished,8185.83,Xtyle,5.0,XTYLE TECH,222.0,75.0
-274,Brand New Lenovo ThinkPad YogaX380/8TH YOGA370/7TH laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth,23280.0,Lenovo ThinkPad,4.96,CM Super Laptop,518.0,227.0
-279,Lenovo ThinkPad L540 Laptop | 156-inch Screen | Intel Core i7/i5 | 8GB/16GB RAM | 256GB SSD |  WiFi Bluetooth | Microsoft Office 2021 | Windows 11 Pro | Business Notebook Computer,6693.0,Lenovo,5.0,KotseParts Online Shop,24.0,6.0
-280,laptop brand new original /Lenovo ThinkPad L480 E480/Intel Corei5 i7/14in/16GB RAM+512GB SSD/BrandNew Original Laptop/HD Camera/WiFi/Bluetooth,22444.83,Lenovo,5.0,IT-Laptop Mall,43.0,31.0
-283,"Acer AL14-51M-57H1 i5-1235U 8GB 512GB SSD 14"" Shared Win11 H&S Silver | With Laptop Bag and Mousepad",32639.0,Acer,5.0,Acer,39.0,13.0
-284,Lenovo ThinkPad X240 Laptop Intel Dual-Core i5 4th gen 8GB RAM 256GB SSD Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth  Portable Business Notebook Computer Ultra-thin 125 inch Screen,7999.0,Lenovo,5.0,EXRAM.ph,20.0,3.0
-285,BEEX 156 Inch laptop Intel Celeron J4105 8G RAM 512G SSD 1080P IPS Screen computer laptop 5G WiFi Windows 11 Pro,7799.0,OEM,4.81,BEEX Franchise Store,162.0,80.0
-286,"Asus Chromebook 116"" HD Laptop Celeron N4020 4GB/32GB eMMC C204MA-YB02-GR - Dark Gray",7995.0,ASUS,5.0,Gadget World,38.0,10.0
-287,TGPC / Laptop / Lenovo ThinkPad T480 / Intel Core i5 - 8th Gen / 8 GB RAM 256 GB SSD / PRELOVED,10999.0,Lenovo ThinkPad,4.86,TGPC Computer,11.0,7.0
-288,"Lenovo ThinkPad X380Yoga X390Yoga - Versatile 2-in-1 / 133""FHD 360° / Intel Core i5 i7 / 16G RAM DDR4 / 512GB 1TB SSD /  Windows11Pro&office / BrandNew Original Laptop",23862.0,Lenovo ThinkPad,5.0,YuMo Advanced Digital Store,25.0,14.0
-290,Lenovo Laptop ThinkPad X260 Intel Core i5 6200U Quad-Core HD520 Graphics 4G/8G/16G/32G DDR4 RAM 128G/256G/512G/1TB SSD Office Study Business Notebook,11113.0,Lenovo,5.0,BYTE Q IT,37.0,17.0
-293,Lenovo Thinkpad L570 Laptop office gaming computer 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen  8GB RAM  128GB/256GB SSD gaming/Office / online courses compute Laptop,9299.0,Lenovo,4.85,EXRAM.ph,25.0,13.0
-294,"Lenovo IdeaPad 1 15AMN7 (82VG00R1PH) | AMD Ryzen 5 7520U | 156"" 1920x1080 | 8GB DDR5 RAM | 512GB SSD | WIN11 HOME (PC CENTRAL)",30999.0,Lenovo,5.0,PC Central,7.0,2.0
-296,Lenovo Touch Laptop | Lenovo ThinkPad X390 YOGA | Intel® Core™ i7 | 16GB 512GB SSD | integrated graphics | 133 inches FHD | laptop brand new original,23991.98,Lenovo ThinkPad,4.93,Game Computer Mall,79.0,37.0
-299,Lenovo ThinkPad YOGA X390 X380 X370/2-in-1s/Intel Core i7/133in FHD/16GB RAM+256GB SSD/BrandNew Original Laptop/HD Camera/WiFi/Bluetooth,23991.98,Lenovo ThinkPad,5.0,16G+Laptop Mall,5.0,3.0
-301,HP Notebook 15s office gaming Laptop 12th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop 1 yr warranty,42399.0,HP,5.0,RayDigital,1600.0,81.0
-305,ACER NITRO V ANV15-51-519K NVIDIA® GeForce® RTX™2050 Graphics | Intel Core i5-13420H Processor | 156 inch Full HD 144Hz IPS Display | 8GB DDR5 Memory | 512GB M2 SSD Storage | WIN 11 Home | Office Home & Student 2021 | Gaming Laptop,52999.0,Acer,5.0,NVIDIA GEFORCE,25.0,7.0
-306,〔Brand new〕 ASUS Laptop Intel Core 11th Generation i7 Laptop Lightweight Portable Laptop RAM 16GB+512GB SSD 156-inch HD Screen Win11 System Keyboard Fingerprint Office Business Student Portable Gamebook,18804.71,OEM,5.0,Zoeyol Laptop,6.0,3.0
-308,"Dell Inspiron 3530 Laptop Intel® i3 | i5 | i7 13th Gen / 3535 AMD Ryzen 5 / 3530 i5 8GB RAM | 156"" FHD Screen 120hz | Windows 11 Home | Microsoft Home & Student 2021 | 1 year McAfee Antivirus | FREE BAG | 2yrs Warranty",43990.0,Dell,5.0,Dell,25.0,12.0
-310,Lenovo Laptop | Lenovo ThinkPad T460P T470P | Intel® Core™ i7-7820HQ | 16GB +512GB SSD | NVIDIA GeForce 940MX 2G | 14 inches FHD | laptop brand new original,26131.8,Lenovo ThinkPad,4.97,Game Computer Mall,713.0,555.0
-312,HP Laptop Probook 640 G1 Business Intel Core i5 4th Gen With 16G 8G 4GB Ram 512G 240G 120GB SSD[REFURBISHED],8999.0,HP,4.99,Refurb Zone,2100.0,484.0
-315,DELL Laptop E6540 E6520 Office Games I7 4th I7 2nd i5 2nd Gen 16G DDR3 1600MHZ Memory 120g 240g 480g SSD REFURBISHED,10199.55,Xtyle,4.95,XTYLE TECH,263.0,39.0
-316,ASUS Gaming Laptop Original brand new Intel 12th Generation Core i7 Gamebook 156-inch Laptop DDR4 16GB RAM SSD 512GB Windows 11Backlit Keyboard Gamebook Laptop College Student Computer,17010.0,OEM,4.95,Zoeyol Laptop,124.0,42.0
-317,ASUS Factory 2024 brand New Products 156'' Laptop 11th intel  Core i7 6560U RAM 16GB DDR4 512GB SSD Ultrabook Gaming Notebook Windows 11 Play Games/ Design/ Picture Rendering,20747.33,OEM,5.0, Weiwo laptop,143.0,15.0
-318,HP Elite X2 1012 G1 laptop 2-in-1 Tablet computer Intel Core M M5/M7 6Y54/6y75 4G/8G RAM 256G/512G/1T SSD FHD UWVA eDP IPS 1920×1080 123' touch screen 1080P,16855.83,HP,5.0,TechFox Digital Future,5.0,3.0
-322,Lenovo Thinkpad L590 Laptop office gaming computer 8th Gen Intel i5 8265U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,25399.0,Lenovo ThinkPad,5.0,RaytekConsumerGoodstrading,452.0,30.0
-323,"HP Laptop 8470p EliteBook 16GB memory options "" "" 14inch Windows 10 Intel Core i5 cpu 120gb SSD 4GB 8GB ""[PRELOVED]""",6599.0,HP,4.95,Refurb Zone,604.0,438.0
-326,Nextfun tablet 2-in-1 wind11 system IPS HD screen 101-inch online class business office laptop 5G WiFi,13140.0,nextfun,5.0,nextFun Brand ,5.0,2.0
-329,"Machenike L16A Ryzen 7 7735H 16gb ram 512 SSD 16"" QHD",40000.0,MACHENIKE,5.0,Laptop Factory Official,6.0,2.0
-330,Lenovo 100e Chromebook 82CD0000US | AMD A4-9120C | 4GB Soldered DDR4-1866 | 32GB eMMC 51 | Stereo speakers |Integrated 47Wh Battery,15675.0,Lenovo,4.81,Lenovo,201.0,64.0
-331,"MONSPRIN 156 Inch Intel N5095/N95/i7-1065G7 Laptop Work and Study 8GB 16GB LPDDR4 RAM,256GB/512GB SSD Computer Windows 11 Notebook Silver laptop sale lowest price",19990.0,MONSPRIN,5.0,MONSPRIN Laptop Computer,10.0,7.0
-332,Nextfun Ultra AI Notebook Portable Business Office Thin and Light Notebook AI Face Recognition,17160.0,nextfun,5.0,nextFun Brand ,11.0,10.0
-333,"Lenovo ThinkPad X1 Tablet Intel Core i5-8650U 13"" Touchscreen LCD Preloved",18999.0,Gigaware,4.83,Gigaware,7.0,6.0
-334,Dell Latitude E7490 | Intel® Core™i7 8Th gen | 16G RAM | 512GB SSD 1TB SSD |  Intel GMA UHD 620 | 14 inches  | laptop brand new original,20982.07,Dell,5.0,Office Computer Store,69.0,48.0
-335,"MSI Thin 15 B13UC-2438PH Intel Core i7 13620H RTX 3050 4GB GDDR6 156"" Gaming Laptop",52999.0,MSI,5.0,MSI Gaming Store,5.0,1.0
-336,Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,24999.0,Lenovo ThinkPad,5.0,RaytekConsumerGoodstrading,769.0,49.0
-340,Asus Vivobook Go 15 E1504FA-NJ389W Full HD Ryzen 3 7320U 8GB 512GB SSD Radeon Windows 11 Laptop,26900.0,ASUS,5.0,JW Summit,11.0,4.0
-341,Nextfun Windows 11 System 2-in-1 Tablet PC 16G RAM +256GB SSD Office Gaming 5G WiFi Laptop 101 Inch,11800.0,nextfun,4.91,aedtfghsrytj,52.0,45.0
-342,Lenovo ThinkPad X270 laptop Intel Quad/Dual-Core i7/i5 8G/16G RAM 128G SSD+500G/1T HDD Built In Camera/WEBCAM Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,9082.98,Thinkpad,4.83,RoWind PC,82.0,42.0
-343,〔Brand new〕Lenovo Factory new gaming laptop Intel Core i7 10510u  Laptop 156-inch HD screen RAM 16GB SSD 512GB Windows 11 Support fingerprint unlock Learn Business Office Play Large games Laptop warranty 3 years Send backpack mouse,17077.5,OEM,5.0,Zoeyol Laptop,29.0,14.0
-344,laptop brand new original / HP Elitebook 840G2 820G2/5Th Gen processor i5/Dual Core Four Thread/141in 125in/16GB RAM+1TB SSD,17718.02,HP,4.98,IT-Laptop Mall,50.0,39.0
-345,Lenovo ThinkPad X260 laptop Intel Core i5 8GB RAM 256GB SSD Built In Camera/WEBCAM Business Ms office windows  PRO Ultra-thin 125/inch Screen class/learning Business notebook computer,9599.0,Lenovo,5.0,EXRAM.ph,5.0,1.0
-346,ASUS 156 Inches Vivobook Laptop Intel Core i7/i5 11th Gen Mini  Ultrabook Lightweight and Portable Laptop,24815.0,ASUS,4.89,AnFi,57.0,9.0
-347,Nextfun Tablet 2-in-1 Microsoft Office Laptop Full Touch IPS HD screen 8G RAM DDR4 512GB SSD,11700.0,nextfun,5.0,aedtfghsrytj,13.0,9.0
-351,HP Laptop Brand New Original Elitebook 820 G1/840 G1 Intel Quad/Dual-Core i7/i5 8/12/16GB RAM 128G SSD+500G/1T HDD 125/146 Inches Screen Built In Camera/Webcam Business  Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook computer,8600.0,HP,5.0,M.C.ISLAND ONLINE SHOP,14.0,4.0
-352,Nextfun 2in1windows 101 inch 8GB RAM+512GB SSD shipped from Manila Touchscreen HD 1920x1200 for Laptop/PC,12420.0,nextfun,5.0,nextFun Brand ,26.0,22.0
-355,MSI GAMING Thin 15 B13VE-1831PH | 156inch FHD IPS 144Hz | Intel Core i5-13420H | 8GB RAM | 512GB SSD | RTX 4050 6GB | WIN11| PC CENTRAL,48999.0,MSI,5.0,PC Central,6.0,4.0
-357,Lenovo Thinkpad L580 Laptop 8th Gen Intel i7 8550U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,26899.0,Lenovo ThinkPad,5.0,RaytekConsumerGoodstrading,576.0,37.0
-359,"LPO Lenovo Laptop Lenovo Thinkpad T490S, Thinkpad E590, ThinkPad E14, Ideapad 3 Touchscreen, Ideapad Slim 3 81WD, Thinkpad T14 Gen 2",21948.0,LPO,5.0,LPO,15.0,7.0
-360,MSI Thin A15 (B7UCX -084PH) Gaming Laptop | AMD Ryzen 5 7535HS (6 cores) | RTX 2050 4GB | 512GB SSD | 8GB RAM DDR5 | WIN 11 Home (PC CENTRAL),39999.0,MSI,5.0,PC Central,60.0,25.0
-362,HP Pavilion x360 Laptop 14 inch | Intel Core i3 12th/13th Gen | 8GB | 512GB | Windows 11 | Intel UHD/Iris Xe Graphics | Space Blue | 100% Free Shipping | 2 Years Warranty | FREE MS OFFICE & LAPTOP BAG,43325.0,HP,4.75,HP,11.0,4.0
-367,HP Victus 15 (15-FA1323TX) Gaming Laptop 156-in FHD IPS 144Hz / Intel Core i5-12450H / 16GB / 512GB SSD / RTX 4050 / Windows 11 (PC CENTRAL),52999.0,HP,5.0,PC Central,12.0,3.0
-374,Brandnew Dhp laptop Intel Core i7 4th 156 inch Ultra-light-weight Ultrathin 16GMemory 120G 240G 480G SSD for Gaming PUBG LOL CF Office Study Home Entertainment,16869.0,DHP,5.0,Refurb Zone,1700.0,427.0
-376,Dell Latitude E7470 Laptop Intel Core i5/i7 14 Inch Student Working Netbook Mini Laptop Computer,13186.0,Dell,5.0,AnFi,40.0,26.0
-382,"Refurbished Toshiba Satellite Tecra 156 inch Laptop 8GB memory 256GB or 128GB SSD Intel Core i5 8th Gen, 7th Gen or 6th Gen",8322.6,Toshiba,4.64,KotseParts Online Shop,24.0,10.0
-386,Nextfun tablet 8GB DDR4+512GB SSD 2-in-1 thin and light laptop with full touch screen and easy to carry,12999.0,nextfun,4.97,nextFun Brand ,120.0,72.0
-394,Pink laptop brand new original Intel N5095 RAM 16GB 512GB SSD High-end Official Genuine Laptop Free Lenovo gaming mouse with your order loptops on sale original,19999.0,MONSPRIN,5.0,MONSPRIN Laptop Computer,13.0,6.0
-397,DELL Chromebook Laptops 3100 N4000 4GB RAM 16GB 128GB SSD 1-Year warranty Home Office Laptops,3338.8,Dell,4.79,XTYLE TECH,1400.0,58.0
-398,"Lenovo  Laptop  141'' Intel core i5  RAM 8+128GB SSD HD thin and light+Win11+MS Office+2-year warranty, cash on delivery",12072.21,OEM,4.93,SPEED Technology,208.0,45.0
-399,ASUS Intel Core i7 Laptop Windows 11 156 Inch IPS Screen RAM 12/16GB SSD 128/256/512GB High Performance Professional Gaming Laptop Fingerprint Portable Notebook One Year Warranty,19206.0,OEM,4.67,Tinolfs Gaming Laptop,36.0,9.0
-404,"Infinix INbook Y3 Max, Core i5, 8GB + 512GB Laptop",30999.0,Infinix,5.0,Infinix,5.0,1.0
-408,Lenovo Laptop T450s business ThinkPad WEBCAM Quad-Core i5 / i7 8G Intel Dual 12G RAM 128G SSD 500GB 1T HDD ROM 14-inch Screen Ms office Windows 10 Pro Operating system WiFi Bluetooth,13711.92,Lenovo ThinkPad,4.52,iSimu Laptop expert store,69.0,21.0
-413,HP Victus 15 (15-FB1041AX) Gaming Laptop 156-in FHD IPS 144Hz / Ryzen 5 7535HS / 8GB / 512GB SSD / RTX 2050 / Windows 11 (PC CENTRAL),44999.0,HP,4.98,PC Central,198.0,64.0
-416,"MONSPRIN Brand New Lenovo factory ThinkPad 156"" Inch Laptop intel N5095 / i7 Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth",17999.0,MONSPRIN,5.0,MONSPRIN Laptop Computer,9.0,6.0
-419,〔Brand new〕Lenovo Thinkpad L570 Laptop office gaming Laptop 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,20799.0,ZORO,4.97,Zorotech,1500.0,70.0
-420,Apple MacBook Air 15-inch (M3),74690.0,Apple,5.0,Apple Flagship Store,11.0,3.0
-425,Xiaomi RedmiBook 15 Core i5 Laptop | 8GB + 512GB,28199.0,Xiaomi,5.0,MiAuthorizedStore,58.0,12.0
-432,Original Lenovo Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,24799.0,Lenovo ThinkPad,5.0,Zorotech,704.0,49.0
-433,Lenovo ThinkPad T480S T470s Laptop [Brand New] Legit Intel Dual/Quad-Core i5/i7 8G/12G DDR4 RAM 256G/512G/1T SSD ROM 14-inch FHD 19201080 Screen Authentic Sealed Built-in WEBCAM/Camera Ms office 365 Windows 11 Pro Operating system Business notebook,17460.0,Lenovo ThinkPad,4.94,CM Super Laptop,151.0,65.0
-439,"Acer recommend MONSPRIN AMD Ryzen 7 4700U 16GB 512GB SSD 156"" Integrated W11 H&S Silver / 156"" display with IPS/ AMD Radeon Graphics/ Win 11 Home with Microsoft Office for Home and Student",27159.03,MONSPRIN,5.0,MONSPRIN Laptop Computer,17.0,11.0
-452,"MSI Cyborg 15 A12VF-811PH Intel Core i7-12650H RTX 4060 8GB 156"" FHD 144Hz IPS Gaming Laptop",67499.0,MSI,5.0,MSI Gaming Store,8.0,1.0
-453,Acer Predator Helios 16 (PH16-72-94UE) Gaming Laptop | 240Hz WQXGA IPS Panel | Intel Core i9-14900HX  | RTX 4070 8GB | 16GB DDR5 RAM | 512GB SSD (PC Central),105999.0,Acer,4.92,PC Central,27.0,13.0
-469,〔Brand new〕HP Notebook 15s office gaming Laptop 10th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop 1 yr warranty,42599.0,ZORO,5.0,Zorotech,922.0,110.0
-470,Apple 13-inch Macbook Air,64990.0,Apple,5.0,Switch Philippines,78.0,23.0
-471,Apple MacBook Pro 14-inch M3 8CPU 10GPU 8GB (Late 2023),85990.0,Apple,5.0,Beyond the Box,19.0,1.0
-472,"Acer Predator Helios PHN16-71-55V5 i5-13500HX 16GB 512GB SSD 16"" RTX4060 8GB W11 H&S Laptop | Acer Laptop FREE!!! Laptop Bag, Mouse pad and Gaming Chair",80844.0,Acer,5.0,Acer,17.0,5.0
-476,"Lenovo LOQ 83DV00E8PH Gaming Laptop | Intel core i5-13450HX | NVIDIA RTX 4050 6GB | 156"" FHD 144Hz, | 8GB DDR5 RAM | 512GB SSD | WIN 11 (PC CENTRAL)",56999.0,Lenovo,4.94,PC Central,43.0,17.0
-481,"ASUS TUF Gaming FX507ZC4-HN081W | INTEL CORE i5 12500H | 8GB DDR4 512SSD | 4GB RTX3050 | 156"" FHD 144Hz | Windows 11 | Laptop Gaming | AutoCAD | Design | Performance | Work From Home | Online Class",51999.0,ASUS Republic of Gamers,5.0,ROG,9.0,3.0
-496,Acer Aspire 7 A715-76G-5188 NVIDIA® GeForce® RTX™2050 4GB GDRR6 Graphics | Intel Core I5-12450H Processor | 8GB DDR4 Memory | 512GB PCIE NVME SSD Storage | 156 Inch Full HD IPS 144HZ Display | WIN 11 HOME | Office Home & Student 2021 | Gaming Laptop,55999.0,Acer,5.0,NVIDIA GEFORCE,14.0,3.0
-497,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,41699.0,Lenovo,5.0,RaytekConsumerGoodstrading,359.0,46.0
-499,Apple MacBook Air 13-inch M3 (Late 2024),89440.0,Apple,5.0,WhiteHaus,17.0,5.0
-512,"ASUS ZEPHYRUS G14 GA403UV-QS091W Gray Ryzen9 8945HS 32GB 1TBSSD 8GB RTX4060 14"" OLED 120Hz  Windows 11",133999.0,ASUS Republic of Gamers,5.0,ROG,8.0,5.0
-513,Lenovo notebook gaming notebook Gaming Notebook Laptop intel core i7 8565U RAM 16GB SSD 1TB Windows 11   gaming laptop Windows11,18999.0,OEM,5.0,SPEED Technology,185.0,35.0
-515,"Dell G15 5511 / 5520 Gaming Laptop Intel Edition 156"" 16GB RAM 512GB SSD",333333.0,Dell,5.0,ZZMTRADING,28.0,9.0
-520,MSI Cyborg 15 (A13VF-1256PH) Gaming Laptop | Intel i5-13420H (8 cores) | 8GB DDR5 RAM | 512GB SSD | RTX 4060 8GB (PC CENTRAL),58999.0,MSI,5.0,PC Central,14.0,2.0
-521,Hasee Z7T-CU7N Intel 6 Core I7-10750H GTX 1650Ti 8GB RAM 512G SSD 156' IPS 144HZ Gaming Laptop,39999.0,Hasee,5.0,Hasee Philippines,11.0,1.0
-523,"Acer Predator Helios NEO 16 (PHN16-72-52PC) Gaming Laptop | 165Hz 16"" IPS Panel | Intel Core i5-14500HX | RTX 4050 6GB | 8GB DDR5 RAM | 512GB SSD (PC Central)",68999.0,Acer,4.79,PC Central,49.0,28.0
-533,"Acer Predator Helios NEO 16 75Z0 (PHN16-72-75Z0) Gaming Laptop | 165Hz 16"" IPS Panel | Intel Core i7-14700HX | RTX 4060 8GB | 16GB DDR5 RAM | 512GB SSD (PC Central)",90999.0,Acer,5.0,PC Central,17.0,5.0
-535,Xitrix TravelPro G14 UltraBook 2022 Model ( 11th Gen Core i5/i7; GeForce GTX1650Ti; 1TB M2 SSD; Thunderbolt 4; 14inch 100% SRGB Pantone Certified Display ); 1 Year Warranty,49800.0,Xitrix,5.0,Xitrix,32.0,11.0
-540,"Lenovo Legion 5 16IRX9 83DG00F5PH Gaming Laptop | Intel Core i7-13650HX | NVIDIA RTX 4060 | 16"" WQXGA 165Hz, | 16GB DDR5 RAM | 512GB SSD | WIN 11 HOME (PC CENTRAL)",92999.0,Lenovo,5.0,PC Central,64.0,21.0
-545,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",64990.0,Apple,5.0,iStore PH,37.0,13.0
-549,"Preloved Lenovo ThinkPad X260 X270 Laptop  8GB/16GB  RAM, 128GB/180GB/256GB SSD , Windows 10 or Windows 11, MS Office 2016 OR 2021, 125 inch screen, Good battery",8924.0,Lenovo,5.0,KotseParts Online Shop,9.0,4.0
-550,"Laptop 6GB RAM 128/256/512GB SSD Notebook Windows 10 Pro Intel J4105 Celeron Quad Core 141"" Display laptop WIFI BT HDMI",9003.13,FUNXUN,5.0,FUNXUN Store,9.0,3.0
-555,"HP laptop i3-1005G1 250 G8 156""  HD  Intel Core i3 4GB RAM 128GB SSD Intel UHD Graphics WiFi BT42 Windows 10 OS",20895.0,HP,5.0,GAMEXTREME,37.0,4.0
-558,"Lenovo Legion 5i (Y7000P) 2024 i7-14thGen RTX4050/4060 16"" 25Kres 165Hz 16GB RAM 1TB SSD ZZM Trading",71280.0,Lenovo Legion,5.0,ZZMTRADING,54.0,24.0
-569,MSI Cyborg 14 2024 Intel Core i5-13420H/i7-13620H NVIDIA GeForce RTX 4050/4060 14 inches WUXGA (1920x1200) 144Hz IPS 16GB RAM 512GB SSD ZZM Trading,57780.0,MSI,5.0,ZZMTRADING,10.0,4.0
-570,"Lenovo GeekPro G5000 LOQ 2023 R7-7840H RTX4060/RTX4050 156"" 2560x1440 165Hz 16GB DDR5 512GB SSD",62640.0,Lenovo,5.0,ZZMTRADING,35.0,19.0
-575,"ASUS ROG Strix G16/G18 G614 2023 Intel Core i7/i9 RTX4060/RTX4070 16"" QHD 240Hz 16GB RAM 1TB SSD",90720.0,ASUS,5.0,ZZMTRADING,40.0,19.0
-579,"Asus TX Air 2024 AMD Ryzen AI 9 HX  14"" 165Hz 3ms RTX 4060 32GB RAM  1TB SSD ZZM Trading",72900.0,ASUS,5.0,ZZMTRADING,5.0,3.0
-583,"Lenovo Legion 5i Pro (Y9000P) 2024 i9 14th Gen RTX4060 16"" 25K 240Hz 16GB RAM 1TB SSD ZZM Trading",100440.0,Lenovo,5.0,ZZMTRADING,23.0,9.0
-585,"""9 Pcs Appl3 Logo For iPhon3,Laptop,Tabl3t Logo Sticker Set""-Long lasting Quality Vinyl Decals Waterproof Sticker",61.55,3M,5.0,JMieSelling,49.0,15.0
-586,Xavier V8s Sound Card Live Singing Equipment Audio Mixer Streaming Bluetooth Sound Effects For PC/Laptop/ios/Android Universa,420.0,MelGeek,4.91,Xavier Mall,5900.0,2278.0
-587,DIODIY Foldable Laptop table/Portable Desk Study Table Long Table Dining Table Office Table Multiple Colors,382.4,DIODIY,4.74,DIODIY,13300.0,1122.0
-588,EPLO Foldable Adjustable Lifting Laptop Bed Table for pc computer With lights and fans/lazy small Study desk Portable,1099.0,Cata,4.93,Cata Mall,806.0,372.0
-589,Hasee Intel 3867U 8G 256G SSD Laptop Thin Book X3 D1 133 Inch 72% NTSC IPS Full HD Business Laptop,12999.0,Hasee,5.0,Hasee Philippines,10.0,5.0
-590,"Lenovo ThinkPad Yoga260  Yoga370 - Versatile 2-in-1 / 125"" 133"" / Intel Core i5 i7 / 16GB RAM DDR4 / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original Laptop",14312.35,Lenovo ThinkPad,4.71,YuMo Advanced Digital Store,88.0,49.0
-591,HP Laptop [Brand New] Elitebook 820/840 G3 Intel Dual-Core i5/I7 6200u/6500u 8GB/12GB/16GB RAM DDR4 256G/512G/1T SSD 125/14-inches Screen Built In Camera/Webcam Business Work Windows11 Pro Ms office 365 Online Learning Computer WiFi/Bluetooth/Notebook,11500.18,HP,5.0,iSimu Laptop ,61.0,24.0
-592,BRAND NEW Asus OEM ROG AIO laptop brand new original core N5095 cheapness Laptop 156 inch Windows 10 11 Pro 19201080 Cheap Portable Laptop DDR4 Ram 12GB Rom 128GB SSD HDMI Port Notebook,18999.0,Aio,5.0,AIO All-in-one PC,7.0,4.0
-600,"Lenovo Legion Y7000 2024 Core i7-13650HX 156"" 1920x1080 RTX 4060 144Hz 24GB 4800MHz 512GB SSD ZZM Trading",72360.0,Lenovo,5.0,ZZMTRADING,7.0,4.0
-601,"ASUS TUF Series TX5 156"" 25K Res Ryzen 7/9 RTX 4070 165hz 3ms 16GB DDR5 512GB/1TB SSD ZZM Trading",68580.0,ASUS,5.0,ZZMTRADING,11.0,7.0
-603,"Lenovo GeekPro G5000 LOQ 2023 i7-13700H/i5-13500H RTX4060/RTX4050 156"" 2560x1440 165Hz 16GBDDR5 1TBSSD",62640.0,Lenovo,5.0,ZZMTRADING,16.0,10.0
-613,"100% healthy 25 inch 320GB/500GB/1TB For Laptop | PS3 | PS4 ""PRELOVED""",196.01,WD,4.93,FicoPc Trading Corp.,8200.0,2907.0
-614,Intel Core i5 / i7 Gaming Desktop Computer Quad-Core 8GB / 16GB RAM 256GB / 512GB M2 SSD Full Set PC Computer,6399.0,INPLAY,4.87,Inplay Gears,2700.0,906.0
-615,Wooden Computer Desk Office Table Laptop Table Study Table Dining Table Home Desk Table Student Desk,1033.26,Motida,4.83,Motida Offical Store,96.0,35.0
-619,"Apple 15-inch MacBook Air: Apple M3 chip with 8-core CPU and 10-core GPU, 16GB, 512GB SSD",91990.0,Apple,5.0,The Loop by Power Mac Center,8.0,3.0
-623,NextFun 101-inch tablet computer 2-in-1 touch screen thin and portable business office education design laptop,13140.0,nextfun,5.0,aedtfghsrytj,22.0,21.0
-626,Kids Music Laptop Toy Battery Operated,169.0,Audiobop,4.82,AUDIOBOPBEST,387.0,116.0
-627,Notebook Laptop Cooler Pad Stand Mute 5 Fans Laptop Cooling Pad Fan Notebook PC USB Radiator,138.0,SENDA,4.36,SoundPEATS,67.0,22.0
-629,Notebook Cooler Pad for Laptop Stand Cooling Fan,138.0,SENDA,4.58,Senda.ph,98.0,43.0
-630,Kids Music Laptop Toy Battery Operated,179.0,Lucky Star,4.82,Best Lucky Star PH,1400.0,468.0
-631,Wolf Dog Personalized Reflective Funny Sticker Car Windows Motorbike Bumper Laptop Decor Vinyl Decal,61.53,OEM,4.85,Global Shopping Service,5400.0,1192.0
-632,Laptop Cooler with Dual Fan Laptop Cooling Pad Adjustable Height Laptop Stand Brackets Fit 14 -17inch Notebook Computer,146.76,XT,4.81,Anna Family Life,156.0,67.0
-633,C120 24Ghz Portable Wireless Air Mouse With Keyboard Gyroscope Mini Remote For TV Box PC Laptop,206.92,Best-mall,4.85,Best-mall,670.0,220.0
-634,Laptop Table Desk Bamboo 60/80CM Foldable Solid Wood Simple Bedroom Mini Desk Folding Study Table Bed Table,449.0,LACCO HUG,4.91,bamboo mall,503.0,172.0
-635,Laptop vivobook Core 10 Generation i5/ i7-ryzenR5 Slim HD 156 inch screen/Online Education /WIFI Bluetooth business computer,22147.71,OEM,4.95,Tianchuan laptop store,109.0,64.0
-636,Lenovo Thinkpad L570 Laptop office gaming Laptop 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,21499.0,Lenovo ThinkPad,4.94,LB-store,1600.0,62.0
-644,"HP OMEN 16 2024 i9-14900HX 161"" QHD RTX 4060/RTX 4070 | 32GB DDR5-5600 1TB SSD ZZM Trading",98280.0,HP,4.56,ZZMTRADING,22.0,9.0
-647,Desktop computer set gaming pc AMD A4 A6 A8 A10 Athlon 3000G Ryzen3 3200G Ryzen5 5600G with 8G 16G 32G Memory and 120G 240G 480G SSD and 500G 1TB HDD,5355.0,❤️No brand❤️,4.9,BYTE Q IT,738.0,214.0
-648,Kids Music Laptop Toy Battery Operated,169.0,Lucky Star,4.56,Lucky Star Living,121.0,34.0
-650,Nextfun  101Inch tablet PC Laptop Intel Laptop 5G Wifi 128G ROM 8G RAM Windows 10 2 in 1 Tablet Microsoft Office Google,4166.55,nextfun,4.87,nextFun Brand ,641.0,279.0
-651,Notebook Cooling pad Stand 2 Large Fans TILT For 12-17inch Laptops,340.0,iMice,4.58,Moon13,1600.0,542.0
-652,CASA White Folding Computer Desk Drawing Table Study Table Adjustable Height Laptop Table With Wheels,1099.0,casa,4.96,CASA PRO,42.0,24.0
-653,VOVOVA All In One 24inch i7/i5/i3 Full HD Screen computer set Support WiFi Bluetooth Business Home Office Computer Desktop Gaming Computer,10188.0,VOVOVA,4.98,VOVOVA OFFICAL STORE,4800.0,461.0
-654,PELADN Desktop mini pc laptop intel  11 generation I5 Celero N5095 Desktop Computer with Windows 11 DDR4 8G+SDD 256G/DDR4 8G+SDD 512G/16G+SDD 512G,9223.0,PELADN,5.0,PELADN Flagship Store,10.0,45.0
-655,"Portable 16TB 8TB 4TB 2TB 1TB External Hard Drive, Slim External Hard Drive, Computer Backup Small Disk USB 31/Type-C for PC, Mac, Desktop, Laptop",484.37,No,4.7,Yoko Label,404.0,312.0
-656,HP ELITEDESK 800 G4 MINI PC i5-10500T - HP Pro Mini i5 -1235u - HP EliteDesk 705 G4 Ryzen 3 2200GE PRELOVED,7999.0,HP,4.79,TGPC Computer,257.0,58.0
-657,Tri-Town Multifunctional Mini USB Network Microphone Universal USB Stand Mini Desktop Microphone Mic for Pc Desktop Laptop Macbook,151.68,Tri-Town,4.9,Tri Town,473.0,167.0
-658,PROMAX Korean Leather Girls Handbag 14 Inch Laptop Bag Elegant Girls Shoulder Bag,166.46,Promax,4.96,Promax Official Store,180.0,75.0
-659,"ASPOR Laptop Stand 9""-17"" Cooler Pad USB 6 Fans Notebook Cooling Fan Adjustable Height",255.11,ASPOR,4.8,ASPOR Electronics Accessories,259.0,64.0
-662,"Nextfun 8-inch 2-in-1 laptop tablet computer pre-installed with Microsoft Office Windows, office and learning tablet",7730.0,nextfun,5.0,nextFun Brand ,11.0,9.0
-663,Lenovo [Brand New]ThinkPad X250 Laptop Intel Quad/Dual-Core i7/i5 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office 365 Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch Screen,9075.22,Thinkpad,4.85,iSimu Laptop ,32.0,20.0
-666,"Acer SFG14-73-59GV Ultra 5 125H  / SFG14-73-73VB Ultra 7 155H  16GB 512GB SSD 14"" Intel Arc Win11 H&S Silver  FREE LAPTOP BAG AND MOUSEPAD",52539.0,Acer,4.77,Acer,53.0,12.0
-668,"ASUS ROG STRIX G16 G614JU-N4450W | INTEL CORE i7 13650HX | 16GB DDR5 | 1TBSSD | 6GB RTX4050 | 16"" FHD 240Hz | Windows 11 | GAMING | PERFORMANCE | EDITING",99999.0,ASUS Republic of Gamers,5.0,ROG,5.0,2.0
-671,laptops Intel Core i7/i5 All-In-One PC 238 inch 8G RAM 256/512G SSD Desktop Computer for Business/Office/Gaming OEM With Mouse & Keyboard,14399.1,OEM,5.0,Zoeyol Laptop,34.0,10.0
-675,Teclast x SOYO M2Air Mini PC Windows11 All in one Desktop pc with Intel N4000 processorWIFI/BLUETOOTH,7999.0,Teclast,5.0,Teclast,6.0,2.0
-676,Lenovo all-in-one machine Intel Core i7 desktop all-in-one machine 24 inch high-definition screen i7+16G/DDR4 RAM+512G SSD M2+1 camera+ Dual band WiFi+Bluetooth+Windows 11,19205.03,OEM,4.96,Chuangyun Technology,417.0,56.0
-677,Dell Optiplex 3070 Mini 9th Gen Intel Hexa-Core-i5 16GB RAM 256GB NVMe SSD Genuine Windows 11 PRO PRELOVED,11499.0,Dell,5.0,MIKETECH COMPUTER CENTER,19.0,9.0
-682,"Lenovo new 24 inch screen i5 RAM 16GB 512GB high-end SSD all-in-one machine display screen, business desk, home gaming complete",20359.0,OEM,5.0,Chuangyun Technology,140.0,6.0
-683,24 inch Lennovo all-in-one computer full set of i7/i5/i3 RAM 16GB 512GB SSD office business home high-end game design desktop host machine Office home online class learning game full set machine 2 years local warranty,25999.0,OEM,5.0,AIO All-in-one PC,35.0,17.0
-686,Bluetooth Keyboard And Mouse Wireless Portable Rechargeable Slim Keyboard For Ipad cellphone Tablet PC Laptop Notebook,143.56,Alex,4.89,Alex Esports Mall,638.0,62.0
-687,All in One PC Computer Set Intel Core i3 / i5 / i7 8G/16G RAM 128G/ 256G/512G SSD Suitable For Online Courses Office Desktop Computer Full Set 20/24 inch HD Monitor,8180.09,ProVision,4.83,INFOCRAFT,162.0,23.0
-688,USB 30 Gigabit LAN Driverless USB to RJ45 Cable Converter 10/100/1000 Mbps Gigabit for PC/Laptop HOT,95.54,OEM,5.0,cloud storeph,506.0,34.0
-689,USB 30 Slim External DVD RW CD Writer with Optical Drives Type-C CD ROM Reader Rewriter for PC Laptop Desktop Apple,422.0,Vktech,5.0,Vktech Official Store,18.0,1.0
-690,"S500 Laptop Cooling Pad 12""-17"" Cooler Pad Chill Mat 5 Quiet Fans LED Lights and 2 USB 20 Ports Adjustable Mounts Laptop Stand Height Angle",305.0,SENDA,4.8,Shinecool Trading,816.0,286.0
-696,M19 Laptop Cooling PADS LAPTOP COOLER LAPTOP STAND USB LED Light 13inch Laptop Cooling Cooler Pad Stand (BLACK),139.0,HALL OF BRAND,4.73,Hall Of Brand,95.0,33.0
-697,SF-666 Record RGB Condenser Microphone for iPhone Android Laptop Computer Professional USB Mic Earphone for Game Live,130.0,Abby Shi,4.52,ABS_ABSL,121.0,43.0
-698,NBA 2K23 PC for [Desktop and Laptop] with FREE 160gb external hdd [SALE],99.0,NBA,5.0,GAMExtreme.ph,13.0,4.0
-702,"Xitrix GL1R AMD Ryzen 5 Gaming PC (Ryzen 5000 Processor, GTX/RTX GPU, AMD A520 Gaming Board, 16GB RGB DDR4, 500GB M2 SSD, Wireless AC, 120MM RGB AIO Liquid Cooling) 3 Years Warranty; 2023 Edition",38800.0,Xitrix,4.2,Xitrix,55.0,20.0
-704,Lenovo Legion Tower 7000K 2023 CPU i5-13600KF|i7-13700KF RTX3030/3060Ti/3070/4070/4070ti 16GB DDR5 512GB/1TB SSD WIFI 6 ZZM TRADING,83700.0,Lenovo,5.0,ZZMTRADING,7.0,1.0
-711,Mini PC Windows 10 Pro Mini Computer Intel Celeron 6/8GB RAM 128/192/256/320/512GB SSD Dual HDMI Gigabit Ethernet Dual Band WiFi 24G/5G Bluetooth 4 Support Triple Display 4K UHD,4004.43,FUNXUN,4.92,FUNXUN Store,253.0,15.0
-712,FIND Large Capacity Commuter Tote Bag For Women Fashionable Handbag Zipper Shoulder Bag Laptop Bag Elegant Lady Handbag for Work Dating College,234.84,FIND,4.81,FIND PH,1000.0,145.0
-713,Jiditech Laptop Stand 360° Adjustment With Fan Aluminum Alloy Laptop Stand Laptop Cooler Laptop Fully Adjustable Height and Angle for up to 17 inches Laptop,599.0,Jiditech,4.94,Jiditech Light Official,178.0,71.0
-714,"Lenovo ThinkPad X240 X250 laptop - Ultrabook 125"" / Intel Core i5 i7 / 8GB RAM / 128GB SSD + 1TB HDD / Windows11Pro&office / BrandNew Original",8381.77,Lenovo ThinkPad,4.89,YuMo Advanced Digital Store,99.0,55.0
-722,Nextfun 2-in-1 Tablet PC 8 Inch Windows 10 Tablet 4G RAM+128G ROM Learning and Entertainment Tablet PC,7150.0,nextfun,4.89,aedtfghsrytj,44.0,38.0
-724,1TB SEAGATE FIRECUDA Hard Disk 25 inch SATA6Gb/s Laptop Internal,599.0,Seagate,5.0,STORAGEKING CAINTA,5.0,2.0
-726,MageGee TS91 / 92 60% Compact Wired Wireless Keyboard 61 Keys RGB Backlight Small Portable Office Computer Membrane Keyboard For Windows PC Laptop Gamer,599.0,MageGee,4.87,MageGee Store,4200.0,1493.0
-727,MAIA H77 Comfortable Laptop Stand And Cooling Pad,298.9,Maia,4.9,MAIA.PH,23300.0,7019.0
-728,SECURE UPS 650VA/1000VA/1500VA/2000VA/3000VA For PC Laptop Or Wifi Uninterruptible Power Supply,3330.04,DBAUDIO BY ASTRON,5.0,DBAUDIO BY ASTRON Electronics Accessories-.,172.0,42.0
-729,360° Rotate Adjustable Aluminum Alloy Laptop Stand Lightweight Upright Non-Slip Lifting Heat Dissipation Rack,239.0,GOROS,4.2,Vishow,12.0,5.0
-730,Intelper MX3-L Air Mouse for TV Box Remote 24G Wireless Keyboard Remote Control Infrared Remote Learning 6-Axis Motion Sense With USB Receiver for Smart TV Android TV BOX Laptop PC With Backlight,219.0,V380 Official Store,4.87,Intelper V380 Store,384.0,166.0
-731,Lenovo Laptop X260 Thinkpad work Study I5 6200U Quad-core Inel HD520 Graphics 4G 8g 16g DDR4 RAM 120G 240G 480G ssd New 1Year Warranty,11113.0,Lenovo ThinkPad,4.96,Refurb Zone,1800.0,959.0
-736,"MSI SWORD 16 2024 i7-14700HX RTX 16"" 25K (2560x1600) 240HZ 100%sRGB  16GB DDR5 1TB SSD ZZM TRADING",88020.0,MSI,5.0,ZZMTRADING,12.0,4.0
-740,High Speed Fan Adjustable Radiator Dual USB Port Laptop Cooling Pad,388.0,Ewa,4.86,EWA 3C HUB,511.0,188.0
-741,Keycool Adjustable Study Table /Portable Mobile Lift Laptop Table For Bed Laptop Table Desk Side Table For Living Room Bedside Table Bed Table For Laptop Table Overbed Bed Side Table,393.01,Keycool,4.77,Keycool,3200.0,845.0
-742,"3000Mbps WiFi 6E Intel AX210 Bluetooth 53 M2 2230 Key E WiFi 6 Card 24G/5Ghz/6Ghz Wireless AX210NGW 80211ac/ax WiFi Adapter, Support Windows 10 Linux for Laptop Desktop PC",716.61,Bermoon,4.95,Bermoon,98.0,139.0
-743,ASPOR Cooling Pad for Laptop Six Fan Led Screen Two USB Port RGB Lighting Laptop Cooling Pad Notebook Stand for Laptop 12-18 inch,251.23,ASPOR,4.81,ASPOR Electronics Accessories,897.0,296.0
-744,Inplay NK1040-B Mechanical Keyboard Hot Swappable Red Switch With RGB Light Gaming Keyboard For Pc Laptop Computer,799.0,INPLAY,4.9,Inplay Gears,589.0,224.0
-745,Seagate 500GB Barracuda Hardrive 25 Inch SATA 6 Gb/s for LAPTOP (ST500LM030 ),599.0,Seagate,5.0,STORAGEKING CAINTA,15.0,3.0
-746,ATO Gaming RGB Laptop Cooler Notebook Cooling Pad Super Mute 6 LED Fans Powerful Air Flow Portable Adjust 12-18 Inch,445.0,ATO TOOL,4.5,ATO TOOL,15.0,6.0
-748,Llano New V10 Laptop Cooling Pad Equipped Rpm 3500 Gigantic Turbo-Fan Rapid Cooling Gaming Laptop With Adjustable Brackets Suit for 13-173 inch,3259.0,llano,4.79,llano,265.0,149.0
-750,Lenovo ThinkPad X280 laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 256G/512G/1T SSD  IPS 19201080 Backlit keyboard（option） Built In Camera/WEBCAM Business Ms office 2019 windows 11 PRO 125-inch Screen Online WIFI Bluetooth notebook computer,13405.28,Thinkpad,5.0,RoWind PC,89.0,15.0
-757,"LENOVO LEGION 7i Slim Y9000X 2023/2024 i9-14900HX RTX 4060 | 4070 16"" 32K 165Hz 32GB RAM 1TB SSD ZZM Trading",123120.0,Lenovo,5.0,ZZMTRADING,10.0,7.0
-761,Logitech G304 wireless 12000DPI Optical Gaming Mouse Laptop,219.0,Logitech,5.0,Hellow_store,5.0,2.0
-762,Original Portable External Hard Drive Disks 16TB 4TB SSD Solid State Drives For PC Laptop Computer Storage Device,1331.12,OEM,4.42,piaoque82181,427.0,139.0
-763,"Bini Memes Waterproof Vinyl Stickers - Blooms - Funny Bini Moments - for Tumblers, Phone Cases, Laptops, and more",45.0,QUAFF,4.91,JADA'S ONLINE SHOP,229.0,67.0
-765,"Cat Memes Waterproof Vinyl Stickers - DIY for Tumbler, Laptop, Cellphone case,  Luggage and more // Funny Cute Cats",39.0,QUAFF,4.9,JADA'S ONLINE SHOP,53.0,21.0
-767,BudgetstorePH Anellos Leather School Backpack Diaper Bag backpack for mom with Laptop Compartment Travel School for Women korean fashion on sale today,399.0,BagsRetailPh,4.91,budgetstorePH,42.0,11.0
-768,"Bmax Laptop X14 Pro | 8Gb Memory, 512Gb High-Speed Ssd Amd Ryzen 5 3450U Processor Amd Radeon Graphics 141In Fhd Ips Display 57Wh Large Capacity Battery",19999.0,Kimstore,5.0,Kimstore PH,7.0,1.0
-770,HP Laptop Envy X360 Touch Ryzen 5/7 8th Gen 16GB LDDR5 512GB SSD FREE MS OFFICE & BAG 2 yrs wrty,66490.0,HP,5.0,HP,16.0,3.0
-776,"VTech Bluey Game Time Laptop, Interactive Learning Laptop with Pre-School Content",3325.0,Vtech,5.0,Vtech,13.0,5.0
-777,"Xitrix GL1 12G Intel Gaming PC 2023 (12th Gen Core i7-12700F Processor, GTX/RTX GPU, B660 Gaming Board, 16GB RGB DDR4, 500GB M2 SSD, 1TB SATA HDD, Wireless AC, 120MM RGB AIO Liquid Cooling) 3 Years Warranty",54800.0,Xitrix,4.78,Xitrix,37.0,18.0
-778,ASSORTED SFF Slim Desktop PC Computer Intel CPU | TTREND | System Unit and Computer Package | PRELOVED,2189.0,HP,4.34,Ttrend IT Solution,241.0,82.0
-779,Royqueen Gaming Mousepad Big Large Size New XXL Keyboard Pad Computor Laptop Gamer Mouse Mat Fashion Nordic Unique Design Marble Granite Texture Grain Sofe Office Carpet Mat Desktop Mouse Pad 80 x 30 cm 90 x 40 cm,113.27,Royqueen,4.94,Royqueen PH Official,2600.0,1128.0
-780,Gaming Bundle Package Intel i3 1st / 8th Gen(motherboard/Heatsink fan/processor ONLY) WITH BACKPLATE (Assorted OETM/Branded Motherboard) [REFURBISHED],1350.0,Intel,4.75,D&L computer store,114.0,53.0
-781,Home+Hound Storage Desk Monitor Cooling Laptop Stand Laptop Increased Shelf Desktop,199.0,HOME + HOUND,4.82,HOME + HOUND,150.0,67.0
-782,EASYTECH | CPU-C10 Intel Core i5 2ND Gen 8GB RAM DDR3 HP Compaq Elite 8200 SFF (Refurbished,1746.0,HP,4.2,EasyTech717,8.0,6.0
-783,Monoz Projector A10 4K Full HD Portable Projector Mini Projector For Phone & Laptop With Bluetooth,477.0,Monoz,5.0,Daxin_shop94.asia,170.0,2.0
-784,MAGCH YG300 Projector mini Portable Full HD 1080P Projector Portable Video Movie Projector Beamer for Laptop phone COD,1189.8,MAGCH,4.83,MAGCH,4400.0,151.0
-785,Monoz Y300 Mini Portable Projector | Wireless LCD Projector for Phone & Laptop | 4K HD Home Theater,477.0,Monoz,5.0,Daxin_shop94.asia,130.0,2.0
-786,AMD Ryzen 5 5600G Gaming PC Set With DDR4 16GB RAM + 512GB SSD Full Set PC Computer For Gaming Office,17899.0,INPLAY,4.87,Inplay Gears,693.0,155.0
-788,Laptop Decals Colorful Marbel Granite Texture Laptop Sticker Skin Decor Decoration Laminated Dust Proof Waterproof 2pcs Sheets 12 13 14 15 156 inchs Full Cover Sticker For Hp Dell Lenovo Asus Acer Air Macbook,160.05,Royqueen,4.59,Orga2020,2000.0,614.0
-789,Lenovo ThinkPad T460s Laptop Legit Intel Dual/Quad-Core i5/i7 8G/12G/20G DDR4 RAM 256G/512G/1T SSD ROM 14-inch FHD 19201080 Screen Authentic Sealed Built-in WEBCAM/Camera Ms office Windows 11 Pro Operating system Business notebook,14410.22,Thinkpad,5.0,iSimu Laptop ,9.0,3.0
-794,"Gigabyte G5 KF5 (G3MY383SH) RTX 4060 Gaming Laptop 156"" 144Hz Intel Core i7-12650H / RTX 4060 8GB (PC CENTRAL)",68999.0,Gigabyte,5.0,PC Central,5.0,1.0
-798,AIO Lenovo mini cpu intel Core quad-core i3 i5 i7 RAM 16GB 512GB SSD full set of home business office online class game Complete Full Set PC Gaming With CPU SSD Windows 10 Monoblock,19999.0,OEM,5.0,MONSPRIN Laptop Computer,14.0,5.0
-800,Large Mouse Pad 8040 Portable Long Leather Mousepad Gaming Mat Double Sided Mouse Pads Non-Slip Waterproof For Mouse Keyboard Laptop PC Computer Office&Home Accesssories (8040CM),82.05,Tri-Town,4.9,Tri Town,378.0,144.0
-801,"YGT SLIM FHD PC Monitor 20""/21""/24""/27"" 1080P 75Hz LED Desktop Computer Laptop Monitor",2201.55,DBAUDIO BY ASTRON,5.0,DBAUDIO BY ASTRON Electronics Accessories-.,5.0,1.0
-802,Zeus 35 Keys One-handed Gaming keyboard Ergonomic Keypad for Laptop Desktop PC Computer PUBG,294.51,Zeus,4.93,ZEUS Philippines,203.0,100.0
-803,HP S1000 PLUS Silent Wireless Mouse Optical Portable Mute Button Mice Computer Notebook Laptop PC,174.34,OEM,4.6,Velar Tech,264.0,65.0
-804,EASYTECH  CPU-B02 AMD A4 6300 4GB RAM 160GB HDD HP EliteDesk 705 G2 SFF (Secondhand/Refurbished),2230.03,AMD,4.68,EasyTech717,60.0,31.0
-805,HKC 24/27 Inch ips Monitor 100HZ FHD Framless Flat Gaming Office Monitor For PC Laptop,5799.0,INPLAY,4.96,Inplay Gears,67.0,24.0
-806,Multimedia USB Mini Keyboard Universal For PC Laptop（Black）,149.0,iMice,4.71,Moon13,950.0,259.0
-807,Com Hub PC | Used HP KU-0316 Keyboard Heavy Duty for PC Pisonet Laptop Office (NO BOX),193.03,Hewlett Packard,5.0,Com Hub PC,22.0,4.0
-808,DeepCool N200 Laptop Coolers,320.0,Deep Cool,4.86,Cybertech Computer Store,27.0,7.0
-809,Mini Keyboard Wired Thin Light 78 Keys USB Multimedia Small for Pc Computer Laptop,150.7,Audiobop,4.67,Brodu,28.0,9.0
-810,Original Lenovo Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,24899.0,Lenovo ThinkPad,5.0,RayDigital,885.0,50.0
-811,"Acer ANV16-41-R3RP Ryzen 7 8845HS 8GB 512GB SSD 16"" RTX4050 6GB Win11 H&S Gaming Laptop |  Nitro V | Acer Laptop FREE! Laptop Bag and Mousepad",69291.0,Acer,5.0,Acer,7.0,3.0
-818,HP M100 Gaming Mouse Wired Optical USB Laptop PC Backlight Mouse,104.86,OEM,4.71,Joyfelling Shop,989.0,281.0
-819,N19 12''-14'' Portable Laptop Cooler Pad One Big LED Light Fan Cooling Pads For Notebook Laptops,140.0,PLEXTONE,4.74,Plextone,1700.0,430.0
-823,"Redragon K552-2 Kumara 87 Keys Compact USB Wired TKL Tenkeyless Mechanical Gaming Keyboard RGB (Blue Switch, Tactile) Dust-Proof Outemu Hot Swappable with RGB Backlight, Curved Keycaps for Mac, Windows, PC, Computer, Laptop | JG Superstore",1450.0,Redragon,5.0,JG Superstore,37.0,4.0
-824,Backpack for college student Waterproof Large capacity Korean style 156 inch Laptop bag Big travel bags for women,381.22,OEM,4.97,LuckySeven-PH,118.0,61.0
-825,N19 Laptop Cooling PADS LAPTOP COOLER LAPTOP STAND USB LED Light 13inch (Black) KellyShop,143.0,HALL OF BRAND,4.69,KELLYS SHOP,233.0,84.0
-826,Zeus Aluminium Adjustable Laptop Stand Portable Foldable Cooling Desktop Tablet Stand Sticker Pad,156.61,Zeus,5.0,zeus.ph,82.0,35.0
-827,Soundcore by Anker K20i Wireless Earbuds with Mic Wireless Bluetooth 53 Earphones 36H Play Time Headphones Bluetooth 13mm Drivers TWS for Android iPhone Laptop,699.0,Anker,4.95,Anker Global,2900.0,1177.0
-828,Dell Optiplex 3020 Micro Desktop i3-4160T 310Ghz 4GB/8GB RAM 500GB HDD / 120GB SSD /128GB SSD(Used) (Preloved),1050.0,Dell,4.81,TopRated Computer Store,439.0,130.0
-829,KOVEX Aluminum Alloy Foldable Laptop Stand Adjustable Laptop Holder Laptop Riser,153.97,RIPIT FOOD HUB,5.0,RIPIT FOOD HUB Services.,12.0,3.0
-830,Laptop Notebook 195V 231A 45W AC Adapter Charger for Dell Inspiron 3551 3552 3558 3559 5551 Vostro 14 5755 5758 5759 With Power Cord,368.39,Dell,5.0,3C Accessories Store 1581944476,15.0,2.0
-831,YOKOHAMA-Japan Cartoon Computer Desk Laptop Stand Portable Cart Tray Side  Table Laptop Study Table for kids,240.0,Yokohama,4.29,Yokohama Store,443.0,202.0
-839,VAORLO 24Ghz Wireless Car Mouse USB 1600 DPI Optical Mini 3D Mice Computer Mouse For Kids Laptop Notebook PC,158.76,VAORLO,4.77,VAORLO 3C Store,260.0,81.0
-841,Wood Study Table With Bookshelf Computer Table Desktop Office Table With Drawer For Student Adult,885.51,Omax,4.77,Omax1,437.0,174.0
-843,ASUS Mini Wired USB Keyboard For Notebook Laptop PC Computer Black,147.0,ASUS,4.56,CTX shop,758.0,192.0
-844,"2pcs Set Laptop Sticker Skin Universal Notebook Protector Vinyl Sticker Floral Colorful Green Plants Bohemia Pattern Tropical Style Design Laptop Decor Computer Universal Sticker Skin 14"" 156""",165.0,Royqueen,4.62,AMY CENTER,314.0,122.0
-845,Deadpool Gaming Laptop Gamer Mouse Mats Mousepad Anime Mat Computer Mouse Pad Cells At Work Deskpad PC Gamer Big Xs Xxs Deskmat,408.12,OEM,5.0,32sayPEW,7.0,3.0
-846,Home Computer Desk Study Table PC Laptop Table Writing Desk Computer Home Office Desk Computer Table,999.0,OEM,4.92,Noynoy Store,52.0,12.0
-847,Lenovo Multimedia USB Mini Keyboard for PC Laptop Computer,145.5,Lenovo,4.74,BSCC Shop,1300.0,363.0
-848,kingnovy L14 YOGA Dual Screen 360 Laptop 12th Gen Intel N95 2x14 Inch 25K Touch IPS Windows 2 in 1 Notebook WiFi,22941.66,KingnovyPC,4.25,King Novy PC Computer Store,8.0,4.0
-851,Dell Optiplex 3080/3090/5080/7080 Mini 10th Gen Intel Core-i5 16GB RAM 256GB SSD Wi-Fi + Bluetooth Win 11 Pro PRELOVED,13999.0,Dell,5.0,MIKETECH COMPUTER CENTER,78.0,6.0
-854,MINI DESKTOP ( HP T620 Flexible Thin / AMD GX-217GA Dual Core / Radeon HD Graphics / Wifi and Windows Ready / Upgradable Storage ) No Cover on Ports,2700.0,HP,4.57,JJ-KING COMPUTER LAPTOP SUPPLIER,210.0,60.0
-856,INTEL COR2DUO CPU / 4GB / 500GB / DELL OR HP BRAND / REFURBISHED,1700.0,Original Equipment Manufactured,5.0,alforecean PC,43.0,2.0
-857,Acer Optical Usb Wired Mouse For Pc and laptop,21.67,Acer,4.82,ZAMA,7900.0,1769.0
-858,LAPTOP COOLER STAND 2 LARGE FANS TILT FOR 15 17 INCH LAPTOP COOLING PAD L136,327.32,LC,4.73,Brodu,4000.0,1147.0
-859,"Royqueen Universal Notebook Computor Cover Laptop Stickers Skins 2pcs 133""14""156"" Anime Kawaii Dragon Ball Z DBZ Son Goku Broly Vegeta Hunter x Hunter Laptop Skin 2 Sheets Decals",159.08,Royqueen,4.77,Royqueen PH Official,293.0,123.0
-860,USB Wired PC Laptop Media Keyboard Logitech,241.32,Unbrand item,4.61,Brodu,316.0,69.0
-861,DESKTOP CPU / LENOVO i5 2ND GEN / 4GB / 128GB SSD /  Desktop PC ( Refurbished ),2700.0,Lenovo,3.67,alforecean PC,5.0,3.0
-862,Thunderobot K78 Mechanical Keyboard RGB Backlit Hot-Swappable Wired keyboard 75% Layout 78 keys Gaming keyboard For Laptop Computer Desktop PC Red Switch/Brown Switch,1399.1,MACHENIKE,4.91,Machenike Official Store,23.0,11.0
-864,500pcs Universal Laptop Screws Set M2 M25 M3 Flat Head Phillips Screws for Laptop Computer Laptop Notebook Computer Screws Replacement Kit 500pcs Universal Laptop Screws Set,127.06,OEM,5.0,KL Tool Shop,5.0,1.0
-865,USB 30 Slim External DVD RW CD Writer Drive Burner Reader CD Player External Brushed USB30 Type C Optical Drive for PC Laptop Notebook Desktop Computer Compatible With MAC OS Windows XP/7/8/10,555.84,Best-mall,4.93,Best-mall,148.0,59.0
-866,YG-300 Projector Mini Portable Support 1080P HDMI USB Audio 600 Lumens Home Media Video Player cellphone projector for Mobile Phone/Laptop Portable Mini Projector,849.0,GSE,5.0,GSE PH,6.0,1.0
-867,USB Wired PC Laptop Media Keyboard hp,245.0,Unbrand item,4.69,Brodu,589.0,177.0
-868,"Acer AL14-31P-C582 Intel Celeron N100 8GB 512GB SSD 14"" Shared W11 CoPilot Silver Traditional Laptops | FREE Laptop Bag, Mouse and Mousepad",24471.0,Acer,5.0,PCWORX,18.0,10.0
-871,Laptop Lenovo ThinkPad L560 Inter Core i5 6200U  8GB RAM 256GB SSD 156/inch Notebook computer Office work/online classes/playing games,9999.0,Lenovo,5.0,EXRAM.ph,7.0,5.0
-877,HOMECARE PHAdjustable Laptop Table T8 Zig Zag Legs Foldable with Cooling Fan,531.56,HOMECARE.PH,4.17,HOMECARE.PH Furniture & Organization,169.0,43.0
-878,INPLAY Usb Web Camera Wired Full HD 1080P Build-in Mic For PC Computer Laptop Use C1080E-PRO,559.0,INPLAY,4.89,Inplay Gears,2300.0,854.0
-880,SECURE UPS Power Supply 650VA/1000VA/1500VA/2000VA/3000VA Uninterruptible For PC Desktop Laptop Wifi,4460.06,DBAUDIO BY ASTRON,4.8,DBAUDIO BY ASTRON Electronics Accessories-.,14.0,5.0
-881,Desktop Computer Set AMD A8 7680 Quad-core A6 7480 A4 6300 with DDR4 16GB RAM 512GB SSD Full Set Computer Gaming Desktop,8479.0,ProVision,4.9,iJUNE PC,1000.0,165.0
-882,Sound Bar Speaker For TV 20W TV Soundbar Home Theater Speaker Bluetooth Sound Bar Speaker Audio Sound System Stereo Sound for PC Desktop Laptop Tablet Phone,1208.0,Agealter,4.83,Mall Center,1100.0,247.0
-883,KingSpec M2 Nvme 512GB 256GB 1TB 2TB PCIE30 2280 Internal Solid State Drive Gen3x4 3D TLC NAND Flash M2 PCIE Nvme SSD NVME 14 Interface for Laptop And Desktop computer,1771.0,Kingspec,4.91,KingSpec,881.0,680.0
-884,INTEL COR I5 4TH GEN / 8GB / 500GB HDD / DELL OPTIPLEX MINI TOWER / REFURBISHED,3800.0,Dell,5.0,alforecean PC,9.0,5.0
-885,Machenike K500 Mechanical Keyboard RGB Backlit Hot-Swappable wired keyboard 90% layout 94 keys wired gaming keyboard Anti-Ghosting Keys for laptop computer desktop PC keyboard Red switch/Brown switch,1599.1,MACHENIKE,4.97,Machenike Official Store,5600.0,2205.0
-886,COMPUTER SET / INTEL COR2QUAD 4GB RAM / 250GB HDD / COMPLETE SET WITH KEYBMOUSE HEADSET / READY TO USE / REFURBISHED,3500.0,Dell,5.0,alforecean PC,14.0,6.0
-887,Intel Core i5 All series Desktop Computer Full Set 13th gen Core i5 13400 Deca core 46Ghz frequency 16G RAM 1TB SSD intel UHD Graphics 730 Home Office/Designer drawing RGB case Speciality Gaming PC Set Brand new 3 yr warranty,19799.0,ZORO,5.0,Zorotech,2900.0,141.0
-888,Weext Wooden Folding Laptop Table,688.0,Weext,4.79,Weext,1600.0,366.0
-889,Refurbished) Toshiba Laptop Intel i7 i5 i3 Celeron | 16GB / 8GB / 4GB Memory | 512G / 256G / 128G SSD,6233.0,Toshiba,5.0,Barattilla,22.0,11.0
-890,Lenovo Thinkpad Yoga 11e I INTEL I5 5TH GEN  4GB RAM 500GB I 3 MONTHS WARRANTY I  REFURBISHED LAPTOP,7999.0,Lenovo ThinkPad,5.0,YouNiqueLovebyLeizel,5.0,1.0
-895,Razer Blade 14 Gaming Laptop Ryzen 9-5900HX 16GB RAM 1TB SSD 8GRTX3080 W10H 14 Inches QHD Black,99000.0,Razer,4.5,Laptop Sensei,5.0,2.0
-897,"12th Gen, 12-Cores Intel Core-i5/i7, Intel NUC Mini-PC NUC12WSHi5, Iris Xe Graphics, 16-32GB RAM 256-512GB NVMe Gen4, Wi-Fi6E+Bluetooth, Thunderbolt 4, Windows 11 Pro, PRELOVED",23499.0,Intel,5.0,MIKETECH COMPUTER CENTER,18.0,11.0
-900,ICON Webcam for PC Webcam for Laptop 90° Wide-Angle Camera Web Camera for PC with Built-in Noise Cancelling Microphone USB Plug and Play Live Streaming Video Conference Webcam for Desktop Computer,176.0,Icon,4.8,Icon Technology Inc,4700.0,1193.0
-901,"MINI Desktop CPU Only ( HP Thin Client T610 T620 T630 / AMD G Series / Radeon HD Graphics / Wifi  and Windows Ready )  Good for Online Class , Browsing and Work PREOWNED UNIT",2475.0,HP,4.68,JJ-KING COMPUTER LAPTOP SUPPLIER,273.0,83.0
-902,"Soundcore K20i, Bluetooth Earbuds",746.25,Soundcore by Anker,4.98,Soundcore,2200.0,869.0
-903,"RGB Computer Monitor Stand Riser With Support Transfer Data,Charging,4 USB 20 Ports Monitor Stand With Phone Holder And Storage Drawer,Desk Organizer Monitor Shelf For iMac,Laptop",1399.0,HOK,4.9,HOK,147.0,70.0
-904,"Dell System unit i3 , i5 and i5 7050 / 7040 / 3020 / 3010 / 390 Ready To use REFURBISHED",6206.54,Dell,4.93,PC MURA,39.0,15.0
-905,ANSEN 2K 1080P HD USB Web Camera with Mic Webcam for PC Laptop Online Class,239.0,Dansen,4.87,ANSEN,175.0,79.0
-906,Samsung Mini Wired USB Keyboard For Notebook Laptop PC Computer Black,141.84,Samsung,4.77,CTX shop,331.0,100.0
-907,HP S1000 / S4000 PLUS Wireless Silent Mouse Optical Portable Mini Mute Button Mice for Computer Notebook Laptop PC,171.39,Clover,4.85,Joyfelling Shop,1400.0,453.0
-908,Wireless Lavalier Microphone Noise Cancellation Lapel Mic with 400mAh Charge Case for Phone Laptop Camera Vlogging Live Streaming Recording  Live Broadcast Interview Mic Plug-Play,359.0,vitog,3.0,Goody Audio,8.0,2.0
-910,Jinhua Laptop Stand Adjustable Laptop Stand Multi-Angle Stand Mobile Phone Pad Stand Portable Foldable Laptop Lifting Plate Cooling and Non-Slip Laptop Stand Suitable for 10 to 17 Inch Laptops,80.0,jinhua,5.0,Jinghua Select Shop,62.0,17.0
-913,"Asus TX4 2023 Ryzen Edition R7-7735H RTX4050/RTX4060 156"" 1920x1080 144Hz 16GB DDR5 512GB SSD",62640.0,ASUS,5.0,ZZMTRADING,14.0,8.0
-916,"WAVLINK WiFi 6E Wireless Card, Intel AX210 Tri-Band 5400Mbps 24GHz/5GHz/6GHz Network Adapter with Bluetooth 53 for Laptop, Ultra-Low Latency, Support Windows 10/11 (64bit) M2/NGFF",753.62,Wavlink,4.92,Wavlink_Philippines ,671.0,241.0
-917,25 In 1 Precision Torx Screwdriver Kit for Repair Glasses Mobile Phones Cameras Laptops Watches Car Keys,68.6,MOGEE,4.85,MOGEE HARDWARE,347.0,132.0
-918,"HP M160 Wired Gaming Mouse, 1000 DPI, High Performance Optical Tracking Gaming Mouse, with 7 Colours Rainbow LED, PC/ Mac/ Laptop Office PC Home",219.0,HP,4.92,MOGE Mall,18600.0,5800.0
-919,TGPC / Dell OptiPlex 3050 / Mini PC / i3 6th Gen / 8GB Ram / 256 SSD / PRELOVED,3499.0,Dell,5.0,TGPC Computer,6.0,3.0
-920,Original Portable SSD External Hard Drive 1TB 2TB High Speed Solid State Hard Disk Type-C USB 30 Electronics for Laptop/Phone,618.12,OEM,4.67,piaoque82181,255.0,85.0
-921,"Toshiba 2TB HDD 1T 2T Harddrive External Seagate 25 "" Portable USB 30 HDD 1T 2T for PC/Laptop",999.0,Toshiba,4.53,ARONION,221.0,75.0
-922,Allan Superstore Pisowifi Box Black Design / Allan Pisowifi with Camlock / Formica Finish / Allan Formica / Charcoal Black / Antidust,887.0,Allan,4.9,Allan Superstore,64.0,21.0
-923,"N19 12”-15"" USB LED Ultra Slim Laptop/Netbook Cooling Pad",210.0,OEM,4.95,The Ambassador Store,59.0,20.0
-924,MD2TS Aluminum Alloy Laptop Stand Tablet Stand Portable Laptop Stand Laptop Holder Laptop Mount Laptop Stand Riser Vertical Laptop Stand Laptop Accessories Laptop Stand Alloy Macbook Stand Aluminum Laptop Stand Laptop Holder Stand,198.0,OEM,4.92,MD2TS Trading,2400.0,943.0
-927,"LENOVO Yoga 7i 82BH001LPH | 10-point Multi-touch | Intel Core i7-1165G7 | 8GB Soldered DDR4-3200 | 512GB SSD M2 2242 PCIe 30x4 NVMe | 14"" FHD (1920x1080) IPS | Windows 10 | Office Home and Student 2019 | LAPTOP",64995.0,Lenovo Yoga,5.0,Lenovo PH Store,21.0,4.0
-934,Inplay M066 Gaming Mouse Hollow Luminous Lightweight Mouse With RGB For Desktop / PC / Computer / Laptop,205.0,INPLAY,4.94,Inplay Gears,12000.0,4206.0
-935,YINDIAO G5 Gaming Mouse Wired Mouse 6D 4Speed DPI RGB Gaming Mouse For Computer Laptop Gaming Mouse,135.0,YINDIAO,4.94,dreamerhouse.ph,5400.0,1648.0
-936,HP M260 Wired Mouse 1200dip Optical Computer Mouse Office Ergonomic USB Gaming Mice for laptop desktop computer,199.0,HP,5.0,HP Philippines,4300.0,155.0
-937,Walram Desktop PC Memory RAM DDR3 DDR4 8GB 4GB 16GB DDR3/DDR3L 1600MHz 1333 MHz 240pin 15V /135V PC Desktop Notebook Laptop Memory balck wide 240Pin 288Pin,311.0,Walram,4.87,WALRAM Official Store,354.0,81.0
-938,ROBOT RP05 Anti Slip Mousepad Gaming Plain Black Rubber Mouse pad for PC Laptop Desktop - 12 Months Warranty,23.7,Robot,5.0,Wook Philippines,17.0,5.0
-939,Rechargeable 10inch Aluminum Wireless Bluetooth Keyboard for IOS Android Windows Tablet PC Laptop,230.0,NCC,4.46,NCC.ph,50.0,24.0
-940,MAIA 8 Fans Switch Control Speed Function Laptop Gaming Cooling Pad,342.02,Maia,4.85,MAIA.PH,579.0,274.0
-941,USB 20 Wireless Adapter 80211N 150Mbps Mini Wifi Dongle Adapter Receiver Fast Speed LAN Card For Laptop Desktop,91.0,PLEXTONE,4.8,Kacoolmall PH,7400.0,1507.0
-942,Adjustment Angles Suitable for All 14-17 Inch Laptops Red LED Laptop Cooling Pad Portable Slim Laptop Cooling Stand,419.0,HALL OF BRAND,5.0,electropro.ph,7.0,2.0
-944,Mini Projector Full HD Support 1920x1080 LED Projectors Smart Home Theater Portable projector laptop and cellphone 2024 Newest Video Beamer,1259.0,ALSTON,4.5,Alston Sports,27.0,10.0
-945,"ORICO 25 inch SATA to USB HDD/SSD Hard Drive Enclosure Tool-Free with 5Gbps Fast Transmission Rate, (05m) Micro-B to USB-A Data Cable, 6TB Max Disk Capacity, Water Resistant for Windows, macOS, Linux, PC, Laptop, TV, PS5 | 2189U3-V1 | JG Superstore",330.0,Orico,5.0,JG Superstore Pro,8.0,1.0
-946,Ladies Laptop Bag 156 Inch Large Capacity Multi Compartment Waterproof Business Work Bag Black,739.0,OEM,4.89,Home of Health and Beauty 1,413.0,129.0
-947,Nextfun laptop 14th generation N5095 thin and portable business office design drawing IR face recognition technology,16380.0,nextfun,5.0,nextFun Brand ,6.0,4.0
-951,1TB WD/SEAGATE  Hard Disk 25 inch SATA6Gb/s Laptop Internal,599.0,Seagate,5.0,STORAGEKING CAINTA,33.0,12.0
-952,3FAN High Speed Fan Notebook Cooler With LED Silent Adjustable Laptop Cooling Pad Stand Dual USB Holder for 12-17 inch Laptop,393.01,Audiobop,4.8,Audiobop shop,24.0,5.0
-953,"HW1010 Aluminum Laptop or Monitor Stand Riser in Black, White Birch & Hickory",799.0,OEM,5.0,Franchisehouse,62.0,15.0
-955,MOGEE Aluminum Alloy Foldable Laptop Stand Adjustable Laptop Holder Laptop Riser,163.66,MOGEE,4.93,MOGEE HARDWARE,15700.0,6692.0
-956,BOYA BY-V1/V2 Wireless Microphone Noise Cancellation Lapel Microphone Mini Mic for Vlogging iPhone Android Smartphones Action Camera Laptop PC YouTube TikTok Content Creators,1266.5,Saramonic,4.93,Saramonic Direct Store,1100.0,440.0
-957,excovip mouse pad  English EXCEL shortcut keys large mat stitched edge soft comfort non-slip Desktop computer laptop Learning office games Business dormitory gifts,178.8,excovip,4.98,EXCO ,304.0,136.0
-958,MIKUSO NCP-074 Dual Fan Laptop Cooling Pad Hurricane-2 Notebook Cooling Pad 5V LAPTOP COOLER,260.1,Telego,4.38,Telego,52.0,23.0
-959,ASUS Optical Usb Wired Mouse  For Pc and laptop,50.0,ASUS,4.79,ZAMA,1800.0,480.0
-960,GOOJODOQ Bluetooth Keyboard and Mouse  2nd Gen Pro 10 Inch 3 in 1 Wireless Keyboard Mouse Set Compatible with iPad Cellphone Laptop,250.0,GOOJODOQ,4.71,GOOJODOQ Certificated Store,3300.0,1102.0
-962,"Zengliu Precision Screwdriver Set, Professional Grade 115 in 1 Magnetic Repair Tool Kit for Electronics Computer iPhone Laptop Game Console Watch Eyeglasses Modding and DIY Projects",235.0,zengliu,4.83,Zengliu Mall,35.0,11.0
-963,AULA F2058/F2088 PUNK Mechanical Gaming Keyboard with 22 Backlit 108 Keys Metal Pane Metal-plated Keycaps with Removable Wrist Rest Programmable for PC Laptop Blue Switch/Black Switch/Brown Switch/Red Switch,1839.0,AULA,4.9,Aula Official Store,2500.0,1072.0
-964,Mini C120 Flying Air Mouse 24Ghz 6-axis Sensor With Keyboard Dual-sided Remote Control Wireless Mouse Game Controller For Home Laptop Office Android And TV Box Remote Control For Windows/Mac OS/Linux/Android,239.0,BestChoice,4.94,Bestchoises,91.0,36.0
-966,Seagate toshiba WD etc Hard disk Drive SATA and IDE 25  7mm and 95mm Laptop and Internal Harddisk REFURBISHED,648.0,Western Digital (WD),4.55,CT Techrevive,300.0,99.0
-967,Optimax USB Type C 24Ghz Wireless Optical Mouse for Laptop PCs,230.0,Optimax,4.58,The Ambassador Store,306.0,92.0
-970,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i5 13420H processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,41699.0,Lenovo,5.0,RayDigital,358.0,48.0
-983,RK ROYAL KLUDGE RK837 G68 68Keys Mechanical Keyboard Wireless Gaming Keyboard Bluetooth 51 24G Wired PC Keybaord with 3 USB Ports RGB Hot-Swap Custom Keyboard for Laptop Computer,2599.0,Royal Kludge,4.67,Royal Kludge Official Store,38.0,21.0
-984,AMD A6 705 G3 / 8GB DDR4 / 500GB HDD / 8 CORE CPU / HP BRAND / REFURBISHED,2700.0,HP,4.2,alforecean PC,28.0,10.0
-985,AMD GAMING PC ENTRY LEVEL SLIM DESKTOP PRE-OWNED WITH INTEGRATEAD GRAPHICS[REFURBISHED],4500.0,AMD,5.0,Eon PC,32.0,12.0
-986,Crucial SODIMM DDR5 5600mhz CL46 48GB 32GB 24GB 16GB Laptop Memory,2995.0,Crucial,5.0,vavutech,23.0,8.0
-989,Dell 780 intel i3 2nd gen ( Refurbished ),1900.0,Dell,5.0,alforecean PC,11.0,2.0
-990,Lenovo Legion Tower 7 7000P CPU 2021 AMD Ryzen Edition RTX 2060/3060/3070 GTX 1650/1660 ZZM TRADING,46440.0,Lenovo,5.0,ZZMTRADING,18.0,7.0
-991,Lenovo Think Centre M910Q MiniPC i5 6th / I3 6th Gen Preloved,5699.0,Lenovo,4.2,TGPC Computer,38.0,10.0
-994,Laptop  Dell  Lingyue 15 6Ten Core i5-6200/i7-6500 independent graphics card suitable for online education,16189.0,Dell,4.91,Tianchuan laptop store,17.0,10.0
-1003,Kingston Fury Impact DDR5 8GB/16GB/32GB 4800MT/s to 5600MT/s CL38 CL40 PC5 SODIMM Laptop Memory,1899.0,Kingston,4.83,PC PLUS MALL,49.0,23.0
-1004,INTEL I5 4TH GEN CPU / 8GB / 500GB / DESKTOP COMPUTER / COMPUTER CPU / REFURBISHED,3800.0,Dell,5.0,alforecean PC,16.0,1.0
-1006,"Lenovo Think Centre Mini pc i7 12th, i5 12th, i5 10th, i5 9th gen, i5 6th gen PRELOVED",10899.0,Lenovo intel,4.77,TGPC Computer,475.0,101.0
-1007,"Dell OptiPlex MiniPc 3000 i5 12th, 3070 i5 9th, 3080/3090 i5 10th PRELOVED",12299.0,Dell,4.88,TGPC Computer,810.0,192.0
-1008,EasyPC | Pocket Rocket GMKtec Nucbox G3 Intel 12th Alder Lake N100 Processor / 8GB 3200MHZ DDR4 / 512GB M2 NVMe SSD Mini PC,8895.0,nobrand,5.0,EasyPC,7.0,2.0
-1009,8GB 16GB 32gb DDR4 2400Mhz / 2666Mhz / 3200MHz TeamGroup Elite SODIMM | AMD and Intel Laptop RAM | High Quality Memory | Gaming Office Online Class Work Business | Collinx Computer,1398.88,Redragon,5.0,Collinx Computer,77.0,16.0
-1010,PROVISION Desktop Computer Set PC Full Set Intel Core i7 12700 i5 12400 i3 12100 8G 16G RAM 240G 512G SSD RGB Fan PC Gaming Computer for Work fro Home Online Class Up to 27 inch Monitor Beyond All in One PC Laptop,17613.0,ProVision,4.97,iJUNE PC,2700.0,635.0
-1011,HP H360G 71 Virtual Surround Gaming Headset Gaming Headphone with Microphone RGB Led Light Skin Friendly 50mm Speaker Over-ear-headphones for PC MAC Laptop Computer Phone,736.67,HP,4.87,MOGE Mall,18700.0,5864.0
-1012,"120W AC Exit Portable notebook computer power supply 36000mAh/48000mAh travel laptop computer charger, with 60W PD USB C external battery pack",4431.51,PAFISH,4.8,Pafish,63.0,20.0
-1019,AIODIY Brand 22 inch HD All In One PC Computer Desktop Brand New Intel Core i3 / i5 / i7 8G/16G RAM 120G/ 240G/512G SSD suitable for online courses / Office / fashion energy saving PC full set of 20/22 inch monitor is larger than the laptop screen,12764.0,AIODIY,4.95,AIODIY,16800.0,712.0
-1020,TGPC / Lenovo ThinkCentre M70Q / Mini PC / Intel Core i5 - 10th Gen / 8GB RAM / 256 GB NVME / PRELOVED,10899.0,Lenovo,5.0,TGPC Computer,6.0,1.0
-1021,DELL I5 4TH GEN MINI PC / 8GB / 500 GB / REFURBISHED,3800.0,Dell,4.36,alforecean PC,41.0,14.0
-1022,DESKTOP CPU / INTEL  i5 3RD GEN / COMPUTER HP Desktop CPU ( Refurbished ),3500.0,HP,4.0,alforecean PC,7.0,3.0
-1025,COR I7 2ND GEN / 8GB / 128GB SSD / DELL SFF CPU / REFURBISHED,3400.0,Dell,5.0,alforecean PC,12.0,5.0
-1028,"Hasee M6 Mini PC Windows 11 Mini Computer Intel Celeron N5095 Desktop Computer 8GB LPDDR4 RAM, 256GB SSD, 29GHz 4-Core, 2 x HDMI 4K UHD with HDMI Cable, USB 30, 5G WiFi, BT 42, Blue Backlit, Moon Silver",8999.0,Hasee,5.0,Lambo Official Store,9.0,21.0
-1031,"ASUS VIVOBOOK 16X (X1605ZA-MB819WSM) 16"" 1920x1200 IPS| Intel Core i5-1235U | Intel Iris Xe | 16GB DDR4 RAM | 512GB SSD (PC CENTRAL)",38999.0,ASUS,5.0,PC Central,51.0,12.0
-1032,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,41699.0,Lenovo ThinkPad,5.0,LB-store,221.0,47.0
-1037,PC Laptop Mouse Wire Holder Clip Desktop Bungee Cord Cable Gaming Organizer Rack Accessories,183.0,Vktech,4.98,Vktech Official Store,102.0,41.0
-1038,HP BRAND MINI PC ELITEDESK INTEL CORE i5 7TH GEN / i5 8TH GEN / i5 9TH GEN / i5 10TH GEN / i5 12TH GEN REFURBISHED,11493.53,Dell,4.32,MATSPC COMPUTER TRADING,150.0,47.0
-1039,GMK G3 Mini PC Intel 12th N100 Max 34GHz DDR4 3200MHz PCIe 30 M2 2280 SSD Windows 11 Pro 25G LAN Desktop Mini Computer 1 Year Warranty,5731.0,GMK,5.0,GWK Offical Store,19.0,23.0
-1040,MINI PC INTEL I5 6TH GEN / 8GB / 128GB SSD / DELL MINI PC / REFURBISHED,5000.0,Dell,5.0,alforecean PC,15.0,6.0
-1042,"All in one PC Hailan Core i5 7th Generation Full HD, 8gb ram, 256gb ssd / PRELOVED",6999.0,All in one,4.75,TGPC Computer,41.0,15.0
-1043,Core i7 Mini CPU 8/16gbram SSD Windows,7950.0,ASUS,5.0,MIR Computer Trading,5.0,1.0
-1044,EVOLVE All in One Desktop PC Computer Set Intel Core i3 / i5 / i7 8G/16G RAM 128G/ 256G/512G SSD Suitable For Online Courses Office Computer Full Set 20/24 inch HD Monitor,9603.0,Evolve,5.0,Evolve.,9.0,1.0
-1046,HP Mini PC Thin Client T510/T5570 DUAL CORE 2GB DDR3 16GB Flash SSD Space Saver & Low Cost Power REFURBISHED,1300.0,No brands,4.67,Logicgate Cristyle Store,54.0,18.0
-1048,DITU 14Inch/156Inch Portable Monitor Touch Screen 1080P 60Hz IPS Gaming Monitor For Phone PS3/4/5 Switch Xbox Laptop Computer,3461.27,OEM,4.68,DITU Shop,226.0,47.0
-1049,LORDWEY   Laptop stand adjustable，Adjustable iPad Stand Holder，360° Rotating Tablet Mount，Foldable Lifting Tablet Mac Support Stand,159.0,LORDWEY,5.0,LORDWEY MALL,7.0,2.0
-1051,Zeus Office / School Keyboard And Mouse USB Wired Office Desktop Laptop Mouse Keyboard Combo Set,339.0,Zeus,5.0,zeus.ph,21.0,4.0
-1054,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop 1 yr warranty Freebies,41699.0,Lenovo,5.0,Zorotech,350.0,45.0
-1057,Team Group Elite 8GB / 16GB 3200mhz DDR4 CL22 Sodimm Memory for Laptop,995.0,Team Group,4.97,PC Chain,924.0,231.0
-1058,"Audiobop S500 Laptop Cooling Pad 12""-17"" Cooler Pad Chill Mat 5 Quiet Fans LED Lights and 2 USB 20 Ports Adjustable Mounts Laptop Stand Height Angle, Blue",425.0,Audiobop,4.5,Audiobop shop,18.0,6.0
-1059,FIREWOLF M1 USB Wired Gaming Mouse High configuration With Backlight For PC and Laptop,77.81,FIREWOLF,4.83,FIREWOLF,1800.0,564.0
-1060,Leacat Women backpack oxford cloth waterproof New large Capacity Leisure Business Travel backpack 14inch laptop backpack,441.09,Leacat,4.91,Leacat Store,240.0,111.0
-1061,BOW HW156S-A Lightweight Wired keyboard Chocolate Keys ABS Scissor Foot Structure Silent Portable USB interface Keyboards with Keyboard Cover for Laptop Desktop PC,619.0,BOW,5.0,BOW Flagship Store,99.0,50.0
-1063,Nexion Gaming Mouse New Design RGB 7D Breathing Light PC Computer Or Laptop Wired Mouse,269.66,DBAUDIO BY ASTRON,5.0,DBAUDIO BY ASTRON Electronics Accessories-.,5.0,2.0
-1064,Anime We Bare Bear & Wninne Theme Cute Kawaii Cartoon Laptop Skin Sticker Universal Notebook Vinyl Cover Art Decals sticker Fits for HP Samsung Dell Apple Acer Asus Leonovo Sony Huawei Notebook,165.0,Royqueen,4.88,AMY CENTER,397.0,146.0
-1070,"Lenovo ThinkPad T14P 2023 13th Gen i5|i7|i9 Iris Xe|RTX 3050 14"" IPS 22K Res 100% sRGB 16GB|32GB DDR5 512GB|1TB SSD ZZM TRADING",999999.0,Lenovo,5.0,ZZMTRADING,8.0,1.0
-1072,"ORICO HDD Enclosure 25Inch SSD Case USB/Type C Port 5Gbps USB 30 25"" External Storage HDD Case SATA 5Gbps HDD SSD Hard Drive Enclosure Support UASP for PC Laptop",269.0,Orico,4.93,Orico Online Store,3400.0,855.0
-1073,Vention HDMI Cable 4K 60Hz HDMI 20 Male to Male Cord 3D High Speed for Laptop PC Smart box PS5 PS4 Switch to TV Display Monitor Connector Projector HDMI to HDMI Cable,247.0,Vention,4.94,Vention Global,86500.0,17085.0
-1075,TGPC / HP Prodesk 600 G6 / Mini PC / Intel Core i5-10th Gen / 8GB RAM / 256 GB NVME / PRELOVED,10899.0,HP,5.0,TGPC Computer,8.0,2.0
-1076,"Logitech K122 USB Wired Standard Keyboard, Full Size, Splash Resistant, PC/Universal Laptop (Black)",280.0,Logitech,4.71,STA.PH,258.0,63.0
-1077,BRAND NEW SYSTEM UNIT RYZEN 5 5600G 8GB RAM 256GB SSD + POWERCABLE,12959.0,Biostar,4.62,TFIVE,24.0,13.0
-1078,Computer Set ( Lenovo ThinkCentre SFF / Intel Core i5 6th Gen / 8GB RAM 256GB SSD ) WIFI and MAR Windows Activated PREOWNED UNIT,6215.0,Lenovo,4.33,JJ-KING COMPUTER LAPTOP SUPPLIER,10.0,6.0
-1079,Soundcore by Anker R50i NC Earbuds Adaptive ANC Bluetooth 54 TWS 42dB Low Latency Headphone 45H Play Time Headsets 10mm Drivers Earphone for iPhone 15 pro max Android Phone Laptop,1061.0,Anker,4.95,Anker Global,8400.0,4172.0
-1080,EONE All In One PC Desktop Computer Set 22 Inch 24 Inch Intel Core i3/i5/i7 16G RAM 512G SSD High Speed Hard Disk PC Set for Home/Office/Business,12962.0,Eone,4.97,EONE OFFICAL STORE,282.0,217.0
-1084,INTEL I3 6TH GEN CPU / 8GB / 500GB / DELL I3 6TH GEN / DESKTOP CPU I3 6TH GEN / REFURBISHED,4000.0,Dell,4.54,alforecean PC,26.0,13.0
-1085,"Hasee M7 Mini PC (Intel, Dual-Screen 4K, WiFi) Intel Celeron N100 Mini Computer 34GHz 4-Core 4 Threads, 16GB LPDDR5 RAM 256GB SSD, 3 HDMI 4K UHD with HDMI Cable, 3USB 30, Windows 11, BT, WiFi 5, Black",23199.0,Hasee,4.43,Lambo Official Store,7.0,22.0
-1088,"EXPOSE Laptop Cooling Pad USB 6LED Fans Cooling Pad For Laptop 9""-17"" laptop Stand Lighting Adjustable Foldable Laptop Cooler Pad Cooler",499.0,Expose,5.0,Buwan ,60.0,6.0
-1089,Dell Laptop | Dell Latitude E7490 | Intel® Core™i7 8Th gen | 16GB +1TB | integrated graphics | 14 inches | laptop brand new original,20982.07,Dell,4.73,Game Computer Mall,39.0,15.0
-1096,"Lenovo ThinkBook 16+ 2024 Ultra5/7 RTX4050/4060 16"" 25K 16/32GB RAM 512GB/1T SSD ZZM Trading",72360.0,Lenovo,5.0,ZZMTRADING,10.0,3.0
-1102,"Inplay KMT-4 Laptop Stand With Monitor Mount 2-in-1 Dual Arm Fully Adjustable Mount For 13-27"" Monitor",999.0,INPLAY,4.93,Inplay Gears,1700.0,726.0
-1103,HP KM300F Gaming Keyboard & Mouse Set Suitable for office desktops and laptops,1122.57,HP,4.99,HP Philippines,5800.0,179.0
-1104,iMICEPH Universal USB Mini Multimedia 78keys Keyboard for Laptop,155.0,iMice,4.9,iMicePH,287.0,129.0
-1105,Portable Folding Metal Laptop Stand Aluminium Alloy 6-level Height Foldable Metal Oxidation Tablet Notebook Aluminum Bracket Hyselec Shop,199.0,Jisulife,5.0,Hyselec Shop,12.0,5.0
-1106,Lenovo Mini Wired USB Keyboard For Notebook Laptop PC Computer Black,139.87,Lenovo,4.71,CTX shop,816.0,218.0
-1107,EASYTECH  CPU-C04 Intel Core i3 3rd Gen 4GB RAM DDR3 250GB HDD Dell Optiplex 3010 (Refurbished),1939.03,Dell,4.54,EasyTech717,73.0,26.0
-1108,INTEL I5 4TH GEN MINI CPU / 8GB / 128GB SSD / DELL MINI I5 4TH GEN / REFURBISHED,4200.0,Dell,4.7,alforecean PC,50.0,9.0
-1109,Solar Powered Generator 78800mAH 200W 220V Multi-Function Portable Big Capacity Power Station AC/DC/USB Output Solar Generator Emergency Power supply for CPAP Outdoor Adventure Laptop Powerbank Portable Generator Auto Travel Home Emergency Power Supply,2303.0,DEKES,4.71,DEKES,390.0,147.0
-1112,FANTASY ORIGINAL FANTECH LUMINOUS C30 QUAD HIGH DEF 1440P 2K QUAD HD USB Web Camera Webcam with Built-in Microphone for PC/MAC/LAPTOP,1399.0,Fantech,4.62,FANTASY Creative Products,29.0,8.0
-1114,Dell Latitude E7450 | Intel® Core™i5 i7 | 16G RAM | 256GB SSD 512GB SSD 1TB SSD |  Intel GMA HD 5500 | 14 inches  | laptop brand new original,14905.99,Dell,4.96,Office Computer Store,78.0,49.0
-1125,Desktop Set ( HP Elitedesk 800 G2 / Intel Core i5 6500 / 32 GHZ Quadcore / 16GB Ram DDR4 500GB HDD / 22 Inches Monitor / Accessories ) PREOWNED UNIT,6000.0,HP,4.86,JJ-KING COMPUTER LAPTOP SUPPLIER,18.0,4.0
-1128,"HP T630 Thin Client AMD GX-420GI 20Ghz Quad Core  4GB 8GB DDR4  128GB M2 SSD Windows 10 [PRELOVED]""",4990.0,Hewlett Packard,4.2,Ryellan,11.0,5.0
-1129,Dell Optiplex 3050/3060/3070/3080/3090/5060 Mini-PC 5-11th Gen Intel Hexa-Core i5 16GB RAM 256GB SSD Built-in WiFi and Bluetooth Windows 11 Pro OS PRELOVED,7899.0,Dell,5.0,MIKETECH COMPUTER CENTER,23.0,7.0
-1131,"Brand New Hasee God of War Mini PC Intel Core i5-12450H Windows 11 Mini Computer 29GHz 8 Core 12 Threads, 16GB DDR4 RAM, 256GB SSD, 1HDMI 4K UHD, 4USB 30, 1Typc C Interface, BT, WiFi 6, RGB Light, Office/Gaming Computer - Mini i5",21699.0,Hasee,5.0,Lambo Official Store,5.0,17.0
-1133,BMAX B3 Mini PC easy PC  All In One Desktop Intel N5095 8GB LPDDR4 256/512GB/1T SSD Intel 11th Gen UHD Graphics,8699.0,BMAX,5.0,BMAX,65.0,9.0
-1134,HP GT53 BLACK,275.8,HP,4.93,J&L INK,681.0,102.0
-1138,Intel  Quad Core i5 / i7 4790 computer set pc full set pc Quad-Core 8GB / 16GB RAM 256GB / 512GB M2 SSD Gaming Desktop Computer Full Set PC Computer set,6599.0,ProVision,5.0,iJUNE PC,75.0,18.0
-1139,INTEL I5 7TH GEN / 8GB / 240GB SSD / DELL CPU I5 7TH GEN / REFURBISHED,6500.0,Dell,4.0,alforecean PC,14.0,3.0
-1140,ICON All in One Desktop PC Computer Set PC Full Set Intel Core i3/i5/i7 8G/4G RAM 120G/240G SSD for Home/Office/Business Simple Fashion Energy Saving High Speed Hard Disk 20 inch Large Monitor ultrathin High configuration,10045.0,Icon,4.96,Icon Technology Inc,12100.0,907.0
-1144,✅ 100% ICON Original Computer set pc full set All In One Desktop Computer Core I7/I5/I3 SSD Faster Space Save UPS 20 Inch HD Large Screen ICON Brand New for Work Office Online Class Gaming PC Personal Computer,16999.0,Icon,4.98,NINE PLUS,720.0,391.0
-1145,"Free ASUS Wireless Keyboard and Mouse Bundle All in one Computer 238 inch/27 inch curved surface  core i7 RAM 16GB SSD 512GB Windows 10 System unit pc computador gaming pcs gamer Monoblock Gaming pc Free shipping, 2 year local warranty aio desktop",25999.0,OEM,4.98,AIO All-in-one PC,627.0,330.0
-1154,AMD RYZEN 5 5600G / B450M /  (BRAND NEW) WHITE BUILD / GAMING DESKTOP COMPUTER /  FREE INSTALLATION OF GAMES AND APPS,12499.0,AMD Ryzen Desktop,4.76,ZapMax Trading,32.0,16.0
-1157,Intel Core i5-12400 12th Gen Desktop Set DDR4 16GB RAM / Nvme M2 512GB SSD Full Set Gaming PC Computer,21999.0,INPLAY,4.94,Inplay Gears,228.0,35.0
-1160,ICON All in One PC Computer Set Core I3 I5 I7 Brand New 20inch gaming pc set Intel Up to 12th Generation Processor and 128G 256G SSD Desktop computer 20 inch monitor,10045.0,Icon,5.0,Icon Technology Inc,49.0,30.0
-1161,PROVISION Mini Desktop Computer Set With Intel core 12th 11th Processor Built-in Bluetooth/Wifi616Gb DDR5 DDR4 500G M2 SSD With 27inch Curved Monitor For Office and Gaming PC full set,8990.0,ProVision,4.99,iJUNE PC,945.0,127.0
-1165,BMAX B3 PRO Mini PC  All In One Desktop Intel Jasper Lake N5095 8GB DDR4 256GB SSD with Ethernet port Intel UHD Graphics 4 Cores 29GHz HDMI Win11 WiFi,8699.0,BMAX,5.0,BMAX,63.0,6.0
-1166,COR I5-7TH GEN / 8GB / 240GB SSD / DELL SFF / REFURBISHED,6500.0,Dell,3.0,alforecean PC,6.0,2.0
-1168,19 inch All in One PC Computer Set Core I5 Brand New 19 inches gaming pc set Intel dual-core I5 i3 4th Up To 26GHZ With 4G 8G ddr3 1600 memory and 128G 240G 480G 512G SSD,8720.3,Xtyle,5.0,XTYLE TECH,60.0,54.0
-1169,"Lenovo PC Core-i5 Mini Windows 11 Pro OS 8GB System Memory 256GB SSD 6th, 7th, 8th, 9th Gen Intel Quad Core-i5 PRELOVED",10499.0,Lenovo,5.0,MIKETECH COMPUTER CENTER,8.0,3.0
-1170,"FUNXUN Windows 11 AcoBook X7 Pro Laptop 156"" 1920x1080 FHD IPS Display 12GB/16GB DDR4 128GB/2562GB/512GB/1T SSD Intel Celeron N5095(Turbo up to 29 GHz) Full Backlit Keyboard Fingerprint Reader 24/5G WIFI, BT",11953.91,FUNXUN,5.0,FUNXUN Store,5.0,1.0
-1171,VAORLO 24 Ghz Foldable Wireless Optical Mouse Non-Slip Mouse with Mini USB Receiver for Laptop PC,152.64,VAORLO,4.54,VAORLO 3C Store,142.0,71.0
-1181,Beelink SER5 R7 5800H/R5 5500U Radeon 7 Core Graphics Windows 11 Mini PC 16/32GB DDR4 500GB NVMe SSD WIFI6 BT52 Mini Computer,15540.0,Beelink,5.0,Lans MiniPC Store,282.0,74.0
-1184,ICON All in One PC Desktop Computer Intel Core i3/i5/i7 8G 16G RAM 128G 256G 512G SSD 20 22 24 Inch Built-in UPS HD Camera Wifi Office Learning Gaming Computer Lahat sa Isang PC Desktop Computer Intel Core i3/i5/i7 8G 16G RAM 128G 256G 512G SSD,11006.29,Icon,5.0,TopPlayer ICON,37.0,6.0
-1185,CPU Desktop Computer Gaming  PC Intel I5 7500 i5 7400 i5 6400 4 Core 38Ghz 8G 16G 32G  DDR4 2400 60g ssd 120G ssd 240G SSD 500g 1tb HD 630 Graphics Card Computer  PC 	Gaming Cpu For Dota2/LOL/DNF/PS/AI/CDR/CAD,11610.0,ProVision,4.82,iJUNE PC,207.0,134.0
-1186,COMPUTER SET RYZEN 5 2400GE,12700.0,AMD,4.95,Kai's Computer Trading,78.0,38.0
-1187,"Intel Core i3 All-in-One PC 19 inch, business all-in-one computer 8G RAM 256G SSD free wireless mouse and keyboard, high-definition camera, one-year warranty",10999.0,AST,4.83,SEALUP,19.0,12.0
-1190,"GOOJPRT GP-T3 All-in-one POS System Cash Register 156 Inch Touch Screen Machine Set ( Single / Dual Screen) Windows for Small Business Sales , Retail , Grocery & Restaurant",19800.0,GOOJPRT,5.0,GOOJPRT,14.0,4.0
-1192,Multimedia USB Mini Wired Keyboard Universal For PC Laptop,163.93,nobrand,5.0,Digital pioneer,41.0,7.0
-1194,"WookPh Mouse M220 Silent Click Wireless Mouse Gaming Mouse 24GHz USB Optical Mouse for PC Laptop Cute Design, High Accuracy, Smooth 12 Months Warranty Authentic",229.57,Robot,5.0,Wook Philippines,15.0,2.0
-1200,"Dell Inspiron 5635 Laptop AMD Ryzen™ 5 7530U or AMD Ryzen™ 7 7730U | Radeon™ Graphics | 16"" FHD Screen | 512GB SSD + 16GB RAM | Windows 11 Home | Microsoft Home & Student 2021 | 2 yrs Warranty | 1 year McAfee Antivirus | Platinum Silver | FREE BAG",61990.0,Dell,4.33,Dell,16.0,3.0
-1203,"Lenovo ThinkPad Neo 14 2022 (INTEL | RYZEN EDITION) AMD Radeon Intel Iris Xe 140"" 2240x1400 16GB LPDDR5  512GB SSD",51840.0,Lenovo,5.0,ZZMTRADING,34.0,13.0
-1208,PROVISION All In One PC Desktop Computer Set 24inch Display With I7 processor and 16GB DDr4 Memory and 512Gb SSD For Gaming and Office Work design,14640.0,ProVision,5.0,iJUNE PC,506.0,152.0
-1210,PROVISION All in one PC Computer set i3 /i5 /i7 8G/16G RAM 128G/256G/512G SSD for online courses /Office /PC full set of 24 inch monitor 19inch,8999.0,ProVision,4.93,iJUNE PC,438.0,126.0
-1211,PROVISION Mini PC Computer Desktop computer Intel Core I7 8650U Quad core Processor 8 Tread 19-42Ghz Frequency With 16G 8G RAM 256G SSD 512G SSD 1TB SSD  Windows 10 Opration System Unit with 238inch Monitor 19inch 22inch,16329.0,ProVision,4.96,iJUNE PC,772.0,138.0
-1212,T11 Plus Mini PC Windows 10 Pro Intel x5-Z8350 4GB+64GB eMMC Support 25inch HDD HTPC 24G/5G WiFi Bluetooth Fanless mini computer HDMI+VGA Output Pulierde,6877.58,Pulierde,5.0,Pulierde Official Store,9.0,1.0
-1213,AMD Ryzen 5 5600G CPU Desktop Package with Built-in GPU / Prebuilt Unit For Gaming Work Online Class / Brand New RGB Ready to Use with Monitor and Free Gift / Easy Setup (Collinx Computer),16048.0,Redragon,4.83,Collinx Computer,134.0,58.0
-1215,PC Set Gaming Desktop Computer Set Ryzen 5 5600G Ryzen 3 3200G With 8G/16G Memory 60G 120G 240G ssd 500g 1T hdd DIY Desktop computer with RGB LED fans PUBG LOL GAT5,27878.0,ProVision,4.94,iJUNE PC,1300.0,484.0
-1216,"AMD Cpu System Unit Computer Set Pc Cpu Desktop Computer AMD  A8 7600 Series Quad-Core Up To3,8  GHZ With 8G/16G Memory 120G 240G ssd 500g 1T hdd DIY Desktop computer with RGB LED fans",9110.0,ProVision,4.89,iJUNE PC,712.0,424.0
-1217,Nextfun laptop 2-in-1 Win10 system 101-inch thin and light student online class office tablet,4950.0,nextfun,5.0,nextFun Brand ,23.0,14.0
-1218,MAIA Laptop Stand Heightened Lift Tablet Computer Heat Dissipation Portable Support,183.26,Maia,4.95,MAIA.PH,1300.0,648.0
-1219,Mx3 Wireless Keyboard Controller Remote Control Air Mouse For Smart Android 71 Tv Box Smart Laptop,219.0,APPO TECHNOLOGY,4.89,APPO TECHNOLOGY,882.0,348.0
-1220,Dell XPS 15 - 9510 - 156-inch FHD | i7-11800H | 16GB | 1000SSD | RTX 3050Ti 4GB |  Win 11 Home | Microsoft Office Home and Student 2021,154990.0,Dell,5.0,Dell by Indigo,11.0,5.0
-1221,Spy Logitech LG Wireless Mouse 24G Rechargeable Mice Ultra-Thin Silent Mouse Mute For Laptop PC Office Computer 24ghz with USB mini receiver,132.3,Spy,4.83,Spy-Link,553.0,218.0
-1223,"Microsoft Surface Pro 6 (i5, 128GB, 8GB) with Type Cover and Pen (Platinum)",67990.0,Microsoft,5.0,Surface,5.0,2.0
-1225,AMD Desktop Ryzen 5 5600G Gaming PC Ryzen3 3200G with DDR4 16GB RAM  512GB SSD Full Set Computer Gaming Desktop,9179.0,ProVision,4.83,iJUNE PC,327.0,95.0
-1226,JSHIX 24 Inch All In One PC Computer Desktop Brand New Intel Core N5095 16G RAM 256G/512G/1TB SSD Suitable For Online Courses/Home/Office/Business/Fashion Energy Saving PC Full Set,16059.0,OEM,5.0,JSHIX Franchise Store,5.0,3.0
-1229,AMD Desktop Computer Full Set Athlon/Ryzen 3/5/7 series Octa core 46Ghz frequency 16G RAM 1TB SSD Radeon™ Graphics Vega 8 Home Office/Designer drawing RGB case Speciality Gaming PC Set Brand new 3 yr warranty,21599.0,ZORO,5.0,Zorotech,4100.0,137.0
-1231,Computer Set Ryzen 5 5600G,15500.0,AMD,4.87,Kai's Computer Trading,172.0,76.0
-1238,AMD RYZEN 5 5600G PC | With Radeon Graphics | Ready to Use | Ready to Use | Plug and Play CPU Work Online Class | Collinx Computer,19499.0,Redragon,5.0,Collinx Computer,31.0,22.0
-1239,AMD RYZEN 7 5700G RGB Desktop | Radeon Graphics | Ready to Use | High Quality CPU with Freebies | Gaming Office Online Class Work Business | Collinx Computer,25289.0,Redragon,4.98,Collinx Computer,128.0,58.0
-1240,"Gaming Complete Set  ( Ryzen 7 5700G, Gigabyte A520 Motherboard, Cyborg Case with 6 LED Fan, 24 Inches Curve Monitor and Accessories ) Good for Editing and Gaming",21513.0,AMD Ryzen Desktop,4.21,JJ-KING COMPUTER LAPTOP SUPPLIER,88.0,24.0
-1241,Laptop Stand Notebook Accessories Laptop Mushroom Holder Foldable Mini Cooler Stand for Macbook Pro Air Support Bracket,239.0,GSE,4.88,GSE PH,60.0,25.0
-1242,Universal mini USB Keyboard FOR APPLE Laptop PC  (Black),146.47,No Brad,4.83,ZAMA,66.0,18.0
-1243,AKAPE - 9525 Computer stand notebook cooling rack table (white),249.0,No brands,4.91,Akape Trading,1900.0,653.0
-1244,"Laptop Stand, Laptop Notebook Stand, Portable Laptop Stand, Aluminum Cooling Notebook Computer Stand, Aluminum Ergonomic Laptop Riser",369.0,V&R,4.87,Retail factory,860.0,340.0
-1245,Lenovo ThinkPad T460P T470P/Intel Core i7/14in FHD 19201080/16GB RAM+256GB SSD/Nvidia GeForce 940m 2G/BrandNew Original Laptop /HD Camera/WiFi/Bluetooth/Fingerprint unlock,26131.8,Lenovo ThinkPad,5.0,16G+Laptop Mall,83.0,60.0
-1247,Brand new HP Notebook 15s office gaming Laptop 10th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop,43299.0,HP,4.86,LB-store,2100.0,57.0
-1254,IMICE G6 24G WIRELESS MOUSE BUSINESS OFFICE 6-BUTTON GAMING MOUSE  For Computer Laptop PC,257.05,iMice,4.96,Brodu,70.0,24.0
-1257,Topton F8 Ryzen 7 5800H Core i9 11900H Mini PC Dual DDR4 3200MHz Dual NVME Triple 4K display WiFi6 Windows 11/10,12825.89,TOPTON,5.0,Topton Computer Store,42.0,12.0
-1258,AMD RYZEN 3 3200G CPU Desktop Package with Built-in GPU / Prebuilt Unit For Gaming Work Online Class / Brand New RGB Ready to Use with Monitor and Free Gift / Easy Setup (Collinx Computer),12949.0,Redragon,4.91,Collinx Computer,51.0,21.0
+Unnamed: 0,Name,Price,Brand,Rating,Seller Name,Number of Sales,Number of Reviews
+984,AMD A6 705 G3 / 8GB DDR4 / 500GB HDD / 8 CORE CPU / HP BRAND / REFURBISHED,64.8,HP,4.2,alforecean PC,28,10
+122,Acer C732 | Intel Celeron N3350 | 32GB Storage | 4GB RAM | Good for Online class and Office use | Preloved,69.58,Acer,5,Funplus Computer Parts,7,3
+103,Laptop - HP Chromebook 11 G5 4GB Ram 16GB SSD Chrome OS Playstore free Charger and Laptop Pouch ( Pre-Owned ),69.6,HP,4.8,JAPAN SURPLUS SUPPLIER,491,219
+29,ACER C731 Laptop | 116 inches Screen Size | 4GB RAM Intel Celeron N3060 | Win10 | With Built in Camera PRELOVED,70.68,Acer,4.43,Funplus Computer Parts,39,7
+986,Crucial SODIMM DDR5 5600mhz CL46 48GB 32GB 24GB 16GB Laptop Memory,71.88,Crucial,5,vavutech,23,8
+85,ORIGINAL Acer C731 Chromebook upgraded to WIN 10  l plus 512 GB I 3 MONTHS WARRANTY I  REFURBISHED LAPTOP,71.98,Acer,4.64,YouNiqueLovebyLeizel,600,205
+243,Dell Chromebook 11 3180  UPGRADED TO WINDOWS 10 WITH 3 Months Warranty REFURBISHED LAPTOP,71.98,Dell,4.85,YouNiqueLovebyLeizel,392,165
+254,"Assorted Used Notebook Laptop & Chromebook Laptop | Free Laptop Bag, Mouse, Mousepad & Charger | For Business, Work from Home, Online Class |Preloved",71.98,Assorted brand,4.69,Ttrend IT Solution,649,251
+151,"Dell Chromebook 11 3180 HP Chromebook 116""- Intel Celeron N3060 Dual-core (2 Core) - 4 GB RAM - 16 GB SSD and 128G TF card WINDOWS 10 OS - English (US) Keyboard  used laptop 2k budget mini laptop second hand laptop[PRELOVED]",72,No,4.87,Refurb Zone,1800,460
+126,Acer C771 | Intel Celeron N3588U | 4GB RAM | Good for Online class and Office use | Preloved,74.47,Acer,5,Funplus Computer Parts,6,2
+160,LAPTOP ASSORTED BRAND CHROMEBOOK 4GB RAM 16GB SSD + ACCESORIES,75.14,Dell,5,TFIVE,11,1
+748,Llano New V10 Laptop Cooling Pad Equipped Rpm 3500 Gigantic Turbo-Fan Rapid Cooling Gaming Laptop With Adjustable Brackets Suit for 13-173 inch,78.22,llano,4.79,llano,265,149
+776,"VTech Bluey Game Time Laptop, Interactive Learning Laptop with Pre-School Content",79.8,Vtech,5,Vtech,13,5
+728,SECURE UPS 650VA/1000VA/1500VA/2000VA/3000VA For PC Laptop Or Wifi Uninterruptible Power Supply,79.92,DBAUDIO BY ASTRON,5,DBAUDIO BY ASTRON Electronics Accessories-.,172,42
+397,DELL Chromebook Laptops 3100 N4000 4GB RAM 16GB 128GB SSD 1-Year warranty Home Office Laptops,80.13,Dell,4.79,XTYLE TECH,1400,58
+246,DELL Chromebook Laptop 3100 4GB RAM 16GB 128GB SSD Online Learning Office Work Laptops Refurbished,81.58,Dell,4.73,INFOCRAFT,2400,156
+1025,COR I7 2ND GEN / 8GB / 128GB SSD / DELL SFF CPU / REFURBISHED,81.6,Dell,5,alforecean PC,12,5
+1048,DITU 14Inch/156Inch Portable Monitor Touch Screen 1080P 60Hz IPS Gaming Monitor For Phone PS3/4/5 Switch Xbox Laptop Computer,83.07,OEM,4.68,DITU Shop,226,47
+59,HP 14 G4 | Class C | Intel Celeron N2840 | 4GB RAM | Good for Online class and Office use | Preloved,83.78,HP,4.83,Funplus Computer Parts,15,6
+919,TGPC / Dell OptiPlex 3050 / Mini PC / i3 6th Gen / 8GB Ram / 256 SSD / PRELOVED,83.98,Dell,5,TGPC Computer,6,3
+886,COMPUTER SET / INTEL COR2QUAD 4GB RAM / 250GB HDD / COMPLETE SET WITH KEYBMOUSE HEADSET / READY TO USE / REFURBISHED,84,Dell,5,alforecean PC,14,6
+1022,DESKTOP CPU / INTEL  i5 3RD GEN / COMPUTER HP Desktop CPU ( Refurbished ),84,HP,4,alforecean PC,7,3
+884,INTEL COR I5 4TH GEN / 8GB / 500GB HDD / DELL OPTIPLEX MINI TOWER / REFURBISHED,91.2,Dell,5,alforecean PC,9,5
+1004,INTEL I5 4TH GEN CPU / 8GB / 500GB / DESKTOP COMPUTER / COMPUTER CPU / REFURBISHED,91.2,Dell,5,alforecean PC,16,1
+1021,DELL I5 4TH GEN MINI PC / 8GB / 500 GB / REFURBISHED,91.2,Dell,4.36,alforecean PC,41,14
+56,Nextfun 101-inch win10 tablet windows PC 2-in-1 Laptop Office Entertainment 4GB RAM +128GB ROM,95.91,nextfun,4.94,nextFun Brand ,403,235
+53,"LAPTOP HP PROBOOK 4520S INTEL CORE i3 1ST GEN 4GB RAM 500GB HDD DVD ROM NO BUILT IN CAMERA ( FREE USB CAM ) 156"" INCHES WINDOWS 10 CLASS B",96,HP,3.8,JJ-King Marketing,15,1
+1084,INTEL I3 6TH GEN CPU / 8GB / 500GB / DELL I3 6TH GEN / DESKTOP CPU I3 6TH GEN / REFURBISHED,96,Dell,4.54,alforecean PC,26,13
+711,Mini PC Windows 10 Pro Mini Computer Intel Celeron 6/8GB RAM 128/192/256/320/512GB SSD Dual HDMI Gigabit Ethernet Dual Band WiFi 24G/5G Bluetooth 4 Support Triple Display 4K UHD,96.11,FUNXUN,4.92,FUNXUN Store,253,15
+650,Nextfun  101Inch tablet PC Laptop Intel Laptop 5G Wifi 128G ROM 8G RAM Windows 10 2 in 1 Tablet Microsoft Office Google,100,nextfun,4.87,nextFun Brand ,641,279
+1108,INTEL I5 4TH GEN MINI CPU / 8GB / 128GB SSD / DELL MINI I5 4TH GEN / REFURBISHED,100.8,Dell,4.7,alforecean PC,50,9
+86,Nextfun 2in1 laptop Intel CPU 101inch tablet PC Office Ultra-thin Computer Windows Tablet HDMI Business office laptop,103.2,nextfun,4.95,geyakeji,157,127
+1012,"120W AC Exit Portable notebook computer power supply 36000mAh/48000mAh travel laptop computer charger, with 60W PD USB C external battery pack",106.36,PAFISH,4.8,Pafish,63,20
+880,SECURE UPS Power Supply 650VA/1000VA/1500VA/2000VA/3000VA Uninterruptible For PC Desktop Laptop Wifi,107.04,DBAUDIO BY ASTRON,4.8,DBAUDIO BY ASTRON Electronics Accessories-.,14,5
+985,AMD GAMING PC ENTRY LEVEL SLIM DESKTOP PRE-OWNED WITH INTEGRATEAD GRAPHICS[REFURBISHED],108,AMD,5,Eon PC,32,12
+262,2 in 1 Laptop Windows 10 Business Laptop Microsoft Office Tablet PC 2023 Touch Screen 101 Inch Windows 10 System Laptop,108.72,nextfun,4.85,geyakeji,165,88
+0,"FUJITSU LAPTOP 133 inches and 156 inches intel Celeron/i3/i5 | Memory 4GB 8GB 16GB | SSD128GB 256GB 512GB SSD Laptop WINDOWS 10 ""PRELOVED""",112.87,Fujitsu japan surplus,4.98,FicoPc Trading Corp.,280,96
+267,"Nextfun notebook computer suitable for business and home use, with Windows 10, online course learning WiFi/Bluetooth",116.06,nextfun,4.64,nextFun Brand ,16,11
+1217,Nextfun laptop 2-in-1 Win10 system 101-inch thin and light student online class office tablet,118.8,nextfun,5,nextFun Brand ,23,14
+1128,"HP T630 Thin Client AMD GX-420GI 20Ghz Quad Core  4GB 8GB DDR4  128GB M2 SSD Windows 10 [PRELOVED]""",119.76,Hewlett Packard,4.2,Ryellan,11,5
+1040,MINI PC INTEL I5 6TH GEN / 8GB / 128GB SSD / DELL MINI PC / REFURBISHED,120,Dell,5,alforecean PC,15,6
+647,Desktop computer set gaming pc AMD A4 A6 A8 A10 Athlon 3000G Ryzen3 3200G Ryzen5 5600G with 8G 16G 32G Memory and 120G 240G 480G SSD and 500G 1TB HDD,128.52,❤️No brand❤️,4.9,BYTE Q IT,738,214
+51,LAPTOP LENOVO YOGA 11E INTEL PENTIUM 4GB RAM 128GB SSD + ACCESSORIES,129.58,Lenovo,5,TFIVE,8,1
+991,Lenovo Think Centre M910Q MiniPC i5 6th / I3 6th Gen Preloved,136.78,Lenovo,4.2,TGPC Computer,38,10
+1039,GMK G3 Mini PC Intel 12th N100 Max 34GHz DDR4 3200MHz PCIe 30 M2 2280 SSD Windows 11 Pro 25G LAN Desktop Mini Computer 1 Year Warranty,137.54,GMK,5,GWK Offical Store,19,23
+247,Toshiba  Laptop I5 5200U  16G RAM 16GB 128GB SSD 1-Year warranty Home Office Laptops,138.67,Toshiba,5,XTYLE TECH,107,7
+805,HKC 24/27 Inch ips Monitor 100HZ FHD Framless Flat Gaming Office Monitor For PC Laptop,139.18,INPLAY,4.96,Inplay Gears,67,24
+258,Nextfun 2-in-1 Laptop 4GB+ 128GB 101 Inch tablet HD Screen Office Study Laptop windows tablet pc,143.98,nextfun,4.96,aedtfghsrytj,167,113
+1125,Desktop Set ( HP Elitedesk 800 G2 / Intel Core i5 6500 / 32 GHZ Quadcore / 16GB Ram DDR4 500GB HDD / 22 Inches Monitor / Accessories ) PREOWNED UNIT,144,HP,4.86,JJ-KING COMPUTER LAPTOP SUPPLIER,18,4
+904,"Dell System unit i3 , i5 and i5 7050 / 7040 / 3020 / 3010 / 390 Ready To use REFURBISHED",148.96,Dell,4.93,PC MURA,39,15
+1078,Computer Set ( Lenovo ThinkCentre SFF / Intel Core i5 6th Gen / 8GB RAM 256GB SSD ) WIFI and MAR Windows Activated PREOWNED UNIT,149.16,Lenovo,4.33,JJ-KING COMPUTER LAPTOP SUPPLIER,10,6
+889,Refurbished) Toshiba Laptop Intel i7 i5 i3 Celeron | 16GB / 8GB / 4GB Memory | 512G / 256G / 128G SSD,149.59,Toshiba,5,Barattilla,22,11
+249,"Lenovo Ultrabook L430 T430 L450 8GB 16GB memory options 14inch Windows 10 Intel Core i5 cpu 120gb SSD 4GB 8GB options 14inch Windows 10 ""[PRELOVED]""",151.66,Thinkpad,4.39,BYTE Q IT,92,38
+614,Intel Core i5 / i7 Gaming Desktop Computer Quad-Core 8GB / 16GB RAM 256GB / 512GB M2 SSD Full Set PC Computer,153.58,INPLAY,4.87,Inplay Gears,2700,906
+74,LAPTOP HP ELITEBOOK 725 G4 /AMD PRO A8 7TH GEN OR AMD PRO A10 6TH GEN / 8GB RAM 128GB SSD / 125 INCHES / BUILT IN CAMERA / WIFI READY / PREOWNED UNIT,155.74,HP,4.67,JJ-King Marketing,11,3
+268,"Lenovo Ultrabook T480 T470 T460 T440S  L430 I5 I7 Windows 10 "" "" 8GB 16GB memory 14inch Windows 10 Intel Core i7 cpu  With 128g ssd 256g ssd  [REFURBISHED] 512g ssd",155.95,Thinkpad,4.63,Refurb Zone,1700,215
+1139,INTEL I5 7TH GEN / 8GB / 240GB SSD / DELL CPU I5 7TH GEN / REFURBISHED,156,Dell,4,alforecean PC,14,3
+1166,COR I5-7TH GEN / 8GB / 240GB SSD / DELL SFF / REFURBISHED,156,Dell,3,alforecean PC,6,2
+323,"HP Laptop 8470p EliteBook 16GB memory options "" "" 14inch Windows 10 Intel Core i5 cpu 120gb SSD 4GB 8GB ""[PRELOVED]""",158.38,HP,4.95,Refurb Zone,604,438
+1138,Intel  Quad Core i5 / i7 4790 computer set pc full set pc Quad-Core 8GB / 16GB RAM 256GB / 512GB M2 SSD Gaming Desktop Computer Full Set PC Computer set,158.38,ProVision,5,iJUNE PC,75,18
+279,Lenovo ThinkPad L540 Laptop | 156-inch Screen | Intel Core i7/i5 | 8GB/16GB RAM | 256GB SSD |  WiFi Bluetooth | Microsoft Office 2021 | Windows 11 Pro | Business Notebook Computer,160.63,Lenovo,5,KotseParts Online Shop,24,6
+1212,T11 Plus Mini PC Windows 10 Pro Intel x5-Z8350 4GB+64GB eMMC Support 25inch HDD HTPC 24G/5G WiFi Bluetooth Fanless mini computer HDMI+VGA Output Pulierde,165.06,Pulierde,5,Pulierde Official Store,9,1
+137,JSHIX 2023 New Original Laptop Latest Intel Celeron N4000 N5095 J4105 8G/12G/16G RAM 256G/512G SSD 141 156 Inch IPS Full HD Home Office Gaming Student Ultrathin Laptop Desktop Computer,167.76,OEM,4.43,JSHIX Franchise Store,60,28
+221,101inch Netbook Lightweight Portable Laptop ACTIONS S500 15GHz ARM Cortex-A9/Android 51/1G+8G/1024x600,167.86,Netac,5,Data Mall,8,1
+1042,"All in one PC Hailan Core i5 7th Generation Full HD, 8gb ram, 256gb ssd / PRELOVED",167.98,All in one,4.75,TGPC Computer,41,15
+722,Nextfun 2-in-1 Tablet PC 8 Inch Windows 10 Tablet 4G RAM+128G ROM Learning and Entertainment Tablet PC,171.6,nextfun,4.89,aedtfghsrytj,44,38
+143,HP EliteBook Laptop Intel Core i7 HD Graphics 4GB  240GB  Camera  WiFi Ready  156 Screen Size REFURBISHED,180,HP,4,Logicgate Cristyle Store,5,2
+72,14 Inch Windows 11 Laptops New N4000 26Ghz 8GB RAM 256GB ROM Notbook Pc Computer Laptop,180.22,Founder,5,Founder,7,2
+129,Dell Laptop E6420 Storage Intel Core i3 2nd i5 2nd i7 2nd Processor 15 inches LED Screen Display 8GB RAM 128GB 240GB 480GB  REFURBISHED,182.4,Xtyle,5,XTYLE TECH,2900,365
+220,TOSHIBA Laptop R634 Ultrathin work study intel Core i5 6th Gen Processore 133 inches 4G 8G 16G ddr3 RAM 250g 320g 500g HDD 128g ssd Good for Study Business REFURBISHED,184.11,Xtyle,5,XTYLE TECH,5,2
+662,"Nextfun 8-inch 2-in-1 laptop tablet computer pre-installed with Microsoft Office Windows, office and learning tablet",185.52,nextfun,5,nextFun Brand ,11,9
+188,"AFFORDABLE LAPTOP Core i7, i5 , i3 / 8GB RAM / SSD or HDD / Built-in WiFi & Camera - Best for student or work use | with Freebies",186.96,HP,3,OPENPINOY - The Legit MAR PC Store,6,2
+285,BEEX 156 Inch laptop Intel Celeron J4105 8G RAM 512G SSD 1080P IPS Screen computer laptop 5G WiFi Windows 11 Pro,187.18,OEM,4.81,BEEX Franchise Store,162,80
+102,(Free Gifts)Lsxvern 141 Inch Screen Intel Celeron Z8350/N3350 2G/6G RAM 32/64G/128/256GB SSD ROM Windows Narrow Bezel Keyboard Ultrabook Traditional/Gaming Laptop Office Work[1 Year Warranty],187.55,FUNXUN,4.79,FUNXUN Store,73,29
+1129,Dell Optiplex 3050/3060/3070/3080/3090/5060 Mini-PC 5-11th Gen Intel Hexa-Core i5 16GB RAM 256GB SSD Built-in WiFi and Bluetooth Windows 11 Pro OS PRELOVED,189.58,Dell,5,MIKETECH COMPUTER CENTER,23,7
+1043,Core i7 Mini CPU 8/16gbram SSD Windows,190.8,ASUS,5,MIR Computer Trading,5,1
+70,"Asus Chromebook 116"" HD Laptop Celeron N4020 4gb/32gb eMMC C204MA-YB02-GR Dark Gray",191.76,ASUS,4.96,GAMEXTREME,220,53
+286,"Asus Chromebook 116"" HD Laptop Celeron N4020 4GB/32GB eMMC C204MA-YB02-GR - Dark Gray",191.88,ASUS,5,Gadget World,38,10
+77,Brand New laptop used laptop Intel Celeron N4000/N5095 Gaming laptops Gaming setup 12G RAM 512G SSD 1080P 5G WiFi Windows 11 Pro laptop gaming laptop 156 Inches mini pc laptop for sale original [5-year warranty],191.98,OME,5,LIAGMK Factory Store,10,3
+284,Lenovo ThinkPad X240 Laptop Intel Dual-Core i5 4th gen 8GB RAM 256GB SSD Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth  Portable Business Notebook Computer Ultra-thin 125 inch Screen,191.98,Lenovo,5,EXRAM.ph,20,3
+656,HP ELITEDESK 800 G4 MINI PC i5-10500T - HP Pro Mini i5 -1235u - HP EliteDesk 705 G4 Ryzen 3 2200GE PRELOVED,191.98,HP,4.79,TGPC Computer,257,58
+675,Teclast x SOYO M2Air Mini PC Windows11 All in one Desktop pc with Intel N4000 processorWIFI/BLUETOOTH,191.98,Teclast,5,Teclast,6,2
+890,Lenovo Thinkpad Yoga 11e I INTEL I5 5TH GEN  4GB RAM 500GB I 3 MONTHS WARRANTY I  REFURBISHED LAPTOP,191.98,Lenovo ThinkPad,5,YouNiqueLovebyLeizel,5,1
+3,HP Elitebook 820 G1 [Brand New] legit Laptop Intel Quad/Dual-Core i7/i5 8G/12G/16G RAM 128G SSD+500G/1T HDD 125 Inches Screen Built In Camera/Webcam Business Work at home Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth/Notebook,193.85,HP,4.83,iSimu Laptop ,1400,565
+39,Lenovo ThinkPad X240/X250 Laptops Intel Dual/Quad-Core i5/i7 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch  Screen,194.03,Thinkpad,4.91,RoWind PC,656,266
+95,"(PRELOVED) Toshiba Portege Z30-C  Ultrabook Laptop Windows 11 Pro 6th gen Intel Core i5 cpu 8gb /16gb memory, 256GB / 512GB SSD storage, US keyboard, magnesium body MS Office",195.55,Toshiba,5,KotseParts Online Shop,16,5
+687,All in One PC Computer Set Intel Core i3 / i5 / i7 8G/16G RAM 128G/ 256G/512G SSD Suitable For Online Courses Office Desktop Computer Full Set 20/24 inch HD Monitor,196.32,ProVision,4.83,INFOCRAFT,162,23
+273,DELL Laptop E5470 Intel Quad-core i5 6200U With 4G/8G/16G DDR4 MEMORY Built-in Intel HD Graphics 520 Hard disk 60G 120G 240G 480G 512G SSD for Online Office refurbished,196.46,Xtyle,5,XTYLE TECH,222,75
+245,"HP Laptop [Brand New] Elitebook 820 G1/840G1 [1 year Warranty] Intel Dual/Quad-Core i5/i7 8G/12G RAM 128G SSD+500GB HDD 125"" Inches Screen Built In Camera/Webcam Business Work Windows 11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook",197.04,HP,4.93,RoWind PC,919,427
+60,Brand New Lenovo ThinkPad X280/8T X270/7TH X260/6TH laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 256/512/1TB SSD HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO Ultra-thin 125 inch Screen class/learning  Business notebook computer,199.2,Lenovo,4.97,M.C.ISLAND ONLINE SHOP,33,30
+382,"Refurbished Toshiba Satellite Tecra 156 inch Laptop 8GB memory 256GB or 128GB SSD Intel Core i5 8th Gen, 7th Gen or 6th Gen",199.74,Toshiba,4.64,KotseParts Online Shop,24,10
+30,Brand New Lenovo ThinkPad X280/8TH X270/7TH X260/6TH laptop Intel Dual/Quad-Core i5/i7  8G/16G DDR4 RAM 256/512/1TB SSD HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO Ultra-thin 125 inch Screen class/learning  Business notebook computer,200.33,Lenovo ThinkPad,4.92,CM Super Laptop,841,332
+714,"Lenovo ThinkPad X240 X250 laptop - Ultrabook 125"" / Intel Core i5 i7 / 8GB RAM / 128GB SSD + 1TB HDD / Windows11Pro&office / BrandNew Original",201.16,Lenovo ThinkPad,4.89,YuMo Advanced Digital Store,99,55
+14,"HP Elitebook 820G1 & 840G1 Laptop / 125"" & 14"" / Intel Core i5 i7 / 16GB RAM / 128SSD+1TB HDD / Windows11Pro&Includes Office Suite",203.24,HP,4.91,YuMo Advanced Digital Store,543,286
+881,Desktop Computer Set AMD A8 7680 Quad-core A6 7480 A4 6300 with DDR4 16GB RAM 512GB SSD Full Set Computer Gaming Desktop,203.5,ProVision,4.9,iJUNE PC,1000,165
+25,Lenovo [Brand New]ThinkPad X260 laptop Intel Quad/Dual-Core i7/i5-6600u/6300u 8G/16G DDR4 RAM 256G/512G/1T SSD ROM Built In Camera/WEBCAM Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,204.04,Thinkpad,4.89,iSimu Laptop ,629,208
+26,Lenovo ThinkPad X240 Laptop Intel Quad/Dual-Core i7/i5 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office 365 Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch  Screen,204.04,Thinkpad,4.85,iSimu Laptop ,870,323
+351,HP Laptop Brand New Original Elitebook 820 G1/840 G1 Intel Quad/Dual-Core i7/i5 8/12/16GB RAM 128G SSD+500G/1T HDD 125/146 Inches Screen Built In Camera/Webcam Business  Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook computer,206.4,HP,5,M.C.ISLAND ONLINE SHOP,14,4
+1133,BMAX B3 Mini PC easy PC  All In One Desktop Intel N5095 8GB LPDDR4 256/512GB/1T SSD Intel 11th Gen UHD Graphics,208.78,BMAX,5,BMAX,65,9
+1165,BMAX B3 PRO Mini PC  All In One Desktop Intel Jasper Lake N5095 8GB DDR4 256GB SSD with Ethernet port Intel UHD Graphics 4 Cores 29GHz HDMI Win11 WiFi,208.78,BMAX,5,BMAX,63,6
+1168,19 inch All in One PC Computer Set Core I5 Brand New 19 inches gaming pc set Intel dual-core I5 i3 4th Up To 26GHZ With 4G 8G ddr3 1600 memory and 128G 240G 480G 512G SSD,209.29,Xtyle,5,XTYLE TECH,60,54
+69,"Lenovo ThinkPad X260 X270 laptop - Ultrabook 125"" / Intel Core i5 i7 / 16GB RAM DDR4 / 512G 1TB SSD / Windows11Pro&office /  BrandNew Original",211.07,Lenovo ThinkPad,4.97,YuMo Advanced Digital Store,595,210
+6,"Lenovo laptop ThinkPad 125inch X240 Intel Quad/ i7/i5 / 8GB RAM / 1TB / HDD / Built-in HD WEBCAM,WiFi Bluetooth / Microsoft office/New",211.73,ProVision,5,iJUNE PC,6,2
+1008,EasyPC | Pocket Rocket GMKtec Nucbox G3 Intel 12th Alder Lake N100 Processor / 8GB 3200MHZ DDR4 / 512GB M2 NVMe SSD Mini PC,213.48,nobrand,5,EasyPC,7,2
+549,"Preloved Lenovo ThinkPad X260 X270 Laptop  8GB/16GB  RAM, 128GB/180GB/256GB SSD , Windows 10 or Windows 11, MS Office 2016 OR 2021, 125 inch screen, Good battery",214.18,Lenovo,5,KotseParts Online Shop,9,4
+253,DELL Laptop E5470 Intel Quad-core i5 6200U With 4G/8G/16G DDR4 MEMORY Built-in Intel HD Graphics 520 Hard disk 60G 120G 240G 480G 512G SSD for Office Gaming Study refurbished,215.26,ProVision,4.06,iJUNE PC,32,16
+112,Lenovo ThinkPad X270 laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 128G SSD+500G/1T HDD ROM Built In Camera/WEBCAM Business Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,215.56,Thinkpad,4.93,iSimu Laptop ,212,73
+1161,PROVISION Mini Desktop Computer Set With Intel core 12th 11th Processor Built-in Bluetooth/Wifi616Gb DDR5 DDR4 500G M2 SSD With 27inch Curved Monitor For Office and Gaming PC full set,215.76,ProVision,4.99,iJUNE PC,945,127
+312,HP Laptop Probook 640 G1 Business Intel Core i5 4th Gen With 16G 8G 4GB Ram 512G 240G 120GB SSD[REFURBISHED],215.98,HP,4.99,Refurb Zone,2100,484
+1028,"Hasee M6 Mini PC Windows 11 Mini Computer Intel Celeron N5095 Desktop Computer 8GB LPDDR4 RAM, 256GB SSD, 29GHz 4-Core, 2 x HDMI 4K UHD with HDMI Cable, USB 30, 5G WiFi, BT 42, Blue Backlit, Moon Silver",215.98,Hasee,5,Lambo Official Store,9,21
+1210,PROVISION All in one PC Computer set i3 /i5 /i7 8G/16G RAM 128G/256G/512G SSD for online courses /Office /PC full set of 24 inch monitor 19inch,215.98,ProVision,4.93,iJUNE PC,438,126
+81,Kimstore Bmax X15 Intel ® 9Th Gen Uhd Graphics 600 256Gb Quad-Core 4 Threads 156-In Display 10000Mah Gray,216,Kimstore,4.84,Kimstore PH,155,58
+550,"Laptop 6GB RAM 128/256/512GB SSD Notebook Windows 10 Pro Intel J4105 Celeron Quad Core 141"" Display laptop WIFI BT HDMI",216.08,FUNXUN,5,FUNXUN Store,9,3
+663,Lenovo [Brand New]ThinkPad X250 Laptop Intel Quad/Dual-Core i7/i5 8GB RAM 128G SSD+500GB/1T HDD ROM Built-in WEBCAM/Camera Online class/learning Wifi Bluetooth Ms office 365 Windows11 Pro Portable Business Notebook Computer Ultra-thin 125 inch Screen,217.81,Thinkpad,4.85,iSimu Laptop ,32,20
+342,Lenovo ThinkPad X270 laptop Intel Quad/Dual-Core i7/i5 8G/16G RAM 128G SSD+500G/1T HDD Built In Camera/WEBCAM Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,217.99,Thinkpad,4.83,RoWind PC,82,42
+1216,"AMD Cpu System Unit Computer Set Pc Cpu Desktop Computer AMD  A8 7600 Series Quad-Core Up To3,8  GHZ With 8G/16G Memory 120G 240G ssd 500g 1T hdd DIY Desktop computer with RGB LED fans",218.64,ProVision,4.89,iJUNE PC,712,424
+1225,AMD Desktop Ryzen 5 5600G Gaming PC Ryzen3 3200G with DDR4 16GB RAM  512GB SSD Full Set Computer Gaming Desktop,220.3,ProVision,4.83,iJUNE PC,327,95
+654,PELADN Desktop mini pc laptop intel  11 generation I5 Celero N5095 Desktop Computer with Windows 11 DDR4 8G+SDD 256G/DDR4 8G+SDD 512G/16G+SDD 512G,221.35,PELADN,5,PELADN Flagship Store,10,45
+293,Lenovo Thinkpad L570 Laptop office gaming computer 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen  8GB RAM  128GB/256GB SSD gaming/Office / online courses compute Laptop,223.18,Lenovo,4.85,EXRAM.ph,25,13
+150,"HP Laptop [Brand New] Elitebook 840 G1 [1 year Warranty] Intel Dual/Quad-Core i5/i7 8G/12G RAM 128G SSD+500GB HDD 14"" Inches Screen Built In Camera/Webcam Business Work Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook",227.26,HP,4.97,RoWind PC,144,67
+259,Lenovo ThinkPad X270 laptop Intel Quad/Dual-Core i3/i5 6th or 7th gen 8GB RAM 128GB/240GB/256GB SSD Ultra-thin 125/INCH mobile office computer Business notebook computer,227.98,Lenovo,4.53,EXRAM.ph,39,19
+54,HP Laptop Brand New Original Elitebook 820 G1/840 G1 Intel Quad/Dual-Core i7/i5 8/12/16GB RAM 128G SSD+500G/1T HDD 125/146 Inches Screen Built In Camera/Webcam Business  Windows11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook computer,229.89,HP,4.95,CM Super Laptop,714,331
+90,"BrandNew Lenovo laptop ThinkPad X240 Intel Quad/Dual-Core i7 / 8GB RAM / 128G SSD+1TB / HDD / Built-in HD WEBCAM,WiFi Bluetooth / Microsoft office",229.99,Lenovo ThinkPad,4.86,iSimu Laptop expert store,1300,539
+345,Lenovo ThinkPad X260 laptop Intel Core i5 8GB RAM 256GB SSD Built In Camera/WEBCAM Business Ms office windows  PRO Ultra-thin 125/inch Screen class/learning Business notebook computer,230.38,Lenovo,5,EXRAM.ph,5,1
+1044,EVOLVE All in One Desktop PC Computer Set Intel Core i3 / i5 / i7 8G/16G RAM 128G/ 256G/512G SSD Suitable For Online Courses Office Computer Full Set 20/24 inch HD Monitor,230.47,Evolve,5,Evolve.,9,1
+1,Asus Laptop E410K 14'' FHD Celeron N4500 4GB RAM/64GB eMMC Win11,239.76,ASUS,4.98,GAMEXTREME,475,116
+138,"Asus E410K 14"" FHD Laptop Celeron N4500 4GB/64GB eMMC Win11",239.88,ASUS,5,PC Xtreme by Gamextreme,6,2
+234,"Asus E410K 14"" FHD Laptop Celeron N4500 4GB/64GB eMMC Windows 11",239.88,ASUS,5,Gadget World,9,2
+205,Dell Latitude E6430 Laptop Intel i5/i7 3th Gen Processor 16GB RAM 480GB SSD 14/inch Screen office game dual-purpose laptop,239.98,Dell,5,EXRAM.ph,12,2
+871,Laptop Lenovo ThinkPad L560 Inter Core i5 6200U  8GB RAM 256GB SSD 156/inch Notebook computer Office work/online classes/playing games,239.98,Lenovo,5,EXRAM.ph,7,5
+1140,ICON All in One Desktop PC Computer Set PC Full Set Intel Core i3/i5/i7 8G/4G RAM 120G/240G SSD for Home/Office/Business Simple Fashion Energy Saving High Speed Hard Disk 20 inch Large Monitor ultrathin High configuration,241.08,Icon,4.96,Icon Technology Inc,12100,907
+1160,ICON All in One PC Computer Set Core I3 I5 I7 Brand New 20inch gaming pc set Intel Up to 12th Generation Processor and 128G 256G SSD Desktop computer 20 inch monitor,241.08,Icon,5,Icon Technology Inc,49,30
+653,VOVOVA All In One 24inch i7/i5/i3 Full HD Screen computer set Support WiFi Bluetooth Business Home Office Computer Desktop Gaming Computer,244.51,VOVOVA,4.98,VOVOVA OFFICAL STORE,4800,461
+315,DELL Laptop E6540 E6520 Office Games I7 4th I7 2nd i5 2nd Gen 16G DDR3 1600MHZ Memory 120g 240g 480g SSD REFURBISHED,244.79,Xtyle,4.95,XTYLE TECH,263,39
+1169,"Lenovo PC Core-i5 Mini Windows 11 Pro OS 8GB System Memory 256GB SSD 6th, 7th, 8th, 9th Gen Intel Quad Core-i5 PRELOVED",251.98,Lenovo,5,MIKETECH COMPUTER CENTER,8,3
+28,"Lenovo ThinkPad T470 14"" FHD (1920 x 1080), Intel Core i5-6300U 8 GB DDR4 RAM, 256 GB SSD, Windows 10 (Preloved)",252,Gigaware,5,Gigaware,10,3
+82,Nextfun 2-in-1 laptop computer with Intel Celeron processor dual-band 5G WiFi full touch screen office laptop,254.22,nextfun,4.98,nextFun Brand ,678,370
+190,"FUNXUN Windows 11 AcoBook X7 Pro Laptop 156"" 1920x1080 FHD IPS Display 12GB/16GB DDR4 128GB/2562GB/512GB/1T SSD Intel Celeron N5095(Turbo up to 29 GHz) Full Backlit Keyboard Fingerprint Reader 24/5G WIFI, BT",257.43,FUNXUN,3.89,FUNXUN Store,14,9
+2,Lenovo Laptop ThinkPad X260 Intel Core i5 6200U Quad-Core HD520 Graphics 8G/16G DDR4 RAM 128G/256G/512G SSD Office Study Business Notebook,259.2,Lenovo,4.87,INFOCRAFT,1100,149
+58,HP Laptop Brand New Original 450 G3 Intel Core i3/i5/i7 128/256/512G SSD Ultra-thin and Portable Computer 156 Inch HD Screen Students Office Business Gaming Notebook Laptop,260.71,HP,4.95,INFOCRAFT,703,126
+1006,"Lenovo Think Centre Mini pc i7 12th, i5 12th, i5 10th, i5 9th gen, i5 6th gen PRELOVED",261.58,Lenovo intel,4.77,TGPC Computer,475,101
+1020,TGPC / Lenovo ThinkCentre M70Q / Mini PC / Intel Core i5 - 10th Gen / 8GB RAM / 256 GB NVME / PRELOVED,261.58,Lenovo,5,TGPC Computer,6,1
+1075,TGPC / HP Prodesk 600 G6 / Mini PC / Intel Core i5-10th Gen / 8GB RAM / 256 GB NVME / PRELOVED,261.58,HP,5,TGPC Computer,8,2
+146,HP Laptop Elitebook 820/840 G3 Intel Dual/Quad-Core i5/i7 8G/12G/16G RAM 256G/512G/1T SSD 125/14 Inches Screen Built In Camera/Webcam Business Work Windows 11 Pro Ms office Online Learning Computer WiFi/Bluetooth/Notebook,261.82,HP,5,RoWind PC,60,26
+107,BMAX S13A 133 inch Laptop brand new original sale lowest price for Student Windows 10 Notebook 8GB LPDDR4 128/256GB SSD 19201080 IPS Intel N3350 Computer,263.98,BMAX,4.66,BMAX,352,96
+287,TGPC / Laptop / Lenovo ThinkPad T480 / Intel Core i5 - 8th Gen / 8 GB RAM 256 GB SSD / PRELOVED,263.98,Lenovo ThinkPad,4.86,TGPC Computer,11,7
+1187,"Intel Core i3 All-in-One PC 19 inch, business all-in-one computer 8G RAM 256G SSD free wireless mouse and keyboard, high-definition camera, one-year warranty",263.98,AST,4.83,SEALUP,19,12
+1184,ICON All in One PC Desktop Computer Intel Core i3/i5/i7 8G 16G RAM 128G 256G 512G SSD 20 22 24 Inch Built-in UPS HD Camera Wifi Office Learning Gaming Computer Lahat sa Isang PC Desktop Computer Intel Core i3/i5/i7 8G 16G RAM 128G 256G 512G SSD,264.15,Icon,5,TopPlayer ICON,37,6
+46,Lenovo Laptop X260  Thinkpad I7 I5 I3 Quad-core Inel HD520 Graphics 4G 8g 16g DDR4 RAM 120G 240G 480G ssd New,266.71,ProVision,4.79,iJUNE PC,167,71
+290,Lenovo Laptop ThinkPad X260 Intel Core i5 6200U Quad-Core HD520 Graphics 4G/8G/16G/32G DDR4 RAM 128G/256G/512G/1TB SSD Office Study Business Notebook,266.71,Lenovo,5,BYTE Q IT,37,17
+731,Lenovo Laptop X260 Thinkpad work Study I5 6200U Quad-core Inel HD520 Graphics 4G 8g 16g DDR4 RAM 120G 240G 480G ssd New 1Year Warranty,266.71,Lenovo ThinkPad,4.96,Refurb Zone,1800,959
+1038,HP BRAND MINI PC ELITEDESK INTEL CORE i5 7TH GEN / i5 8TH GEN / i5 9TH GEN / i5 10TH GEN / i5 12TH GEN REFURBISHED,275.84,Dell,4.32,MATSPC COMPUTER TRADING,150,47
+677,Dell Optiplex 3070 Mini 9th Gen Intel Hexa-Core-i5 16GB RAM 256GB NVMe SSD Genuine Windows 11 PRO PRELOVED,275.98,Dell,5,MIKETECH COMPUTER CENTER,19,9
+591,HP Laptop [Brand New] Elitebook 820/840 G3 Intel Dual-Core i5/I7 6200u/6500u 8GB/12GB/16GB RAM DDR4 256G/512G/1T SSD 125/14-inches Screen Built In Camera/Webcam Business Work Windows11 Pro Ms office 365 Online Learning Computer WiFi/Bluetooth/Notebook,276,HP,5,iSimu Laptop ,61,24
+1185,"CPU Desktop Computer Gaming  PC Intel I5 7500 i5 7400 i5 6400 4 Core 38Ghz 8G 16G 32G  DDR4 2400 60g ssd 120G ssd 240G SSD 500g 1tb HD 630 Graphics Card Computer  PC 	Gaming Cpu For Dota2/LOL/DNF/PS/AI/CDR/CAD",278.64,ProVision,4.82,iJUNE PC,207,134
+98,Alldocube GTBOOK 14 (2024) 12GB+256GB Laptop,279.36,Kimstore,4.83,Kimstore PH,249,70
+226,Alldocube GTBook 14 (2024) 12GB+256GB Laptop,279.36,ALLDOCUBE,5,Technopop PH,38,10
+176,Nextfun 2in 1 laptop and tablet 12G DDR4 writing notebook windows tablet pc 1TB SSD mini laptop official store,280.8,nextfun,5,nextFun Brand ,37,23
+347,Nextfun Tablet 2-in-1 Microsoft Office Laptop Full Touch IPS HD screen 8G RAM DDR4 512GB SSD,280.8,nextfun,5,aedtfghsrytj,13,9
+341,Nextfun Windows 11 System 2-in-1 Tablet PC 16G RAM +256GB SSD Office Gaming 5G WiFi Laptop 101 Inch,283.2,nextfun,4.91,aedtfghsrytj,52,45
+1170,"FUNXUN Windows 11 AcoBook X7 Pro Laptop 156"" 1920x1080 FHD IPS Display 12GB/16GB DDR4 128GB/2562GB/512GB/1T SSD Intel Celeron N5095(Turbo up to 29 GHz) Full Backlit Keyboard Fingerprint Reader 24/5G WIFI, BT",286.89,FUNXUN,5,FUNXUN Store,5,1
+105,ALLDOCUBE GTBook 141 12+256 GB Laptop,288,ALLDOCUBE,5,Alldocube Philippines,5,1
+27,Topton  L4 Pocket Mini Laptop 7Inch Touch Screen Celeron N4000 12GB DDR4 Webcam Notebook 20MP Windows 11 Pro Fanless,288.53,TOPTON,4.91,Topton Computer Store,164,67
+83,Lenovo Laptop  14  FHD Screen Intel core i5 8GB RAM 128GB SSD Ultra HD Graphics 600 Windows 11 Student Laptops with WiFi Bluetooth play a game,288.65,OEM,4.73,Chuangyun Technology,46,15
+398,"Lenovo  Laptop  141'' Intel core i5  RAM 8+128GB SSD HD thin and light+Win11+MS Office+2-year warranty, cash on delivery",289.73,OEM,4.93,SPEED Technology,208,45
+1007,"Dell OptiPlex MiniPc 3000 i5 12th, 3070 i5 9th, 3080/3090 i5 10th PRELOVED",295.18,Dell,4.88,TGPC Computer,810,192
+68,Lenovo ThinkPad X280 laptop Intel Quad-Core i5/i7 8G/16G DDR4 RAM 256G/512G/1T SSD Built In Camera/WEBCAM Business Ms office windows 11 PRO  Ultra-thin 125 inch Screen Online class/learning WIFI Bluetooth Business notebook computer,297.53,Thinkpad,4.72,iSimu Laptop ,179,53
+352,Nextfun 2in1windows 101 inch 8GB RAM+512GB SSD shipped from Manila Touchscreen HD 1920x1200 for Laptop/PC,298.08,nextfun,5,nextFun Brand ,26,22
+1154,AMD RYZEN 5 5600G / B450M /  (BRAND NEW) WHITE BUILD / GAMING DESKTOP COMPUTER /  FREE INSTALLATION OF GAMES AND APPS,299.98,AMD Ryzen Desktop,4.76,ZapMax Trading,32,16
+13,DELL laptop 6th generation Core i5 /i7processor/Separate graphics /156 inches/Camera/built-in numeric keypad /wifi/ Suitable for online education/office/gaming,303.67,Dell,4.94,Tianchuan laptop store,1600,1030
+1186,COMPUTER SET RYZEN 5 2400GE,304.8,AMD,4.95,Kai's Computer Trading,78,38
+1019,AIODIY Brand 22 inch HD All In One PC Computer Desktop Brand New Intel Core i3 / i5 / i7 8G/16G RAM 120G/ 240G/512G SSD suitable for online courses / Office / fashion energy saving PC full set of 20/22 inch monitor is larger than the laptop screen,306.34,AIODIY,4.95,AIODIY,16800,712
+1257,Topton F8 Ryzen 7 5800H Core i9 11900H Mini PC Dual DDR4 3200MHz Dual NVME Triple 4K display WiFi6 Windows 11/10,307.82,TOPTON,5,Topton Computer Store,42,12
+1258,AMD RYZEN 3 3200G CPU Desktop Package with Built-in GPU / Prebuilt Unit For Gaming Work Online Class / Brand New RGB Ready to Use with Monitor and Free Gift / Easy Setup (Collinx Computer),310.78,Redragon,4.91,Collinx Computer,51,21
+1077,BRAND NEW SYSTEM UNIT RYZEN 5 5600G 8GB RAM 256GB SSD + POWERCABLE,311.02,Biostar,4.62,TFIVE,24,13
+1080,EONE All In One PC Desktop Computer Set 22 Inch 24 Inch Intel Core i3/i5/i7 16G RAM 512G SSD High Speed Hard Disk PC Set for Home/Office/Business,311.09,Eone,4.97,EONE OFFICAL STORE,282,217
+43,Lenovo Laptop ThinkPad 14inch  Laptop T460 T470 T480 Laptop - Ultra-thin 14inch FHD / intel Core i5 i7 6th Gen I5 7th Gen i5 8th Gen/ 16GB RAM / 512GB 1TB SSD / Windows11Pro&office / New,311.98,ProVision,4.78,iJUNE PC,35,9
+386,Nextfun tablet 8GB DDR4+512GB SSD 2-in-1 thin and light laptop with full touch screen and easy to carry,311.98,nextfun,4.97,nextFun Brand ,120,72
+589,Hasee Intel 3867U 8G 256G SSD Laptop Thin Book X3 D1 133 Inch 72% NTSC IPS Full HD Business Laptop,311.98,Hasee,5,Hasee Philippines,10,5
+326,Nextfun tablet 2-in-1 wind11 system IPS HD screen 101-inch online class business office laptop 5G WiFi,315.36,nextfun,5,nextFun Brand ,5,2
+623,NextFun 101-inch tablet computer 2-in-1 touch screen thin and portable business office education design laptop,315.36,nextfun,5,aedtfghsrytj,22,21
+376,Dell Latitude E7470 Laptop Intel Core i5/i7 14 Inch Student Working Netbook Mini Laptop Computer,316.46,Dell,5,AnFi,40,26
+55,"Lenovo ThinkPad X280 Laptop - Ultra-thin 125"" / Intel Core i5 i7 / 16G RAM / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original",317.5,Lenovo ThinkPad,4.93,YuMo Advanced Digital Store,227,99
+168,"HP Laptop 14"" FHD Dual-core Celeron 4GB RAM 64GB eMMC  Windows 11 Home in S Mode",321.48,HP,4.91,GAMEXTREME,159,46
+750,Lenovo ThinkPad X280 laptop Intel Dual/Quad-Core i5/i7 8G/16G DDR4 RAM 256G/512G/1T SSD  IPS 19201080 Backlit keyboard（option） Built In Camera/WEBCAM Business Ms office 2019 windows 11 PRO 125-inch Screen Online WIFI Bluetooth notebook computer,321.73,Thinkpad,5,RoWind PC,89,15
+101,"HP Elitebook 820G3 & 840G3 Laptop / 125"" & 14"" / Intel Core i5 i7 / 16GB RAM / 1TB SSD / Windows11Pro&Includes Office Suite / BrandNew Original",325.64,HP,4.96,YuMo Advanced Digital Store,105,50
+57,AIODIY Laptop Original HD Gaming Office Laptop Intel Celeron N5095 16G DDR4 RAM 512G SSD 156-inch Business Laptop,328.3,AIODIY,4.93,AIODIY,7500,214
+408,Lenovo Laptop T450s business ThinkPad WEBCAM Quad-Core i5 / i7 8G Intel Dual 12G RAM 128G SSD 500GB 1T HDD ROM 14-inch Screen Ms office Windows 10 Pro Operating system WiFi Bluetooth,329.09,Lenovo ThinkPad,4.52,iSimu Laptop expert store,69,21
+206,Dell laptop/dell Inspiron 3543/156in/5Th Gen Intel Core i5/8G RAM/512G SSD/NVIDIA GeForce820M-2G/gaming laptop,329.22,Dell,5,giegie Gaming laptop,14,11
+37,Latitude E7450/5Th Gen processor/Dual Core Four Thread/141in/16GB RAM+1TB SSD,333.95,Dell,4.95,16G+Laptop Mall,723,554
+41,"Lenovo Ideapad 1 156"" Laptop AMD Athlon Silver 7120U 4gb/128gb Cloud Grey",335.76,Lenovo,4.92,GAMEXTREME,253,74
+161,"Lenovo IdeaPad 1 14"" HD Laptop Intel Celeron N4020 4GB/128GB eMMC WIn11",335.88,Lenovo,4.83,GAMEXTREME,409,89
+265,Nextfun laptop Full touch screen laptop HD IPS screen Windows tablet Intel Celeron CPU Windows11 laptop 16G RAM DDR4,335.98,nextfun,4.91,nextFun Brand ,52,44
+851,Dell Optiplex 3080/3090/5080/7080 Mini 10th Gen Intel Core-i5 16GB RAM 256GB SSD Wi-Fi + Bluetooth Win 11 Pro PRELOVED,335.98,Dell,5,MIKETECH COMPUTER CENTER,78,6
+590,"Lenovo ThinkPad Yoga260  Yoga370 - Versatile 2-in-1 / 125"" 133"" / Intel Core i5 i7 / 16GB RAM DDR4 / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original Laptop",343.5,Lenovo ThinkPad,4.71,YuMo Advanced Digital Store,88,49
+671,laptops Intel Core i7/i5 All-In-One PC 238 inch 8G RAM 256/512G SSD Desktop Computer for Business/Office/Gaming OEM With Mouse & Keyboard,345.58,OEM,5,Zoeyol Laptop,34,10
+177,"Lenovo ThinkPad T460s/T470s/T480s Laptop/Intel Quad/Dual-core i5/i7 Ultra-thin 14""FHD IPS/DDR4 8G/12G/16G/20G RAM/256G/512G/1T SSD BrandNew Original/Windows11Pro/Ms office/HDCamera/WiFi/Bluetooth/Business Word Notebook Computer",345.84,Lenovo ThinkPad,4.74,RoWind PC,53,31
+789,Lenovo ThinkPad T460s Laptop Legit Intel Dual/Quad-Core i5/i7 8G/12G/20G DDR4 RAM 256G/512G/1T SSD ROM 14-inch FHD 19201080 Screen Authentic Sealed Built-in WEBCAM/Camera Ms office Windows 11 Pro Operating system Business notebook,345.85,Thinkpad,5,iSimu Laptop ,9,3
+1208,PROVISION All In One PC Desktop Computer Set 24inch Display With I7 processor and 16GB DDr4 Memory and 512Gb SSD For Gaming and Office Work design,351.36,ProVision,5,iJUNE PC,506,152
+96,"NingMei NL100P 156"" Laptop Intel 11th Gen / DDR4 16GB / M2 512GB SSD Genuine Windows 11 Slim Laptop Laptop",352.78,INPLAY,4.98,Inplay Gears,444,61
+48,Dell Latitude E7490/Intel Core i5 i7/16G RAM/1TB SSD/integrated graphics/HDMI+WIFI+HD Camera,357.74,Dell,4.97,Focusing on IT laptop,341,243
+1114,Dell Latitude E7450 | Intel® Core™i5 i7 | 16G RAM | 256GB SSD 512GB SSD 1TB SSD |  Intel GMA HD 5500 | 14 inches  | laptop brand new original,357.74,Dell,4.96,Office Computer Store,78,49
+228,Nextfun Intel UHD Graphics Laptop 156-inch IPS A standard screen with fingerprint unlock,359.54,nextfun,4.99,nextFun Brand ,136,92
+24,"Lenovo IdeaPad l 156""HD laptop Celeron N4500 4GB/128GB eMMC Win11 Cloud Grey with Free Mouse and Earbuds",359.76,Lenovo,4.96,GAMEXTREME,259,71
+118,"Lenovo ThinkPad T460s T470s T480s Laptop - Ultra-thin 14""FHD / intel Core i5 i7 / 16GB RAM / 512GB 1TB SSD / Windows11Pro&office / BrandNew Original",360.56,Lenovo ThinkPad,4.95,YuMo Advanced Digital Store,241,112
+88,Lenovo ThinkPad Yoga 260 2-in-1 laptop Tablet computer stylus pen Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS brilliant 125'' touch screen Windows11 Pro Ms office2019 Online Class Learning Computer WiFi/Bluetooth/Notebook/Business,365.32,Thinkpad,5,RoWind PC,52,16
+110,Lenovo ThinkPad X1 Carbon 2016 laptop Intel Dual-Core i5/i7 6300u/6500u 8GB RAM 256G/512GB/1T SSD 14-inch IPS FHD 1920×1080 Screen Ultra-Thin Built In Camera/WEBCAM Window 11Pro OS Authentic Ms office Work/Game/Online learning Portable business notebook,369.13,Thinkpad,4.88,iSimu Laptop ,118,41
+87,Dell Laptop Original Intel Core i5/i7 7th 8th Gen 156 inch HD Screen 480G SSD Students Office Business Gaming laptop,369.96,Dell,4.9,AnFi,138,41
+1231,Computer Set Ryzen 5 5600G,372,AMD,4.87,Kai's Computer Trading,172,76
+162,on sale original [ASUS Factory]2024 new Monsprin Intel Slim Laptop 156 inch Screen Intel N5095/Core i7-1065G7 16GB RAM 512GB SSD Business Netbook Windows 11 Gaming Notebook Computer Tatlong taong lokal na warranty,372.46,OEM,4.98,MONSPRIN Laptop Computer,316,229
+164,ASUS Factory 2024 New Laptop 14 Inch Low Price Laptop J4025/Intel Core i7-1165G7 - i5- i3 Quad Core Laptops 6GB RAM 256GB SSD Student Notebook Windows 10 Band WiFi 2K FHD IPS Screen,372.46,OEM,5,MONSPRIN Laptop Computer,67,50
+35,Lenovo [Brand New]ThinkPad Yoga 260 2-in-1 laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD FHD IPS brilliant 125'' touch screen Windows11 Pro Ms office 365 Online Class Learning Computer WiFi/Bluetooth/Notebook/Business,372.93,Thinkpad,4.93,iSimu Laptop ,552,223
+1181,Beelink SER5 R7 5800H/R5 5500U Radeon 7 Core Graphics Windows 11 Mini PC 16/32GB DDR4 500GB NVMe SSD WIFI6 BT52 Mini Computer,372.96,Beelink,5,Lans MiniPC Store,282,74
+330,Lenovo 100e Chromebook 82CD0000US | AMD A4-9120C | 4GB Soldered DDR4-1866 | 32GB eMMC 51 | Stereo speakers |Integrated 47Wh Battery,376.2,Lenovo,4.81,Lenovo,201,64
+230,VOVOVA 156inch Laptop Intel Core i7 - i5- i3 | 16GB / 8GB / 4GB Memory | 512G / 256G / 128G SSD  new original Laptop,379.03,VOVOVA,4.81,VOVOVA OFFICAL STORE,3400,57
+174,Lenovo 2024 New Matebook 156-inch IPS Full HD Laptop Screen Original Intel Celeron  N5095 Quad Core RAM 16GB 512GB SSD Windows 11 Professional and MS Office,379.44,OEM,4.91,Chuangyun Technology,439,104
+10,"Lenovo ThinkPad X1 Carbon laptop -  Ultra-thin 14""FHD / intel Core i5 i7/ 16G RAM DDR4 / 512GB 1T SSD / Windows11Pro&office /  BrandNew Original",383.33,Lenovo ThinkPad,4.96,YuMo Advanced Digital Store,242,103
+15,ICON Brand New Laptop Intel Win11 Celeron N5095 Core i7 256G 512G Solid State Hard Disk 156-Inch HD Portable Student Office Business Game Laptop brand new original,384.96,Icon,4.94,Icon Technology Inc,2300,179
+66,ICON laptop brand new original Intel Win11 Celeron N5095 Core i7 256G 512G Solid State Hard Disk 156-Inch HD Portable Student Office Business Game Laptop Rose Gold,384.96,Icon,4.94,Icon Technology Inc,34,17
+198,"EONE 156"" Laptop Intel Celeron N5095 16GB 512G Full HD IPS Office Gaming Computer Brand New Original PC Solar",384.96,Eone,5,EONE OFFICAL STORE,113,41
+1213,AMD Ryzen 5 5600G CPU Desktop Package with Built-in GPU / Prebuilt Unit For Gaming Work Online Class / Brand New RGB Ready to Use with Monitor and Free Gift / Easy Setup (Collinx Computer),385.15,Redragon,4.83,Collinx Computer,134,58
+1226,JSHIX 24 Inch All In One PC Computer Desktop Brand New Intel Core N5095 16G RAM 256G/512G/1TB SSD Suitable For Online Courses/Home/Office/Business/Fashion Energy Saving PC Full Set,385.42,OEM,5,JSHIX Franchise Store,5,3
+232,Dell Laptop | Latitude E7450 | Intel® Core™i5 i7 | 16GB +1TB SSD | integrated graphics | 14 inches | laptop brand new original,386.52,Dell,4.98,Game Computer Mall,665,600
+994,Laptop  Dell  Lingyue 15 6Ten Core i5-6200/i7-6500 independent graphics card suitable for online education,388.54,Dell,4.91,Tianchuan laptop store,17,10
+1211,PROVISION Mini PC Computer Desktop computer Intel Core I7 8650U Quad core Processor 8 Tread 19-42Ghz Frequency With 16G 8G RAM 256G SSD 512G SSD 1TB SSD  Windows 10 Opration System Unit with 238inch Monitor 19inch 22inch,391.9,ProVision,4.96,iJUNE PC,772,138
+947,Nextfun laptop 14th generation N5095 thin and portable business office design drawing IR face recognition technology,393.12,nextfun,5,nextFun Brand ,6,4
+42,Asus factory Laptop official store ph laptop brand new original Core N5095/i7 16G 512G 156 inch Gaming Laptop Computer Camera Windows 11 OS Microsoft office WiFi Bluetooth,393.41,OEM,4.95,MONSPRIN Laptop Computer,1800,825
+18,Lenovo Factory Laptop Original 156 Inch 10TH Gen Intel Core i7 / N5095 RAM 16GB SSD 512GB Windows 10 / MS Office,395.74,OEM,4.97,Laptop Computer,453,228
+208,dell laptop E7450/14 inches/5Th Gen Intel Core i7/16GB memory/256GB 512GB 1TB SSD/laptop brand new original/Built in WiFi camera,397.65,Dell,4.96,A Bear Laptop store,1200,813
+196,ASUS Factory 2024 New MONSPRIN original for laptop office use 156-inch CPU Celeron N5095/Core i5/i7 16GB RAM 512GB SSD ROM with full-size keyboard 19201080 screen laptop window 10 suitable for students murah,400.63,OEM,5,MONSPRIN Laptop Computer,151,107
+318,HP Elite X2 1012 G1 laptop 2-in-1 Tablet computer Intel Core M M5/M7 6Y54/6y75 4G/8G RAM 256G/512G/1T SSD FHD UWVA eDP IPS 1920×1080 123' touch screen 1080P,404.54,HP,5,TechFox Digital Future,5,3
+374,Brandnew Dhp laptop Intel Core i7 4th 156 inch Ultra-light-weight Ultrathin 16GMemory 120G 240G 480G SSD for Gaming PUBG LOL CF Office Study Home Entertainment,404.86,DHP,5,Refurb Zone,1700,427
+147,"HP 14"" Laptop AMD Ryzen 3 3250U 4GB/128GB SSD - Natural Silver",407.88,HP,5,Gadget World,7,2
+165,156Inch Intel Celeron N5095 Laptop Original with Fingerprint Unlocking Backlight Windows10 Office IPS  2 Years Warranty,407.98,OEM,5,Laptop Computer,41,28
+1144,✅ 100% ICON Original Computer set pc full set All In One Desktop Computer Core I7/I5/I3 SSD Faster Space Save UPS 20 Inch HD Large Screen ICON Brand New for Work Office Online Class Gaming PC Personal Computer,407.98,Icon,4.98,NINE PLUS,720,391
+128,ASUS Gaming Laptop brand new original AMD Ryzen 7 2700U Windwos 11 RAM16GB+512GB 156 Inches Play Support Fingerprint Unlock Free Computer Bag Mouse,408.24,OEM,4.6,Tinolfs Gaming Laptop,109,26
+316,ASUS Gaming Laptop Original brand new Intel 12th Generation Core i7 Gamebook 156-inch Laptop DDR4 16GB RAM SSD 512GB Windows 11Backlit Keyboard Gamebook Laptop College Student Computer,408.24,OEM,4.95,Zoeyol Laptop,124,42
+343,〔Brand new〕Lenovo Factory new gaming laptop Intel Core i7 10510u  Laptop 156-inch HD screen RAM 16GB SSD 512GB Windows 11 Support fingerprint unlock Learn Business Office Play Large games Laptop warranty 3 years Send backpack mouse,409.86,OEM,5,Zoeyol Laptop,29,14
+209,ASUS laptop brand new original Ryzen 7 2700U Game Laptop 156-inch FHD 120Hz RAM12/16GB SSD 256GB/512GB Windows 11 System Business Game Laptop,410.4,OEM,4.86,Zoeyol Laptop,135,42
+332,Nextfun Ultra AI Notebook Portable Business Office Thin and Light Notebook AI Face Recognition,411.84,nextfun,5,nextFun Brand ,11,10
+271,DHP Brandnew Laptop 156in IPS High Resolution Screen 1080P/ Small Digital Keypad/Built in Camera /Core i7 Processor quad-core /21GHz ~ 27GHz/8GB RAM /128GB SSD/ Thin + very light,414.36,ProVision,4.94,iJUNE PC,315,205
+266,Dell Latitude E5570 E5580/6Th Gen、7Th Gen  processor/Dual Core Four Thread/156in/16GB RAM+1TB SSD/Built in numeric keypad,417.85,Dell,5,16G+Laptop Mall,35,18
+236,Lenovo Factory OEM Laptop for Office Use New Original Intel Laptop 156-inch N5095 16GB RAM 512GB SSDWindows 11 Game Notebook Gamer PC Fingerprint Unlock Free Computer Bag,419.04,OEM,5, Weiwo laptop,227,59
+433,Lenovo ThinkPad T480S T470s Laptop [Brand New] Legit Intel Dual/Quad-Core i5/i7 8G/12G DDR4 RAM 256G/512G/1T SSD ROM 14-inch FHD 19201080 Screen Authentic Sealed Built-in WEBCAM/Camera Ms office 365 Windows 11 Pro Operating system Business notebook,419.04,Lenovo ThinkPad,4.94,CM Super Laptop,151,65
+1010,PROVISION Desktop Computer Set PC Full Set Intel Core i7 12700 i5 12400 i3 12100 8G 16G RAM 240G 512G SSD RGB Fan PC Gaming Computer for Work fro Home Online Class Up to 27 inch Monitor Beyond All in One PC Laptop,422.71,ProVision,4.97,iJUNE PC,2700,635
+344,laptop brand new original / HP Elitebook 840G2 820G2/5Th Gen processor i5/Dual Core Four Thread/141in 125in/16GB RAM+1TB SSD,425.23,HP,4.98,IT-Laptop Mall,50,39
+786,AMD Ryzen 5 5600G Gaming PC Set With DDR4 16GB RAM + 512GB SSD Full Set PC Computer For Gaming Office,429.58,INPLAY,4.87,Inplay Gears,693,155
+149,Dell laptop/dell Inspiron 15 7000 (7557)/156in FHD/4Th Gen Intel Core i7/16G RAM/512G SSD/NVIDIA GeForce GTX 960M-4G/gaming laptop,431.79,Dell,5,giegie Gaming laptop,18,14
+416,"MONSPRIN Brand New Lenovo factory ThinkPad 156"" Inch Laptop intel N5095 / i7 Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth",431.98,MONSPRIN,5,MONSPRIN Laptop Computer,9,6
+52,Lenovo ThinkPad Yoga 370 / X380 Yoga  2-in-1 laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Windows11 Pro Ms office Online Class Learning  WiFi/Bluetooth/Notebook/Business,434.44,Thinkpad,4.8,iSimu Laptop ,229,82
+191,Lenovo ThinkPad Yoga 370 /X380 2-in-1 laptop original Tablet computer Intel Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Backlit keyboard Windows11 Pro Ms office Online Class WiFi/Bluetooth/Notebook/Business,434.44,Thinkpad,4.79,RoWind PC,59,33
+40,dell Gaming laptop/Intel I5 + I7 core /GTX960-4GB  FHD camera + WiFi + Bluetooth/built-in numeric keypad/suitable for online education + work + games,441.74,Dell,4.95,Tianchuan laptop store,522,333
+180,HUWEI MateBook laptop official store ph 156 Inch 16GB Laptop 512GB SSD Windows 10/11 Notebook Intel Celeron N5095 Office Computer Backlit with Fingerprint WiFI Camera BT,442.3,OEM,5,MONSPRIN Laptop Computer,107,57
+306,〔Brand new〕 ASUS Laptop Intel Core 11th Generation i7 Laptop Lightweight Portable Laptop RAM 16GB+512GB SSD 156-inch HD Screen Win11 System Keyboard Fingerprint Office Business Student Portable Gamebook,451.31,OEM,5,Zoeyol Laptop,6,3
+16,"ASUS 14"" Vivobook Laptop i3-1215U 8GB/128GB SSD Win11 X1404ZA",455.76,ASUS,4.93,GAMEXTREME,626,209
+139,"ASUS 14"" Vivobook Laptop i3-1215U 8GB/128GB SSD Win11 X1404ZA",455.88,ASUS,5,PC Xtreme by Gamextreme,7,4
+333,"Lenovo ThinkPad X1 Tablet Intel Core i5-8650U 13"" Touchscreen LCD Preloved",455.98,Gigaware,4.83,Gigaware,7,6
+513,Lenovo notebook gaming notebook Gaming Notebook Laptop intel core i7 8565U RAM 16GB SSD 1TB Windows 11   gaming laptop Windows11,455.98,OEM,5,SPEED Technology,185,35
+592,BRAND NEW Asus OEM ROG AIO laptop brand new original core N5095 cheapness Laptop 156 inch Windows 10 11 Pro 19201080 Cheap Portable Laptop DDR4 Ram 12GB Rom 128GB SSD HDMI Port Notebook,455.98,Aio,5,AIO All-in-one PC,7,4
+255,ASUS  Factory 2024 New Laptop 156-inch Screen Laptop Game Laptop AMD Ryzen R5 RAM 16GB+512GB SSD Professional Edition Windows 10 Pro Backlit Keyboard Support Fingerprint Unlock New Laptop 1-Year Warranty,458.76,OEM,5,Zoeyol Laptop,10,0
+178,Lenovo ThinkPad T480s/Intel Core i7/20G RAM/1TB SSD/integrated graphics/HDMI+WIFI+HD Camera,460.5,Lenovo ThinkPad,4.93,Focusing on IT laptop,359,235
+676,Lenovo all-in-one machine Intel Core i7 desktop all-in-one machine 24 inch high-definition screen i7+16G/DDR4 RAM+512G SSD M2+1 camera+ Dual band WiFi+Bluetooth+Windows 11,460.92,OEM,4.96,Chuangyun Technology,417,56
+399,ASUS Intel Core i7 Laptop Windows 11 156 Inch IPS Screen RAM 12/16GB SSD 128/256/512GB High Performance Professional Gaming Laptop Fingerprint Portable Notebook One Year Warranty,460.94,OEM,4.67,Tinolfs Gaming Laptop,36,9
+210,Dell laptop  i5 -8265/Ryzen R5-3500 156 inches /1080P/ Camera /wifi/ Suitable for online education/office/gaming,461.68,Dell,4.91,Tianchuan laptop store,48,22
+172,"HP 13"" Laptop Intel Core i5 8-Gen 8250u /Wifi/ Camera/For basic gaming, work, office use and online education 1-year warranty",462.12,HP,4.89,Tianchuan laptop store,45,27
+36,"Acer Aspire Go 15 156"" FHD Slim Laptop i3-N305 8GB /128GB UFS Win11 Pure Silver AG15-31P-3947",467.88,Acer,5,GAMEXTREME,419,115
+187,Lenovo Laptop 2022 IdeaPad 1 14 HD Intel Core i3-1215U 4GB RAM 128GB SSD Win11 [CLoud Grey],467.88,Lenovo,5,GAMEXTREME,73,19
+1238,AMD RYZEN 5 5600G PC | With Radeon Graphics | Ready to Use | Ready to Use | Plug and Play CPU Work Online Class | Collinx Computer,467.98,Redragon,5,Collinx Computer,31,22
+20,Lenovo New Laptop Core i7+16GB RAM Game Full 512GB SSD Game Laptop Student Laptop Installation Genuine Windows 11 System and MS Office PC Game Free Gift,472.33,OEM,4.86,Chuangyun Technology,285,97
+21,Lenovo  laptop brand new original  Intel core i7 10510U 16G DDR4 RAM 512G SSD HD Gaming Office Laptop 156-inch Business Laptop 2-year warranty,472.56,OEM,4.88,Chuangyun Technology,610,200
+887,Intel Core i5 All series Desktop Computer Full Set 13th gen Core i5 13400 Deca core 46Ghz frequency 16G RAM 1TB SSD intel UHD Graphics 730 Home Office/Designer drawing RGB case Speciality Gaming PC Set Brand new 3 yr warranty,475.18,ZORO,5,Zorotech,2900,141
+1190,"GOOJPRT GP-T3 All-in-one POS System Cash Register 156 Inch Touch Screen Machine Set ( Single / Dual Screen) Windows for Small Business Sales , Retail , Grocery & Restaurant",475.2,GOOJPRT,5,GOOJPRT,14,4
+71,Lenovo  Laptop Original HD Gaming Office Laptop Intel core i7 8706G  16G DDR4 RAM 1TB SSD 156-inch Gaming Laptop Built in webcam/camera for online classroom/learning WiFi Bluetooth Windows11 and MS Office,479.31,OEM,5,Chuangyun Technology,167,45
+175,2024 Lenovo Notebook Intel Core i7 RAM: 16GB/SSD: 1TB 156-inch Game Laptop Fingerprint unlock Windows 11 operating system  New laptop Free Computer Backpack,479.54,OEM,4.94,Chuangyun Technology,365,127
+65,"Acer Aspire 3 A315-24P-R7VH Slim 156"" FHD Laptop Ryzen 3 7320U 8gb/128gb NVMe SSD Pure Silver",479.76,Acer,5,GAMEXTREME,16,3
+84,"Asus Vivobook Go 156"" FHD Laptop AMD Ryzen 3-7320u 8GB/128GB Win11 - Mixed Black (E1504fa-As3)",479.76,ASUS,5,GAMEXTREME,7,3
+331,"MONSPRIN 156 Inch Intel N5095/N95/i7-1065G7 Laptop Work and Study 8GB 16GB LPDDR4 RAM,256GB/512GB SSD Computer Windows 11 Notebook Silver laptop sale lowest price",479.76,MONSPRIN,5,MONSPRIN Laptop Computer,10,7
+200,"Acer Aspire Go 15 156"" FHD Slim Laptop i3-N305 8GB/128GB UFS AG15-31P-3947 Windows 11 - Pure Silver",479.88,Acer,5,Gadget World,64,11
+394,Pink laptop brand new original Intel N5095 RAM 16GB 512GB SSD High-end Official Genuine Laptop Free Lenovo gaming mouse with your order loptops on sale original,479.98,MONSPRIN,5,MONSPRIN Laptop Computer,13,6
+768,"Bmax Laptop X14 Pro | 8Gb Memory, 512Gb High-Speed Ssd Amd Ryzen 5 3450U Processor Amd Radeon Graphics 141In Fhd Ips Display 57Wh Large Capacity Battery",479.98,Kimstore,5,Kimstore PH,7,1
+798,AIO Lenovo mini cpu intel Core quad-core i3 i5 i7 RAM 16GB 512GB SSD full set of home business office online class game Complete Full Set PC Gaming With CPU SSD Windows 10 Monoblock,479.98,OEM,5,MONSPRIN Laptop Computer,14,5
+682,"Lenovo new 24 inch screen i5 RAM 16GB 512GB high-end SSD all-in-one machine display screen, business desk, home gaming complete",488.62,OEM,5,Chuangyun Technology,140,6
+169,"HP Elitebook 830G5 & 840G5 Laptop / 133"" & 14"" FHD / Intel Core i5 i7 / 16GB RAM / 1TB SSD / Win11 Pro & Includes Office Suite / BrandNew Original",488.86,HP,5,YuMo Advanced Digital Store,86,38
+94,lenovo Core i7+ Fingerprint Backlight new laptop intel CPU  ram 16GB 512GB SSD cheap notebook 2025 student game this girl design ultra-thin laptop for business office Install windows 11 pro Warranty provided,490.21,OEM,4.95, Weiwo laptop,380,155
+317,ASUS Factory 2024 brand New Products 156'' Laptop 11th intel  Core i7 6560U RAM 16GB DDR4 512GB SSD Ultrabook Gaming Notebook Windows 11 Play Games/ Design/ Picture Rendering,497.94,OEM,5, Weiwo laptop,143,15
+419,〔Brand new〕Lenovo Thinkpad L570 Laptop office gaming Laptop 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,499.18,ZORO,4.97,Zorotech,1500,70
+555,"HP laptop i3-1005G1 250 G8 156""  HD  Intel Core i3 4GB RAM 128GB SSD Intel UHD Graphics WiFi BT42 Windows 10 OS",501.48,HP,5,GAMEXTREME,37,4
+192,ThinkPad A285/AMD Ryzen 5 Pro 2500U/Four Core/Eight Thread/125in FHD/DDR4 2400MHz 16GB RAM/512GB SSD/AMD Radeon RX Vega 8,501.78,Lenovo ThinkPad,4.95,16G+Laptop Mall,60,43
+224,Dell Latitude E7490/8Th Gen processor/141in/16GB RAM+1TB SSD,503.57,Dell,4.89,16G+Laptop Mall,11,9
+334,Dell Latitude E7490 | Intel® Core™i7 8Th gen | 16G RAM | 512GB SSD 1TB SSD |  Intel GMA UHD 620 | 14 inches  | laptop brand new original,503.57,Dell,5,Office Computer Store,69,48
+1089,Dell Laptop | Dell Latitude E7490 | Intel® Core™i7 8Th gen | 16GB +1TB | integrated graphics | 14 inches | laptop brand new original,503.57,Dell,4.73,Game Computer Mall,39,15
+636,Lenovo Thinkpad L570 Laptop office gaming Laptop 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,515.98,Lenovo ThinkPad,4.94,LB-store,1600,62
+1240,"Gaming Complete Set  ( Ryzen 7 5700G, Gigabyte A520 Motherboard, Cyborg Case with 6 LED Fan, 24 Inches Curve Monitor and Accessories ) Good for Editing and Gaming",516.31,AMD Ryzen Desktop,4.21,JJ-KING COMPUTER LAPTOP SUPPLIER,88,24
+202,（Brand new）Lenovo Thinkpad L570 Laptop office gaming computer 7th Gen Intel i5 7200U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,518.38,Lenovo ThinkPad,5,RaytekConsumerGoodstrading,1900,93
+1229,AMD Desktop Computer Full Set Athlon/Ryzen 3/5/7 series Octa core 46Ghz frequency 16G RAM 1TB SSD Radeon™ Graphics Vega 8 Home Office/Designer drawing RGB case Speciality Gaming PC Set Brand new 3 yr warranty,518.38,ZORO,5,Zorotech,4100,137
+1131,"Brand New Hasee God of War Mini PC Intel Core i5-12450H Windows 11 Mini Computer 29GHz 8 Core 12 Threads, 16GB DDR4 RAM, 256GB SSD, 1HDMI 4K UHD, 4USB 30, 1Typc C Interface, BT, WiFi 6, RGB Light, Office/Gaming Computer - Mini i5",520.78,Hasee,5,Lambo Official Store,5,17
+31,"Lenovo ThinkPad X13 X390 laptop -  Ultra-thin 133""FHD / Intel Core i5 i7 / 16GB RAM DDR4 / 512GB 1TB SSD /  Windows11Pro&office / BrandNew Original Laptop",526.1,Lenovo ThinkPad,5,YuMo Advanced Digital Store,30,16
+359,"LPO Lenovo Laptop Lenovo Thinkpad T490S, Thinkpad E590, ThinkPad E14, Ideapad 3 Touchscreen, Ideapad Slim 3 81WD, Thinkpad T14 Gen 2",526.75,LPO,5,LPO,15,7
+1157,Intel Core i5-12400 12th Gen Desktop Set DDR4 16GB RAM / Nvme M2 512GB SSD Full Set Gaming PC Computer,527.98,INPLAY,4.94,Inplay Gears,228,35
+635,Laptop vivobook Core 10 Generation i5/ i7-ryzenR5 Slim HD 156 inch screen/Online Education /WIFI Bluetooth business computer,531.55,OEM,4.95,Tianchuan laptop store,109,64
+189,"ASUS Factory Dual Screen Laptop Intel N5095 12TH Gen Processor 156"" Dual Screen 7"" Touch Screen Business Notebook",535.42,OEM,5,Laptop Computer,35,13
+238,Lenovo OEM 2024 laptop brand new original AMD Ryzen R7 student RAM 20GB 512GB SSD legion 5 online class game Windows 10/11 NotebooK With Fingerprint Backlit BT 5G-WiFi Install genuine Microsoft Office,535.42,OEM,5,MONSPRIN Laptop Computer,334,233
+163,Lenovo ThinkPad L480 E480/Intel Core i5 i7/14in/16GB RAM+512GB SSD/HD Camera/WiFi/Bluetooth/Lightweight and portable office laptop,538.68,Lenovo,5,16G+Laptop Mall,16,13
+280,laptop brand new original /Lenovo ThinkPad L480 E480/Intel Corei5 i7/14in/16GB RAM+512GB SSD/BrandNew Original Laptop/HD Camera/WiFi/Bluetooth,538.68,Lenovo,5,IT-Laptop Mall,43,31
+848,kingnovy L14 YOGA Dual Screen 360 Laptop 12th Gen Intel N95 2x14 Inch 25K Touch IPS Windows 2 in 1 Notebook WiFi,550.6,KingnovyPC,4.25,King Novy PC Computer Store,8,4
+127,DELL laptop gaming laptop computer brand  original laptop pc 8th i7/i5 NVIDIA GTX1060-6G graphics card suitable for online education + work + gaming + large design,550.94,Dell,4.83,Tianchuan laptop store,92,24
+113,"HP EXP 250 G9 156"" FHD Laptop i3-1215U 8GB/256GB SSD Win11 Asteroid Silver",551.76,HP,5,GAMEXTREME,30,10
+1085,"Hasee M7 Mini PC (Intel, Dual-Screen 4K, WiFi) Intel Celeron N100 Mini Computer 34GHz 4-Core 4 Threads, 16GB LPDDR5 RAM 256GB SSD, 3 HDMI 4K UHD with HDMI Cable, 3USB 30, Windows 11, BT, WiFi 5, Black",556.78,Hasee,4.43,Lambo Official Store,7,22
+193,"ASUS Factory Laptop Dual Screen Laptop 156"" IPS+7"" Touch Screen 16G DDR4 2TB SSD Intel 11th Gen N5095 Windows11 Notebook Computer",558.7,OEM,4.91,MONSPRIN Laptop Computer,49,43
+274,Brand New Lenovo ThinkPad YogaX380/8TH YOGA370/7TH laptop Tablet computer Intel Quad/Dual-Core i7/i5 DDR4 8G/16G RAM 256G/512G/1T SSD IPS 1920×1080 brilliant 133'' touch screen Windows11 Pro Ms office Online Class Learning Computer WiFi/Bluetooth,558.72,Lenovo ThinkPad,4.96,CM Super Laptop,518,227
+897,"12th Gen, 12-Cores Intel Core-i5/i7, Intel NUC Mini-PC NUC12WSHi5, Iris Xe Graphics, 16-32GB RAM 256-512GB NVMe Gen4, Wi-Fi6E+Bluetooth, Thunderbolt 4, Windows 11 Pro, PRELOVED",563.98,Intel,5,MIKETECH COMPUTER CENTER,18,11
+22,"Acer AL14-31P-C582 Intel Celeron N100 8GB 512GB SSD 14"" Shared W11 CoPilot Silver Laptop | Acer Laptop FREE! Laptop bag and Mousepad",571.27,Acer,4.97,Acer,566,178
+257,141 in/8Th Gen core i7-8650U/DDR4 32GB Memory/512GB SSD/laptop brand new original/HD camera can be connected to 5G WiFi/Compatible Windows 11+Office 2016,572.38,HP,5,CN Laptop Mall,27,14
+288,"Lenovo ThinkPad X380Yoga X390Yoga - Versatile 2-in-1 / 133""FHD 360° / Intel Core i5 i7 / 16G RAM DDR4 / 512GB 1TB SSD /  Windows11Pro&office / BrandNew Original Laptop",572.69,Lenovo ThinkPad,5,YuMo Advanced Digital Store,25,14
+237,"Acer Aspire Lite AL14-31P-C6PU 14"" Full HD | Intel N100 | 8GB DDR5 RAM | 512GB SSD | UHD Windows 11 Laptop",573.36,Acer,5,Allworld Communications,37,11
+99,"HP 250 G9 156""FHD Laptop i3-1215U 8GB/512GB SSD Win11 Dark Ash Silver",575.76,HP,5,GAMEXTREME,16,3
+296,Lenovo Touch Laptop | Lenovo ThinkPad X390 YOGA | Intel® Core™ i7 | 16GB 512GB SSD | integrated graphics | 133 inches FHD | laptop brand new original,575.81,Lenovo ThinkPad,4.93,Game Computer Mall,79,37
+299,Lenovo ThinkPad YOGA X390 X380 X370/2-in-1s/Intel Core i7/133in FHD/16GB RAM+256GB SSD/BrandNew Original Laptop/HD Camera/WiFi/Bluetooth,575.81,Lenovo ThinkPad,5,16G+Laptop Mall,5,3
+868,"Acer AL14-31P-C582 Intel Celeron N100 8GB 512GB SSD 14"" Shared W11 CoPilot Silver Traditional Laptops | FREE Laptop Bag, Mouse and Mousepad",587.3,Acer,5,PCWORX,18,10
+432,Original Lenovo Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,595.18,Lenovo ThinkPad,5,Zorotech,704,49
+346,ASUS 156 Inches Vivobook Laptop Intel Core i7/i5 11th Gen Mini  Ultrabook Lightweight and Portable Laptop,595.56,ASUS,4.89,AnFi,57,9
+810,Original Lenovo Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,597.58,Lenovo ThinkPad,5,RayDigital,885,50
+336,Thinkpad T480S Laptop office gaming computer 8th Gen Intel i7 8650U processor 14inches ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop Refurbished 1 yr warranty,599.98,Lenovo ThinkPad,5,RaytekConsumerGoodstrading,769,49
+256,Dell laptop/dell G3/156in FHD/8Th Gen Intel Core i7/16G RAM/256G SSD+1TB HDD/NVIDIA GTX1060-6G/gaming laptop,601.11,Dell,5,giegie Gaming laptop,21,14
+1239,AMD RYZEN 7 5700G RGB Desktop | Radeon Graphics | Ready to Use | High Quality CPU with Freebies | Gaming Office Online Class Work Business | Collinx Computer,606.94,Redragon,4.98,Collinx Computer,128,58
+322,Lenovo Thinkpad L590 Laptop office gaming computer 8th Gen Intel i5 8265U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,609.58,Lenovo ThinkPad,5,RaytekConsumerGoodstrading,452,30
+75,ThinkPad X395/AMD Ryzen 7 Pro 3700U/Four Core/Eight Thread/133in FHD/DDR4 2400MHz 8GB RAM/512GB SSD/AMD Radeon RX Vega,616.9,Lenovo ThinkPad,4.98,16G+Laptop Mall,618,472
+32,"HP 255 G9 156"" FHD Laptop, Ryzen 5-5625U 16GB/512GB Win 11 Silver",623.76,HP,4.91,GAMEXTREME,199,46
+222,"Infinix INbook X2 Plus, Core i3, 8GB + 256GB Laptop",623.98,Infinix,5,Infinix,23,3
+683,24 inch Lennovo all-in-one computer full set of i7/i5/i3 RAM 16GB 512GB SSD office business home high-end game design desktop host machine Office home online class learning game full set machine 2 years local warranty,623.98,OEM,5,AIO All-in-one PC,35,17
+1145,"Free ASUS Wireless Keyboard and Mouse Bundle All in one Computer 238 inch/27 inch curved surface  core i7 RAM 16GB SSD 512GB Windows 10 System unit pc computador gaming pcs gamer Monoblock Gaming pc Free shipping, 2 year local warranty aio desktop",623.98,OEM,4.98,AIO All-in-one PC,627,330
+310,Lenovo Laptop | Lenovo ThinkPad T460P T470P | Intel® Core™ i7-7820HQ | 16GB +512GB SSD | NVIDIA GeForce 940MX 2G | 14 inches FHD | laptop brand new original,627.16,Lenovo ThinkPad,4.97,Game Computer Mall,713,555
+1245,Lenovo ThinkPad T460P T470P/Intel Core i7/14in FHD 19201080/16GB RAM+256GB SSD/Nvidia GeForce 940m 2G/BrandNew Original Laptop /HD Camera/WiFi/Bluetooth/Fingerprint unlock,627.16,Lenovo ThinkPad,5,16G+Laptop Mall,83,60
+357,Lenovo Thinkpad L580 Laptop 8th Gen Intel i7 8550U processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /256TB SSD gaming/Office / online courses compute Laptop 1 yr warranty,645.58,Lenovo ThinkPad,5,RaytekConsumerGoodstrading,576,37
+340,Asus Vivobook Go 15 E1504FA-NJ389W Full HD Ryzen 3 7320U 8GB 512GB SSD Radeon Windows 11 Laptop,645.6,ASUS,5,JW Summit,11,4
+34,"Lenovo Flex 5i 14"" WUXGA Touchscreen 2n1 Laptop i3-1215U 8GB/256GB SSD Win 11 Home S mode - Storm Grey",647.76,Lenovo,5,GAMEXTREME,28,6
+108,"HP 15-dy4013dx 156"" Touch-Screen Laptop - Intel Core i5 12GB RAM /256GB SSD [Natural Silver]",647.76,HP,5,GAMEXTREME,212,47
+133,"Asus Vivobook 156""FHD Laptop Intel core i5-1135G7 8GB RAM / 256GB SSD Win11 Black [F1500EA-WB51]",647.76,ASUS,5,GAMEXTREME,114,24
+116,MSI Modern 14 C13M Laptop - Intel Core i3 1315U Raptor Lake / 8GB DDR4 RAM / Intel Graphics / 512GB SSD / 14-inch Ultrawide Display / Wifi 6E / Backlit Keyboard / Windows 11 / 2-year Warranty,647.88,MSI,5,MSI Business and Productivity,18,7
+439,"Acer recommend MONSPRIN AMD Ryzen 7 4700U 16GB 512GB SSD 156"" Integrated W11 H&S Silver / 156"" display with IPS/ AMD Radeon Graphics/ Win 11 Home with Microsoft Office for Home and Student",651.82,MONSPRIN,5,MONSPRIN Laptop Computer,17,11
+17,HP Laptop | 15 inch | Ryzen 3 5th/7th Generation | 4/8GB | 128-512GB | Windows 11 | AMD Radeon Integrated Graphics | 100% Free Shipping | 2 Years Warranty | Brand New | Original | Low Price,660.96,HP,4.8,HP,588,168
+1215,PC Set Gaming Desktop Computer Set Ryzen 5 5600G Ryzen 3 3200G With 8G/16G Memory 60G 120G 240G ssd 500g 1T hdd DIY Desktop computer with RGB LED fans PUBG LOL GAT5,669.07,ProVision,4.94,iJUNE PC,1300,484
+79,"Acer Spin 5 135""IPS Touch Convertible Laptop - Intel Core i5-1035G4 8GB RAM/256GB NVMe SSD Win10 Pro- Steel Gray [SP513-54N]",669.48,Acer,5,GAMEXTREME,79,20
+425,Xiaomi RedmiBook 15 Core i5 Laptop | 8GB + 512GB,676.78,Xiaomi,5,MiAuthorizedStore,58,12
+45,"Acer AG14-31P-31M3 i3-N300 8GB 512GB SSD 14"" Shared Win11 H&S Silver | Acer Laptop FREE! Laptop bag and mousepad",686.38,Acer,4.93,Acer,427,136
+12,laptop Gaming laptop TUF/9th  I5-9300H/I7-9750H /AMD Ryzen 7-3750h 120Hz High refresh rate FHD camera +RGB keyboard lighting/professional game book + large design software,693.94,OEM,4.62,Tianchuan laptop store,329,105
+76,HP Laptop 14/15 inch | Intel Core i3 12th Generation | 4/8GB | 256/512GB | Windows 11 | Intel UHD Graphics | 100% Free Shipping | 2 Years Warranty | Free Microsoft Office,695.76,HP,5,HP,170,51
+114,HP Gaming Laptop Light Wizard 9 generation Intel Core i59300H/i7-9750H NVIDIA Display GTX1650-4G suitable for gaming + design,702.23,HP,4.98,Tianchuan laptop store,84,41
+80,"Acer Extensa 156"" FHD Laptop  i5-1235U 8GB/512GB Win11 EX215-55 -  Steel Gray",719.76,Acer,4.7,GAMEXTREME,44,10
+11,HUAWEI Matebook D 14 2024 Laptop | Eye Comfort HUAWEI Fullview Display | Super Device | HUAWEI Metaline Antenna,719.98,Huawei,4.91,HUAWEI,474,150
+145,HP laptop 15-dk0038TX/156in/9Th Gen Intel Core i5 i7/16G 32G RAM/512G SSD 1TB SSD/NVIDIA Display GTX1650-4G suitable for gaming + design/Built in WIFI+Bluetooth+camera,728.42,HP,5,giegie Gaming laptop,13,6
+19,MSI Modern 15 B7M - AMD Ryzen 7000 Series Processor / 16GB DDR4 RAM / AMD RX Vega Graphics / 512GB SSD / 156 Ultrawide Display / Wifi 6E / Full Size Backlit Keyboard / Windows 11,743.88,MSI,4.98,MSI Business and Productivity,424,148
+294,"Lenovo IdeaPad 1 15AMN7 (82VG00R1PH) | AMD Ryzen 5 7520U | 156"" 1920x1080 | 8GB DDR5 RAM | 512GB SSD | WIN11 HOME (PC CENTRAL)",743.98,Lenovo,5,PC Central,7,2
+404,"Infinix INbook Y3 Max, Core i5, 8GB + 512GB Laptop",743.98,Infinix,5,Infinix,5,1
+135,"Acer A15-51P-33C3 Core 3 100U 8GB 512GB SSD 156"" Shared Win11 H&S Grey Laptop | Acer Laptop FREE!!! Laptop Bag and mousepad",749.83,Acer,5,Acer,12,2
+181,Lenovo Legion Gaming Laptop i7/i5 10th Gen NVIDIA RTX3050/GTX1650 Graphics Card /Can run large games laptop,772.13,Lenovo,5,AnFi,32,6
+159,"Lenovo IP3-15IAU7 Slim3 (82RK00WKPH) Laptop | Intel Core i3-1215U, 6C (2P + 4E) / 8T, P-core 12 / 44GHz, E-core 09 / 33GHz, 10MB | 8GB Memory | 156"" FHD | 512GB SSD M2 | Integrated Intel UHD Graphics | Windows 11 Home |  Arctic Grey",777.46,Lenovo,5,PC Express,8,2
+283,"Acer AL14-51M-57H1 i5-1235U 8GB 512GB SSD 14"" Shared Win11 H&S Silver | With Laptop Bag and Mousepad",783.34,Acer,5,Acer,39,13
+140,Acer Aspire Lite (AL14-51M-57H1) OPI | 140inch IPS | Intel Core i5-1235U | 8GB DDR5 RAM | 512GB SSD | Intel UHD Graphics | WIN11 | PC CENTRAL,791.98,Acer,5,PC Central,6,2
+264,Lenovo Ideapad 3 156'' Laptop 11th Gen Core i5 12gb/256gb Arctic Grey,813.48,Lenovo,5,GAMEXTREME,14,2
+167,HP Laptop | 14/15 inch | Ryzen 5 5th/7th Generation | 8GB | 256/512GB | Windows 11 | AMD Radeon Integrated Graphics | 100% Free Shipping | 2 Years Warranty | Free Microsoft Office | Brand New | Original | Low Price,814.57,HP,4.88,HP,71,17
+170,"Lenovo Flex 5i 14"" FHD Touchscreen 2-in-1 Laptop i5-1235u 8GB/512GB SSD Intel Iris Xe Graphics Storm Grey",834.96,Lenovo,4.75,GAMEXTREME,12,4
+269,"Lenovo Ideapad Slim 3 15IAH8 (83ER00HEPH) | Intel Core i5-12450H | 156"" 1920x1080 | 16GB DDR5 RAM | 512GB NVMe SSD | Win 11 (PC CENTRAL)",839.98,Lenovo,5,PC Central,155,51
+244,MSI Modern 14 C7M - AMD Ryzen 7000 Series Processor / 16GB DDR4 RAM / AMD RX Vega Graphics / 512GB SSD / 14 inch 1080p IPS Level Display / Wifi 6E / Full Size Backlit Keyboard / Windows 11,851.88,MSI,5,MSI Business and Productivity,50,16
+78,"Lenovo Yoga 7 2-in-1 14"" 2K Touchscreen Laptop - AMD Ryzen 5-8640HS  8GB/512GB SSD - Artic Grey",863.88,Lenovo,4.57,GAMEXTREME,20,7
+49,156 Inches ASUS Gaming Laptop Intel Core i5/i7 11th Gen 32G RAM 512G SSD RTX3050/GTX1650 gaming laptop,882.53,ASUS,4.9,AnFi,75,20
+33,"HP Victus 156"" FHD | AMD Ryzen 5 7535HS | 8GB DDR5/512gb SSD Radeon RX 6550M | Win11 | Mica Silver",887.76,HP,4.95,GAMEXTREME,60,21
+166,HP Laptop | 15 inch | Intel i5 13th Generation| 8GB RAM | 512GB | Windows 11 | AMD | 2 Year Warranty | FREE LAPTOP BAG,911.76,HP,4.74,HP,111,47
+225,"HP Envy x360 2n1 14""FHD Touchscreen Laptop intel i5-1335U 8GB/512GB SSD Win 11 SIlver 14-0013dx",911.76,HP,5,GAMEXTREME,31,12
+23,Apple MacBook Air 13-inch (M1),926.16,Apple,4.85,Apple Flagship Store,113,47
+702,"Xitrix GL1R AMD Ryzen 5 Gaming PC (Ryzen 5000 Processor, GTX/RTX GPU, AMD A520 Gaming Board, 16GB RGB DDR4, 500GB M2 SSD, Wireless AC, 120MM RGB AIO Liquid Cooling) 3 Years Warranty; 2023 Edition",931.2,Xitrix,4.2,Xitrix,55,20
+100,"Asus 16"" Vivobook Wuxga Laptop Intel I7-1255U 16gb/512gb Win11 Black",935.76,ASUS,4.92,GAMEXTREME,194,60
+215,Dell Inspiron 3520 Laptop 156 Inch FHD | 12th Gen Intel Core i5 | 8GB + 512GB | Intel UHD Graphics | Windows 11 Home | 2yrs Warranty | FREE 12months McAfee and BAG,935.76,Dell,5,Dell,10,2
+1031,"ASUS VIVOBOOK 16X (X1605ZA-MB819WSM) 16"" 1920x1200 IPS| Intel Core i5-1235U | Intel Iris Xe | 16GB DDR4 RAM | 512GB SSD (PC CENTRAL)",935.98,ASUS,5,PC Central,51,12
+204,"Acer A315-44P-R9LQ Ryzen 7-5700u 16GB 512GB SSD 156"" Shared Win11 H&S Silver/ 156"" display with IPS/ AMD Radeon Graphics/ Win 11 Home with Microsoft Office for Home and Student 2021",957,Acer,5,Acer,69,27
+106,Asus Zenbook 14 OLED 14'' WUXGA Touch Laptop Ultra 5 Intel Evo 8GB/ 512GB SSD Win11 Q415 - Jasper Gray,959.88,ASUS,5,GAMEXTREME,5,2
+360,MSI Thin A15 (B7UCX -084PH) Gaming Laptop | AMD Ryzen 5 7535HS (6 cores) | RTX 2050 4GB | 512GB SSD | 8GB RAM DDR5 | WIN 11 Home (PC CENTRAL),959.98,MSI,5,PC Central,60,25
+521,Hasee Z7T-CU7N Intel 6 Core I7-10750H GTX 1650Ti 8GB RAM 512G SSD 156' IPS 144HZ Gaming Laptop,959.98,Hasee,5,Hasee Philippines,11,1
+329,"Machenike L16A Ryzen 7 7735H 16gb ram 512 SSD 16"" QHD",960,MACHENIKE,5,Laptop Factory Official,6,2
+239,laptop Gaming Laptops  TUF 11Th i7-11600H unique RTX3050 RGB keyboard  can play CF/LOL/PUBGM esports game 3D design video clip,964.53,OEM,5,Tianchuan laptop store,51,28
+261,Acer Nitro V (ANV15-41-R2M0)  | AMD Ryzen 5-7535HS  | 8GB DDR5 | 512gb SSD | NVIDIA RTX 2050 4GB | WINDOWS 11 HOME (PC Central),983.98,Acer,5,PC Central,9,4
+497,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,1000.78,Lenovo,5,RaytekConsumerGoodstrading,359,46
+970,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i5 13420H processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,1000.78,Lenovo,5,RayDigital,358,48
+1032,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop Freebies 1 yr warranty,1000.78,Lenovo ThinkPad,5,LB-store,221,47
+1054,『Brand New』 Lenovo Ideapad 15S Laptop office gaming computer 13th Gen Intel i7 1355U processor 156inches ultrathin IPS FHD 19201080 screen 16GB RAM /1TB M2 NvME SSD gaming/Office / online courses compute Laptop 1 yr warranty Freebies,1000.78,Lenovo,5,Zorotech,350,45
+38,Hot Sale Machenike Light 16Air 13th Gen i7 13620H Laptop 16 inches 25K Screen 100%sRGB 120Hz 16G RAM LPDDR5 512G SSD PCIE40 2024 brand new laptop,1007.98,MACHENIKE,4.82,Machenike Official Store,234,77
+301,HP Notebook 15s office gaming Laptop 12th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop 1 yr warranty,1017.58,HP,5,RayDigital,1600,81
+469,〔Brand new〕HP Notebook 15s office gaming Laptop 10th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop 1 yr warranty,1022.38,ZORO,5,Zorotech,922,110
+1247,Brand new HP Notebook 15s office gaming Laptop 10th Gen Intel i7 1260P processor 156inch ultrathin IPS FHD 19201080 screen 16GB RAM /512GB SSD gaming/Office / online courses compute Laptop,1039.18,HP,4.86,LB-store,2100,57
+362,HP Pavilion x360 Laptop 14 inch | Intel Core i3 12th/13th Gen | 8GB | 512GB | Windows 11 | Intel UHD/Iris Xe Graphics | Space Blue | 100% Free Shipping | 2 Years Warranty | FREE MS OFFICE & LAPTOP BAG,1039.8,HP,4.75,HP,11,4
+97,"Apple MacBook Air 13"" M1 Chip with 8‑Core CPU and 7‑Core GPU 256GB SSD Storage",1055.76,Apple,4.95,WhiteHaus,1100,400
+308,"Dell Inspiron 3530 Laptop Intel® i3 | i5 | i7 13th Gen / 3535 AMD Ryzen 5 / 3530 i5 8GB RAM | 156"" FHD Screen 120hz | Windows 11 Home | Microsoft Home & Student 2021 | 1 year McAfee Antivirus | FREE BAG | 2yrs Warranty",1055.76,Dell,5,Dell,25,12
+413,HP Victus 15 (15-FB1041AX) Gaming Laptop 156-in FHD IPS 144Hz / Ryzen 5 7535HS / 8GB / 512GB SSD / RTX 2050 / Windows 11 (PC CENTRAL),1079.98,HP,4.98,PC Central,198,64
+990,Lenovo Legion Tower 7 7000P CPU 2021 AMD Ryzen Edition RTX 2060/3060/3070 GTX 1650/1660 ZZM TRADING,1114.56,Lenovo,5,ZZMTRADING,18,7
+355,MSI GAMING Thin 15 B13VE-1831PH | 156inch FHD IPS 144Hz | Intel Core i5-13420H | 8GB RAM | 512GB SSD | RTX 4050 6GB | WIN11| PC CENTRAL,1175.98,MSI,5,PC Central,6,4
+535,Xitrix TravelPro G14 UltraBook 2022 Model ( 11th Gen Core i5/i7; GeForce GTX1650Ti; 1TB M2 SSD; Thunderbolt 4; 14inch 100% SRGB Pantone Certified Display ); 1 Year Warranty,1195.2,Xitrix,5,Xitrix,32,11
+1203,"Lenovo ThinkPad Neo 14 2022 (INTEL | RYZEN EDITION) AMD Radeon Intel Iris Xe 140"" 2240x1400 16GB LPDDR5  512GB SSD",1244.16,Lenovo,5,ZZMTRADING,34,13
+481,"ASUS TUF Gaming FX507ZC4-HN081W | INTEL CORE i5 12500H | 8GB DDR4 512SSD | 4GB RTX3050 | 156"" FHD 144Hz | Windows 11 | Laptop Gaming | AutoCAD | Design | Performance | Work From Home | Online Class",1247.98,ASUS Republic of Gamers,5,ROG,9,3
+666,"Acer SFG14-73-59GV Ultra 5 125H  / SFG14-73-73VB Ultra 7 155H  16GB 512GB SSD 14"" Intel Arc Win11 H&S Silver  FREE LAPTOP BAG AND MOUSEPAD",1260.94,Acer,4.77,Acer,53,12
+305,ACER NITRO V ANV15-51-519K NVIDIA® GeForce® RTX™2050 Graphics | Intel Core i5-13420H Processor | 156 inch Full HD 144Hz IPS Display | 8GB DDR5 Memory | 512GB M2 SSD Storage | WIN 11 Home | Office Home & Student 2021 | Gaming Laptop,1271.98,Acer,5,NVIDIA GEFORCE,25,7
+335,"MSI Thin 15 B13UC-2438PH Intel Core i7 13620H RTX 3050 4GB GDDR6 156"" Gaming Laptop",1271.98,MSI,5,MSI Gaming Store,5,1
+367,HP Victus 15 (15-FA1323TX) Gaming Laptop 156-in FHD IPS 144Hz / Intel Core i5-12450H / 16GB / 512GB SSD / RTX 4050 / Windows 11 (PC CENTRAL),1271.98,HP,5,PC Central,12,3
+777,"Xitrix GL1 12G Intel Gaming PC 2023 (12th Gen Core i7-12700F Processor, GTX/RTX GPU, B660 Gaming Board, 16GB RGB DDR4, 500GB M2 SSD, 1TB SATA HDD, Wireless AC, 120MM RGB AIO Liquid Cooling) 3 Years Warranty",1315.2,Xitrix,4.78,Xitrix,37,18
+251,ASUS Zenbook 14 OLED 14'' WUXGA Touch Laptop Ultra 7 155H 16GB/1TB SSD Q425 - Jasper Gray,1319.88,ASUS,5,GAMEXTREME,8,5
+496,Acer Aspire 7 A715-76G-5188 NVIDIA® GeForce® RTX™2050 4GB GDRR6 Graphics | Intel Core I5-12450H Processor | 8GB DDR4 Memory | 512GB PCIE NVME SSD Storage | 156 Inch Full HD IPS 144HZ Display | WIN 11 HOME | Office Home & Student 2021 | Gaming Laptop,1343.98,Acer,5,NVIDIA GEFORCE,14,3
+476,"Lenovo LOQ 83DV00E8PH Gaming Laptop | Intel core i5-13450HX | NVIDIA RTX 4050 6GB | 156"" FHD 144Hz, | 8GB DDR5 RAM | 512GB SSD | WIN 11 (PC CENTRAL)",1367.98,Lenovo,4.94,PC Central,43,17
+44,Apple MacBook Air 13-inch M2 8-Core CPU-8-Core GPU-16GB-256GB (Late 2024),1377.36,Apple,5,Beyond the Box,83,30
+569,MSI Cyborg 14 2024 Intel Core i5-13420H/i7-13620H NVIDIA GeForce RTX 4050/4060 14 inches WUXGA (1920x1200) 144Hz IPS 16GB RAM 512GB SSD ZZM Trading,1386.72,MSI,5,ZZMTRADING,10,4
+520,MSI Cyborg 15 (A13VF-1256PH) Gaming Laptop | Intel i5-13420H (8 cores) | 8GB DDR5 RAM | 512GB SSD | RTX 4060 8GB (PC CENTRAL),1415.98,MSI,5,PC Central,14,2
+136,Apple MacBook Air 13-inch M2 8-Core CPU 8-Core GPU 8GB Unified Memory 256GB SSD Storage,1437.36,Apple,4.95,WhiteHaus,221,65
+1200,"Dell Inspiron 5635 Laptop AMD Ryzen™ 5 7530U or AMD Ryzen™ 7 7730U | Radeon™ Graphics | 16"" FHD Screen | 512GB SSD + 16GB RAM | Windows 11 Home | Microsoft Home & Student 2021 | 2 yrs Warranty | 1 year McAfee Antivirus | Platinum Silver | FREE BAG",1487.76,Dell,4.33,Dell,16,3
+570,"Lenovo GeekPro G5000 LOQ 2023 R7-7840H RTX4060/RTX4050 156"" 2560x1440 165Hz 16GB DDR5 512GB SSD",1503.36,Lenovo,5,ZZMTRADING,35,19
+603,"Lenovo GeekPro G5000 LOQ 2023 i7-13700H/i5-13500H RTX4060/RTX4050 156"" 2560x1440 165Hz 16GBDDR5 1TBSSD",1503.36,Lenovo,5,ZZMTRADING,16,10
+913,"Asus TX4 2023 Ryzen Edition R7-7735H RTX4050/RTX4060 156"" 1920x1080 144Hz 16GB DDR5 512GB SSD",1503.36,ASUS,5,ZZMTRADING,14,8
+91,MacBook Air 13-inch M3 8-Core CPU-8-Core GPU-16GB-256GB (Late 2024),1557.36,Apple,5,Beyond the Box,28,3
+470,Apple 13-inch Macbook Air,1559.76,Apple,5,Switch Philippines,78,23
+545,"13-inch MacBook Air: Apple M1 chip with 8-core CPU and 7-core GPU, 256GB - Space Grey",1559.76,Apple,5,iStore PH,37,13
+927,"LENOVO Yoga 7i 82BH001LPH | 10-point Multi-touch | Intel Core i7-1165G7 | 8GB Soldered DDR4-3200 | 512GB SSD M2 2242 PCIe 30x4 NVMe | 14"" FHD (1920x1080) IPS | Windows 10 | Office Home and Student 2019 | LAPTOP",1559.88,Lenovo Yoga,5,Lenovo PH Store,21,4
+770,HP Laptop Envy X360 Touch Ryzen 5/7 8th Gen 16GB LDDR5 512GB SSD FREE MS OFFICE & BAG 2 yrs wrty,1595.76,HP,5,HP,16,3
+120,Hot Sale MACHENIKE Light 16Pro 25K 165Hz Screen RTX4060 8GB AMD Ryzen 7 7735H 16G RAM 1T SSD PCIE40 Gaming Laptop 2024 new laptop,1607.95,MACHENIKE,5,Machenike Official Store,69,26
+452,"MSI Cyborg 15 A12VF-811PH Intel Core i7-12650H RTX 4060 8GB 156"" FHD 144Hz IPS Gaming Laptop",1619.98,MSI,5,MSI Gaming Store,8,1
+1223,"Microsoft Surface Pro 6 (i5, 128GB, 8GB) with Type Cover and Pen (Platinum)",1631.76,Microsoft,5,Surface,5,2
+601,"ASUS TUF Series TX5 156"" 25K Res Ryzen 7/9 RTX 4070 165hz 3ms 16GB DDR5 512GB/1TB SSD ZZM Trading",1645.92,ASUS,5,ZZMTRADING,11,7
+523,"Acer Predator Helios NEO 16 (PHN16-72-52PC) Gaming Laptop | 165Hz 16"" IPS Panel | Intel Core i5-14500HX | RTX 4050 6GB | 8GB DDR5 RAM | 512GB SSD (PC Central)",1655.98,Acer,4.79,PC Central,49,28
+794,"Gigabyte G5 KF5 (G3MY383SH) RTX 4060 Gaming Laptop 156"" 144Hz Intel Core i7-12650H / RTX 4060 8GB (PC CENTRAL)",1655.98,Gigabyte,5,PC Central,5,1
+811,"Acer ANV16-41-R3RP Ryzen 7 8845HS 8GB 512GB SSD 16"" RTX4050 6GB Win11 H&S Gaming Laptop |  Nitro V | Acer Laptop FREE! Laptop Bag and Mousepad",1662.98,Acer,5,Acer,7,3
+558,"Lenovo Legion 5i (Y7000P) 2024 i7-14thGen RTX4050/4060 16"" 25Kres 165Hz 16GB RAM 1TB SSD ZZM Trading",1710.72,Lenovo Legion,5,ZZMTRADING,54,24
+600,"Lenovo Legion Y7000 2024 Core i7-13650HX 156"" 1920x1080 RTX 4060 144Hz 24GB 4800MHz 512GB SSD ZZM Trading",1736.64,Lenovo,5,ZZMTRADING,7,4
+1096,"Lenovo ThinkBook 16+ 2024 Ultra5/7 RTX4050/4060 16"" 25K 16/32GB RAM 512GB/1T SSD ZZM Trading",1736.64,Lenovo,5,ZZMTRADING,10,3
+579,"Asus TX Air 2024 AMD Ryzen AI 9 HX  14"" 165Hz 3ms RTX 4060 32GB RAM  1TB SSD ZZM Trading",1749.6,ASUS,5,ZZMTRADING,5,3
+420,Apple MacBook Air 15-inch (M3),1792.56,Apple,5,Apple Flagship Store,11,3
+272,"Lenovo Legion 5 Series R7000P 2023/2024 Brand New Gaming Laptop Series 156"" 165Hz 16GB RAM 512GB SSD",1814.4,Lenovo,5,ZZMTRADING,146,71
+142,"Apple MacBook Air 13-inch (M3, 2024)",1823.76,Apple,5,Beyond the Box,97,35
+472,"Acer Predator Helios PHN16-71-55V5 i5-13500HX 16GB 512GB SSD 16"" RTX4060 8GB W11 H&S Laptop | Acer Laptop FREE!!! Laptop Bag, Mouse pad and Gaming Chair",1940.26,Acer,5,Acer,17,5
+704,Lenovo Legion Tower 7000K 2023 CPU i5-13600KF|i7-13700KF RTX3030/3060Ti/3070/4070/4070ti 16GB DDR5 512GB/1TB SSD WIFI 6 ZZM TRADING,2008.8,Lenovo,5,ZZMTRADING,7,1
+471,Apple MacBook Pro 14-inch M3 8CPU 10GPU 8GB (Late 2023),2063.76,Apple,5,Beyond the Box,19,1
+736,"MSI SWORD 16 2024 i7-14700HX RTX 16"" 25K (2560x1600) 240HZ 100%sRGB  16GB DDR5 1TB SSD ZZM TRADING",2112.48,MSI,5,ZZMTRADING,12,4
+499,Apple MacBook Air 13-inch M3 (Late 2024),2146.56,Apple,5,WhiteHaus,17,5
+575,"ASUS ROG Strix G16/G18 G614 2023 Intel Core i7/i9 RTX4060/RTX4070 16"" QHD 240Hz 16GB RAM 1TB SSD",2177.28,ASUS,5,ZZMTRADING,40,19
+533,"Acer Predator Helios NEO 16 75Z0 (PHN16-72-75Z0) Gaming Laptop | 165Hz 16"" IPS Panel | Intel Core i7-14700HX | RTX 4060 8GB | 16GB DDR5 RAM | 512GB SSD (PC Central)",2183.98,Acer,5,PC Central,17,5
+619,"Apple 15-inch MacBook Air: Apple M3 chip with 8-core CPU and 10-core GPU, 16GB, 512GB SSD",2207.76,Apple,5,The Loop by Power Mac Center,8,3
+540,"Lenovo Legion 5 16IRX9 83DG00F5PH Gaming Laptop | Intel Core i7-13650HX | NVIDIA RTX 4060 | 16"" WQXGA 165Hz, | 16GB DDR5 RAM | 512GB SSD | WIN 11 HOME (PC CENTRAL)",2231.98,Lenovo,5,PC Central,64,21
+644,"HP OMEN 16 2024 i9-14900HX 161"" QHD RTX 4060/RTX 4070 | 32GB DDR5-5600 1TB SSD ZZM Trading",2358.72,HP,4.56,ZZMTRADING,22,9
+895,Razer Blade 14 Gaming Laptop Ryzen 9-5900HX 16GB RAM 1TB SSD 8GRTX3080 W10H 14 Inches QHD Black,2376,Razer,4.5,Laptop Sensei,5,2
+668,"ASUS ROG STRIX G16 G614JU-N4450W | INTEL CORE i7 13650HX | 16GB DDR5 | 1TBSSD | 6GB RTX4050 | 16"" FHD 240Hz | Windows 11 | GAMING | PERFORMANCE | EDITING",2399.98,ASUS Republic of Gamers,5,ROG,5,2
+583,"Lenovo Legion 5i Pro (Y9000P) 2024 i9 14th Gen RTX4060 16"" 25K 240Hz 16GB RAM 1TB SSD ZZM Trading",2410.56,Lenovo,5,ZZMTRADING,23,9
+453,Acer Predator Helios 16 (PH16-72-94UE) Gaming Laptop | 240Hz WQXGA IPS Panel | Intel Core i9-14900HX  | RTX 4070 8GB | 16GB DDR5 RAM | 512GB SSD (PC Central),2543.98,Acer,4.92,PC Central,27,13
+757,"LENOVO LEGION 7i Slim Y9000X 2023/2024 i9-14900HX RTX 4060 | 4070 16"" 32K 165Hz 32GB RAM 1TB SSD ZZM Trading",2954.88,Lenovo,5,ZZMTRADING,10,7
+512,"ASUS ZEPHYRUS G14 GA403UV-QS091W Gray Ryzen9 8945HS 32GB 1TBSSD 8GB RTX4060 14"" OLED 120Hz  Windows 11",3215.98,ASUS Republic of Gamers,5,ROG,8,5
+1220,Dell XPS 15 - 9510 - 156-inch FHD | i7-11800H | 16GB | 1000SSD | RTX 3050Ti 4GB |  Win 11 Home | Microsoft Office Home and Student 2021,3719.76,Dell,5,Dell by Indigo,11,5
+515,"Dell G15 5511 / 5520 Gaming Laptop Intel Edition 156"" 16GB RAM 512GB SSD",7999.99,Dell,5,ZZMTRADING,28,9
+1070,"Lenovo ThinkPad T14P 2023 13th Gen i5|i7|i9 Iris Xe|RTX 3050 14"" IPS 22K Res 100% sRGB 16GB|32GB DDR5 512GB|1TB SSD ZZM TRADING",23999.98,Lenovo,5,ZZMTRADING,8,1

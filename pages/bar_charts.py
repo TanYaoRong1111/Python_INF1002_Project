@@ -10,8 +10,8 @@ from dash.exceptions import PreventUpdate
 # Register page
 register_page(__name__, name="Bar chart", path='/barcharts')
 
-options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
-options2 = ['Malaysia', 'Singapore', 'Thailand','Indonesia']
+options = ['Laptop', 'Phones']
+options2 = ['Malaysia', 'Singapore', 'Thailand','Indonesia', 'Philippines']
 
 # Custom navbar with dropdown
 

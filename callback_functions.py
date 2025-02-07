@@ -6,16 +6,18 @@ from dataFilter import data_processing
 
 def generate_total_sales_treemap(value):
     """Generate a treemap showing the total sales by summing the 'Price' column for each country."""
-    countries = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia']
+    countries = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia', 'Philippines']
     total_sales = []
 
     
     for country in countries:
         df = pd.read_csv(f'./Dataset/{country}_{value}.csv', index_col=0)
+        revenue = 0
+        # Loop through each row
+        for index, row in df.iterrows():
+            revenue += int(row['Price']) * int(row['Number of Sales'])
         
-        
-        total_sales.append(round(df['Price'].sum(), 2))
-
+        total_sales.append(round(revenue, 2))
     
     sales_df = pd.DataFrame({
         'Country': countries,
@@ -60,34 +62,6 @@ def generate_total_sales_treemap(value):
     return treemap_fig
 
 
-
-
-def update_bar_chart(value, country):
-    if value is None:
-        raise PreventUpdate
-
-    
-    value, country = str(value), str(country)
-
-    df = pd.read_csv(f'./Dataset/{country}_{value}.csv', index_col=0)
-
-    
-    sorted_df = (
-        df.groupby("Brand", as_index=False)
-        .agg({"Number of Sales": "sum"})  
-        .sort_values("Number of Sales", ascending=False).head(5)  
-    )
-    figure = px.histogram(sorted_df, x="Brand", y="Number of Sales", histfunc="sum", color='Brand',template='plotly_white', title='Top 5 Brands by Sales')
-
-    figure.update_layout(
-        plot_bgcolor='rgba(0,0,0,0)',
-        paper_bgcolor='rgba(0,0,0,0)',
-        font=dict(color="white")
-    )
-    
-    
-    return figure, {"display": "block"}
-
 def update_pie_chart(value, country):
     
     value, country = str(value), str(country)
@@ -125,6 +99,32 @@ def update_table(value, country):
     
     return new_data
 
+def update_bar_chart(value, country):
+    if value is None:
+        raise PreventUpdate
+
+    
+    value, country = str(value), str(country)
+
+    df = pd.read_csv(f'./Dataset/{country}_{value}.csv', index_col=0)
+
+    
+    sorted_df = (
+        df.groupby("Brand", as_index=False)
+        .agg({"Number of Sales": "sum"})  
+        .sort_values("Number of Sales", ascending=False).head(5)  
+    )
+    figure = px.histogram(sorted_df, x="Brand", y="Number of Sales", histfunc="sum", color='Brand',template='plotly_white', title='Top 5 Brands by Sales')
+
+    figure.update_layout(
+        plot_bgcolor='rgba(0,0,0,0)',
+        paper_bgcolor='rgba(0,0,0,0)',
+        font=dict(color="white")
+    )
+    
+    
+    return figure, {"display": "block"}
+
 def generate_all_bar_chart():
 
     figs = []
@@ -146,7 +146,7 @@ def generate_all_bar_chart():
             plot_bgcolor='rgba(0,0,0,0)',
             paper_bgcolor='rgba(0,0,0,0)',
             font=dict(color="white")
-        )
+        )   
 
         pie_fig = px.pie(sorted_df, values="Number of Sales", names="Brand", hole=.3, title=f'{country} Top 5 Brands by Sales')
 
@@ -167,7 +167,7 @@ def get_brands_and_country(input_str):
     input_parts = input_str.lower().split()
     
     # List of possible country names to match from the input
-    countries = ['malaysia', 'singapore', 'thailand', 'indonesia']
+    countries = ['malaysia', 'singapore', 'thailand', 'indonesia', 'philippines']
 
     # Find the country from the input
     country = None
@@ -235,24 +235,40 @@ def update_top5(input_str):
     return new_data
 
 
-def create_boxplot_layout():
+import pandas as pd
+import plotly.graph_objects as go
+
+def create_boxplot_layout(item_name):
     """
-    Creates a grouped boxplot layout for laptop prices across multiple countries.
+    Creates a grouped boxplot layout for laptop prices across multiple countries,
+    including only prices where "Number of sales" is more than 100.
     
     Returns:
         go.Figure: A Plotly figure containing the boxplots.
     """
     # Define dataset paths
-    countries = ["Indonesia", "Malaysia", "Singapore", "Thailand"]
-    file_paths = [f"./Dataset/{country}_Laptop.csv" for country in countries]
+    countries = ["Indonesia", "Malaysia", "Singapore", "Thailand", "Philippines"]
+    file_paths = [f"./Dataset/{country}_{item_name}.csv" for country in countries]
     
     # Load data and create boxplots
-    boxplots = [go.Box(y=pd.read_csv(path)['Price'], name=f"{country} Laptop") for country, path in zip(countries, file_paths)]
+    boxplots = []
+    for country, path in zip(countries, file_paths):
+        # Load the data for the current country
+        data = pd.read_csv(path)
+        
+        # Filter the data to include only rows where "Number of sales" > 200
+        filtered_data = data[data['Number of Sales'] > 200]
+        
+        # Create a boxplot using the filtered 'Price' values
+        if not filtered_data.empty:  # Ensure there's data left after filtering
+            boxplots.append(go.Box(y=filtered_data['Price'], name=f"{country} {item_name}"))
+        else:
+            print(f"No data available for {country} after filtering.")
     
     # Create figure with boxplots
     figure = go.Figure(data=boxplots)
     figure.update_layout(
-        title='Boxplots for Prices of Laptops',
+        title=f'Boxplots for Prices of {item_name} (Filtered by Sales > 200)',
         xaxis=dict(title='Countries', color='white', gridcolor='rgba(255, 255, 255, 0.2)'),
         yaxis=dict(title='Price Values', color='white', gridcolor='rgba(255, 255, 255, 0.2)'),
         plot_bgcolor='rgba(0, 0, 0, 0)',  # Transparent plot background
@@ -262,5 +278,117 @@ def create_boxplot_layout():
     )
     
     return figure
-    
 
+def update_revenue_pie_chart(product_name, country_name):
+    if product_name is None or country_name is None:
+        # Return an empty figure with a black background
+        empty_fig = px.pie()
+        empty_fig.update_layout(
+            paper_bgcolor="black",
+            plot_bgcolor="black",
+            height=500,
+            width=500
+        )
+        return empty_fig
+    
+    try:
+        # Load the dataset
+        df = pd.read_csv(f'./Dataset/{country_name}_{product_name}.csv', index_col=0)
+        
+        # Calculate revenue (Price * Number of Sales)
+        df['Revenue'] = df['Price'] * df['Number of Sales']
+        
+        # Aggregate revenue by brand and select the top 5 brands
+        aggregated_data = df.groupby("Brand", as_index=False).agg({"Revenue": "sum"})
+        aggregated_data = aggregated_data.sort_values(by="Revenue", ascending=False).head(5)
+        
+        # Create the pie chart
+        pie_fig = px.pie(
+            aggregated_data,
+            names="Brand",
+            values="Revenue",
+            title=f"Top 5 Revenue Brands in {country_name} for {product_name}",
+            hole=0  # 0 = full pie, increase for a donut chart
+        )
+        
+        # Update layout for black background and better readability
+        pie_fig.update_layout(
+            title_font=dict(size=24, color='white'),
+            height=700,  # Increase height for better visibility
+            width=700,   # Increase width
+            paper_bgcolor="black",
+            plot_bgcolor="black",
+            font=dict(color="white"),
+            legend_font=dict(size=16),  # Make legend text bigger
+        )
+        
+        return pie_fig, {"display": "block"}
+    
+    except FileNotFoundError:
+        # Return an empty figure with black background if file not found
+        empty_fig = px.pie()
+        empty_fig.update_layout(
+            paper_bgcolor="black",
+            plot_bgcolor="black",
+            height=500,
+            width=500
+        )
+        return empty_fig
+
+def update_map(product_name):
+    if product_name is None:
+        raise PreventUpdate
+    
+    # Example: Update revenue data based on the selected product category
+    # You can replace this with your actual logic to fetch revenue data
+
+
+    countries = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia', 'Philippines']
+    total_sales = []
+
+    
+    for country in countries:
+        df = pd.read_csv(f'./Dataset/{country}_{product_name}.csv', index_col=0)
+        revenue = 0
+        # Loop through each row
+        for index, row in df.iterrows():
+            revenue += int(row['Price']) * int(row['Number of Sales'])
+        
+        total_sales.append(round(revenue, 2))
+
+    
+    sales = {
+        "countries": countries,
+        'Total Sales': total_sales
+    }
+
+    
+    updated_revenue = [x for x in sales["Total Sales"]]
+    
+    # Create the choropleth map
+    fig = go.Figure(go.Choropleth(
+        locations=sales["countries"],          # Country names
+        z=updated_revenue,                   # Updated revenue values
+        locationmode="country names",        # Use country names as locations
+        colorscale="Viridis",                # Color scale
+        colorbar_title="Revenue (in millions)",  # Color bar title
+    ))
+
+    # Update the geographic properties to focus on Southeast Asia
+    fig.update_geos(
+        visible=False, resolution=50, scope="asia",
+        showcountries=True, countrycolor="Black",
+        showsubunits=True, subunitcolor="Blue",
+        center=dict(lon=105, lat=15),  # Center on Southeast Asia
+        projection_scale=3,            # Zoom level
+
+    )
+
+    # Update the layout
+    fig.update_layout(
+        title=f"Revenue in Southeast Asia for {product_name}",  # Dynamic title
+        height=500,
+        margin={"r":0,"t":30,"l":0,"b":0}
+    )
+
+    return fig, {"display": "block"}

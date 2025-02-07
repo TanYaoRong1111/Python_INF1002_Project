@@ -11,8 +11,8 @@ import dash_ag_grid as dag
 # Register page
 register_page(__name__, name="Tables", path='/tables')
 
-options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
-options2 = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia']
+options = ['Laptop', 'Phones']
+options2 = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia','Philippines']
 
 
 # Define the AG Grid column definitions

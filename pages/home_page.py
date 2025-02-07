@@ -6,17 +6,15 @@ import plotly.express as px
 import pandas as pd
 from callback_functions import *
 from dash.exceptions import PreventUpdate
-from callback_functions import generate_all_bar_chart, generate_total_sales_treemap, create_boxplot_layout
+from callback_functions import generate_total_sales_treemap, create_boxplot_layout
 
 # Register page
 register_page(__name__, name="Home_Page", path='/')
 
-options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
-
-figs = list(generate_all_bar_chart())
+options = ['Laptop', 'Phones']
 
 # Get the boxplot figure
-boxplot_figure = create_boxplot_layout()
+boxplot_figure = create_boxplot_layout("Laptop")
 
 layout = dbc.Container([
     dbc.Row([
@@ -65,12 +63,14 @@ layout = dbc.Container([
 ], fluid=True)
 
 
-'''
-layout = html.Div([
-    html.H1("Welcome to the Lazada Sales Dashboard", style={'textAlign': 'center'}),
-
-    dbc.Row([
-        dbc.Col([dcc.Graph(figure=fig) for fig in figs], width=12)  # Adjust width if needed
-    ])
-])
-'''
+@callback(
+    
+    [Output('total-sales-treemap', 'figure'),
+     Output('boxplot', 'figure')],
+    [Input('product_name', 'value')]
+)
+def update_content(Item):
+    if Item is None:
+        raise PreventUpdate
+    else:
+        return generate_total_sales_treemap(Item), create_boxplot_layout(Item)
