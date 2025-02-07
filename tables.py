@@ -14,7 +14,6 @@ register_page(__name__, name="Tables", path='/tables')
 options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
 options2 = ['Malaysia', 'Singapore', 'Thailand', 'Indonesia']
 
-
 # Define the AG Grid column definitions
 columnDefs = [
     {"field": "Name", "filter": "agTextColumnFilter"},
@@ -35,6 +34,8 @@ df = pd.DataFrame({
     "Number of Sales": [],
     "Number of Reviews": []
 })
+
+# Custom navbar with dropdown
 
 layout = dbc.Container(
     [
@@ -72,6 +73,7 @@ layout = dbc.Container(
         
         dbc.Row(
             dbc.Col(
+
                 dag.AgGrid(
                     id="data-table2",
                     columnDefs=columnDefs,

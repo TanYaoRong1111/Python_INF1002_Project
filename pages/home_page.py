@@ -6,28 +6,63 @@ import plotly.express as px
 import pandas as pd
 from callback_functions import *
 from dash.exceptions import PreventUpdate
+from callback_functions import generate_all_bar_chart, generate_total_sales_treemap, create_boxplot_layout
 
 # Register page
 register_page(__name__, name="Home_Page", path='/')
 
+options = ['Laptop', 'Phones', 'Mouse', 'Keyboard', 'Monitor']
+
 figs = list(generate_all_bar_chart())
 
-layout = html.Div([
-    html.H1("Welcome to the Lazada Sales Dashboard", style={'textAlign': 'center'}),
+# Get the boxplot figure
+boxplot_figure = create_boxplot_layout()
 
+layout = dbc.Container([
     dbc.Row([
-        dbc.Col(dcc.Graph(figure=figs[i]), width=6) if i < len(figs) else None  
-        for i in range(0, len(figs), 2) 
-    ] + [
-        dbc.Col(dcc.Graph(figure=figs[i + 1]), width=6) if i + 1 < len(figs) else None  
-        for i in range(0, len(figs), 2)
+        dbc.Col(
+            html.H1(
+                "Welcome to the Lazada Sales Dashboard",
+                className="text-center my-4"
+            ),
+            width=12
+        )
     ]),
 
-    dcc.Graph(
-        id='total-sales-treemap',
-        figure=generate_total_sales_treemap('Laptop')  # Generate the treemap for "Laptop"
-    ),
-])
+    dbc.Row([
+        dbc.Col(
+            dcc.Dropdown(
+                id='product_name',
+                options=[{'label': opt, 'value': opt} for opt in options],
+                placeholder="Select Product Category",
+                className="mb-3"
+            ),
+            width=6
+        )
+    ], justify="center"),
+
+    dbc.Row([
+        dbc.Col(
+            dcc.Graph(
+                id='total-sales-treemap',
+                figure=generate_total_sales_treemap('Laptop'),
+                style={'height': '500px'}
+            ),
+            width=12
+        )
+    ], className="mb-4"),
+
+    dbc.Row([
+        dbc.Col(
+            dcc.Graph(
+                id='boxplot',
+                figure=boxplot_figure,
+                style={'height': '500px'}
+            ),
+            width=12
+        )
+    ], className="mb-4")
+], fluid=True)
 
 
 '''
