@@ -12,6 +12,9 @@ register_page(__name__, name="Home_Page", path='/')
 
 figs = list(generate_all_bar_chart())
 
+# Get the boxplot figure
+boxplot_figure = create_boxplot_layout()
+
 layout = html.Div([
     html.H1("Welcome to the Lazada Sales Dashboard", style={'textAlign': 'center'}),
 
@@ -27,6 +30,13 @@ layout = html.Div([
         id='total-sales-treemap',
         figure=generate_total_sales_treemap('Laptop')  # Generate the treemap for "Laptop"
     ),
+
+    html.Div([
+                    dcc.Graph(
+                        id='boxplot',
+                        figure=boxplot_figure
+                    )
+                ])
 ])
 
 
