@@ -1,7 +1,6 @@
 import dash
-from dash import Dash, dcc, html, page_registry, page_container
+from dash import Dash, dcc, html, page_registry, page_container, DiskcacheManager
 import dash_bootstrap_components as dbc
-from callback_functions import generate_total_sales_treemap  # Import the function
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.BOOTSTRAP])
 
