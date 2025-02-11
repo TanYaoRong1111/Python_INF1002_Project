@@ -9,7 +9,7 @@ from dash.exceptions import PreventUpdate
 from callback_functions import generate_total_sales_treemap, create_boxplot_layout
 
 # Register page
-register_page(__name__, name="Home_Page", path='/')
+register_page(__name__, name="Home Page", path='/')
 
 options = ['Laptop', 'Phones']
 
