@@ -8,6 +8,7 @@ import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
 from dash.exceptions import PreventUpdate
+import re
 
 # Helper Functions
 def load_data(country, product_name):
@@ -269,7 +270,7 @@ def update_top5(input_str):
     input_parts = input_str.lower().split()
 
     # Get the unique brands and country from the input string
-    brands, country = get_brands_and_country(input_str)
+    brands, country, product = get_brands_country_product(input_str)
     
     brand_filter = None
     price_min = 0
@@ -281,33 +282,34 @@ def update_top5(input_str):
             brand_filter = word.capitalize()
 
     # Extract price range if available
-    if "price range" in input_str.lower():
-        # Get the string input that comes after "price range" and remove any extra spaces
-        price_parts = input_str.lower().split("price range")[1].strip()
+    # Get the string input that comes after "price range" and remove any extra spaces
+    # \s* --> one or more spaces            \d+ --> one or more digits
+    price_range_match = re.search(r"price range\s*(\d+)\s*,\s*(\d+)", input_str.lower())
+    if price_range_match:
         # Split the extracted string into two variables and change their data type to int
-        price_min, price_max = map(int, price_parts.split(","))
+        price_min, price_max = map(int, price_range_match.groups())
 
     # If price_max is 0, set it to infinity (no upper limit)
     if price_max == 0:
         price_max = float('inf')
 
     # Read the dataset for the specific country and product category
-    df = pd.read_csv(f'./Dataset/{country}_Laptop.csv', index_col=0)
+    df = pd.read_csv(f'./Dataset/{country}_{product}.csv', index_col=0)
     
     # Filter laptops based on the extracted data
-    filtered_laptops = []
-    for _, laptop in df.iterrows():
-        if brand_filter and laptop["Brand"].lower() != brand_filter.lower():
+    filtered_product = []
+    for _, product in df.iterrows():
+        if brand_filter and product["Brand"].lower() != brand_filter.lower():
             continue
-        if laptop["Price"] < price_min or laptop["Price"] > price_max:
+        if product["Price"] < price_min or product["Price"] > price_max:
             continue
-        filtered_laptops.append(laptop)
+        filtered_product.append(product)
 
     # Sort laptops by rating and if the rating is the same its sorted by number of sales.
-    filtered_laptops = sorted(filtered_laptops, key=lambda x: (x["Rating"], x["Number of Sales"]), reverse=True)
+    filtered_product = sorted(filtered_product, key=lambda x: (x["Rating"], x["Number of Sales"]), reverse=True)
 
     # Convert the top 5 filtered laptops to dictionary format
-    new_data = [laptop.to_dict() for laptop in filtered_laptops[:5]]
+    new_data = [product.to_dict() for product in filtered_product[:5]]
 
     return new_data
 
@@ -353,31 +355,36 @@ def create_boxplot_layout(item_name):
     return figure
 
 # Function to get unique brands and countries from the dataset
-def get_brands_and_country(input_str):
+def get_brands_country_product(input_str):
     # Extract country from the input
     input_parts = input_str.lower().split()
     
     # List of possible country names to match from the input
     countries = ['malaysia', 'singapore', 'thailand', 'indonesia', 'philippines']
+    products = ['laptop', 'phones']
 
-    # Find the country from the input
+    # Find the country and product from the input
     country = None
+    product = None
     for word in input_parts:
         if word in countries:
             country = word.capitalize()
+        if word in products:
+            product = word.capitalize()
+        if country and product:  
             break
     
-    # If no country is found, raise an error and it will cause update_content(input_filter) to show a popup
-    if not country:
+    # If no country and/or product is found, raise an error and it will cause update_content(input_filter) to show a popup
+    if not country or not product:
         raise ValueError
     
     # Now, load the dataset based on the extracted country
-    df = pd.read_csv(f'./Dataset/{country}_Laptop.csv', index_col=0)
+    df = pd.read_csv(f'./Dataset/{country}_{product}.csv', index_col=0)
 
     # Get one instance of each unique brand
     brands = df['Brand'].unique().tolist()
     
-    return brands, country
+    return brands, country, product
 
 
 def update_revenue_pie_chart(product_name, country_name):
