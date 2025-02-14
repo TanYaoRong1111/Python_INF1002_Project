@@ -3,11 +3,11 @@ from dash import dash_table, dcc, html, callback, register_page
 from dash.dependencies import Input, Output
 import dash_bootstrap_components as dbc
 import pandas as pd
-from callback_functions import update_top5, get_brands_and_country
+from callback_functions import update_top5, get_brands_country_product
 from dash.exceptions import PreventUpdate
 
 # Register page
-register_page(__name__, name="Chatbot", path='/top5_filter')
+register_page(__name__, name="Recommendation", path='/top5_filter')
 
 # Custom navbar with dropdown
 layout = dbc.Container(
@@ -17,12 +17,15 @@ layout = dbc.Container(
                 html.Div(
                     # Instructions for input
                     children=[
-                        html.H2("Top 5 Laptops based on Ratings", style={'color': 'white'}),
+                        html.H2("Top 5 Laptops/Phones based on Ratings", style={'color': 'white'}),
                         html.P("(followed by Number of Sales if ratings are the same)"),
                         html.Br(),
                         html.H4("Criterias:", style={'color': 'white'}),
-                        html.P("A country name must be stated", style={'color': 'grey'}),
-                        html.P("If you want to include price range, input in this format:", style={'color': 'grey'}),
+                        html.P("- A country name must be stated", style={'color': 'grey'}),
+                        html.P("- A product name [Laptop / Phones] must be stated", style={'color': 'grey'}),
+                        html.H5("Optional:", style={'color': 'white'}),
+                        html.P("- brand name", style={'color': 'grey'}),
+                        html.P("- price range, input in this format:", style={'color': 'grey'}),
                         html.P('"price range (minimum price),(Maximum price)"'),
                         html.P('[If either one price is not needed, replace with a "0"]', style={'color': 'white'}),
                     ],
@@ -49,7 +52,7 @@ layout = dbc.Container(
             dbc.Col(
                 html.Div(
                     id="criteria_not_met",  # Alert if country not present in input and/or price range format is wrong
-                    children="Please specify a country in the filter input and/or use the correct format for price range!",
+                    children="Please specify a country and product[Laptop/Phones] in the filter input and/or use the correct format for price range!",
                     style={'display': 'none'}  # Initially hidden
                 ),
                 className="mb-4"
