@@ -279,8 +279,8 @@ def update_top5(input_str):
 
     # Extract the brand from the input if mentioned
     for word in input_parts:
-        if word in [brand.lower() for brand in brands]:
-            brand_filter = word.capitalize()
+        if word.lower() in [brand.lower() for brand in brands]:
+            brand_filter = word
 
     # Extract price range if available
     # Get the string input that comes after "price range" and remove any extra spaces
