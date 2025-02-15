@@ -62,7 +62,7 @@ layout = dbc.Container(
         ),
     ],
     fluid=True,
-    style={'padding': '20px', 'backgroundColor': 'black'}  
+     
 )
 
 

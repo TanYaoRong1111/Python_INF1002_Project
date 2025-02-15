@@ -21,7 +21,7 @@ layout = dbc.Container(
     [
         dbc.Row(
             dbc.Col(
-                html.H1("Revenue Distribution by Brand", style={'textAlign': 'center'}),
+                html.H1("Revenue Distribution by Brand", style={'textAlign': 'center', 'color': 'white'}),
                 className="mb-4"
             )
         ),

@@ -4,6 +4,7 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
 from dash.exceptions import PreventUpdate
+import os
 
 register_page(__name__, name="Price vs Rating Scatter Plot", path='/price-rating-scatter')
 
@@ -19,7 +20,6 @@ layout = dbc.Container(
                 className="mb-4"
             )
         ),
-
         dbc.Row(
             dbc.Col(
                 dcc.Dropdown(
@@ -32,7 +32,6 @@ layout = dbc.Container(
                 width=6
             )
         ),
-
         dbc.Row(
             dbc.Col(
                 dcc.Dropdown(
@@ -45,7 +44,21 @@ layout = dbc.Container(
                 width=6
             )
         ),
-
+        dbc.Row(
+            dbc.Col(
+                dcc.RadioItems(
+                    id='top_brands_selector',
+                    options=[
+                        {'label': 'Top 5 Brands', 'value': 5},
+                        {'label': 'Top 10 Brands', 'value': 10}
+                    ],
+                    value=5,
+                    labelStyle={'display': 'inline-block', 'margin-right': '10px', 'color': 'white'}
+                ),
+                width=6,
+                className="mb-4"
+            )
+        ),
         dbc.Row(
             dbc.Col(
                 dcc.Graph(id="scatter-chart"),  
@@ -56,32 +69,56 @@ layout = dbc.Container(
         ),
     ],
     fluid=True,
-    style={'padding': '20px', 'backgroundColor': 'black'}  
 )
 
 @dash.callback(
     [Output('scatter-chart', 'figure'),
      Output('scatter_col', 'style')],
     [Input('country_name', 'value'),
-     Input('product_name', 'value')]
+     Input('product_name', 'value'),
+     Input('top_brands_selector', 'value')]
 )
-def update_scatter(selected_country, selected_product):
+def update_scatter(selected_country, selected_product, top_n):
+    print(f"Country: {selected_country}, Product: {selected_product}, Top N: {top_n}")
+    
     if not selected_country or not selected_product:
         raise PreventUpdate
 
     file_path = f"Dataset/{selected_country}_{selected_product}.csv"
 
+    if not os.path.exists(file_path):
+        print("Error: Dataset file not found.")
+        fig = px.scatter(title="Dataset not found")
+        return fig, {"display": "block"}  # Show error message
+
     try:
         df = pd.read_csv(file_path)
+        print(f"Loaded {df.shape[0]} rows.")
+        print("Columns found in dataset:", df.columns.tolist())  # Debugging statement
 
-        if "Price" not in df.columns or "Rating" not in df.columns:
-            return px.scatter(title="Invalid dataset format"), {"display": "none"}
+        df.rename(columns={"Number of Sales": "Sales"}, inplace=True)  # Rename column to match expected name
+
+        required_columns = {"Price", "Rating", "Brand", "Sales"}
+        if not required_columns.issubset(df.columns):
+            print("Error: Missing required columns in dataset.")
+            missing_columns = required_columns - set(df.columns)
+            print("Missing columns:", missing_columns)  # Show which columns are missing
+            fig = px.scatter(title="Invalid dataset format")
+            return fig, {"display": "block"}
 
         if df.empty:
-            return px.scatter(title="No data available"), {"display": "none"}
+            print("Error: Dataset is empty.")
+            fig = px.scatter(title="No data available")
+            return fig, {"display": "block"}
 
-        fig = px.scatter(df, x="Price", y="Rating", 
-                         title=f"Price vs Rating for {selected_product} in {selected_country}",
+        # Normalize column names (in case of leading/trailing spaces)
+        df.columns = df.columns.str.strip()
+        
+        top_brands = df.groupby("Brand")["Sales"].sum().nlargest(top_n).index
+        df_filtered = df[df["Brand"].isin(top_brands)]
+        
+        fig = px.scatter(df_filtered, x="Price", y="Rating", 
+                         title=f"Price vs Rating for {selected_product} in {selected_country} (Top {top_n} Brands)",
                          color="Brand", 
                          size_max=10,
                          template="plotly_dark",
@@ -89,5 +126,7 @@ def update_scatter(selected_country, selected_product):
 
         return fig, {"display": "block"}
 
-    except FileNotFoundError:
-        return px.scatter(title="Dataset not found"), {"display": "none"}
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        fig = px.scatter(title="Error loading data")
+        return fig, {"display": "block"}

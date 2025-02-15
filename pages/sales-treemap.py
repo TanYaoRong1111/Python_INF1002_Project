@@ -52,7 +52,6 @@ layout = dbc.Container(
         ),
     ],
     fluid=True,
-    style={'padding': '20px', 'backgroundColor': 'black'}  
 )
 
 def load_data(country, category):
@@ -73,23 +72,26 @@ def update_treemap(selected_category):
         raise PreventUpdate
     
     sales_data = []
+    country_totals = {}
     for country in country_options:
         df = load_data(country, selected_category)
         if not df.empty:
             country_sales = df.groupby('Brand', as_index=False)['Number of Sales'].sum()
             country_sales['Country'] = country
             sales_data.append(country_sales)
+            country_totals[country] = df['Number of Sales'].sum()
     
     if not sales_data:
         return px.treemap(title="No data available"), {"display": "none"}
     
     sales_df = pd.concat(sales_data, ignore_index=True)
     
-    # Ensure all country values exist in flag_colors to avoid key errors
     sales_df = sales_df[sales_df['Country'].isin(flag_colors.keys())]
     
     if sales_df.empty:
         return px.treemap(title="No data available"), {"display": "none"}
+    
+    sales_df['Total Sales'] = sales_df['Country'].map(country_totals)
     
     treemap_fig = px.treemap(
         sales_df,
@@ -99,9 +101,12 @@ def update_treemap(selected_category):
         template='plotly_dark',
         color='Country',
         color_discrete_map=flag_colors,
-        custom_data=['Brand', 'Number of Sales']
+        custom_data=['Brand', 'Number of Sales', 'Country', 'Total Sales']
     )
     
-    treemap_fig.update_traces(hovertemplate='%{customdata[0]}: %{customdata[1]} sales')
+    treemap_fig.update_traces(
+        hovertemplate=
+        "<b>%{customdata[2]}</b>: %{customdata[0]} - %{customdata[1]} sales"
+    )
     
     return treemap_fig, {"display": "block"}
