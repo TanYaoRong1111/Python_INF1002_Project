@@ -94,10 +94,11 @@ def generate_total_sales_treemap(value):
     sales_df['HoverText'] = sales_df.apply(lambda row: f"{row['Country']} = ${row['Total Sales']:.2f}", axis=1)
 
     flag_colors = {
-        'Malaysia': 'rgb(0, 0, 139)',
-        'Singapore': 'rgb(255, 0, 0)',
-        'Thailand': 'rgb(30, 144, 255)',
-        'Indonesia': 'rgb(220, 20, 60)'
+    'Malaysia': 'rgb(0, 40, 104)',
+    'Singapore': 'rgb(255, 0, 0)',     
+    'Thailand': 'rgb(0, 32, 91)',      
+    'Indonesia': 'rgb(217, 0, 0)',      
+    'Philippines': 'rgb(0, 56, 168)'   
     }
 
     treemap_fig = px.treemap(
