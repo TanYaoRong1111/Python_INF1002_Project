@@ -8,7 +8,7 @@ from dash.exceptions import PreventUpdate
 from callback_functions import update_revenue_pie_chart
 import os
 
-register_page(__name__, name="Total Sales Treemap", path='/sales-treemap')
+register_page(__name__, name="Total Sales by Brand Treemap", path='/sales-treemap')
 
 category_options = ['Laptop', 'Phones']
 country_options = ['Malaysia', 'Singapore', 'Thailand', 'Philippines']

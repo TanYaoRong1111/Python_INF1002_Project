@@ -1,5 +1,5 @@
 import dash
-from dash import dcc, html, register_page, Input, Output
+from dash import dcc, html, register_page, Input, Output, callback
 import dash_bootstrap_components as dbc
 import pandas as pd
 import plotly.express as px
@@ -71,47 +71,37 @@ layout = dbc.Container(
     fluid=True,
 )
 
-@dash.callback(
-    [Output('scatter-chart', 'figure'),
-     Output('scatter_col', 'style')],
-    [Input('country_name', 'value'),
-     Input('product_name', 'value'),
-     Input('top_brands_selector', 'value')]
+@callback(
+    Output('scatter-chart', 'figure'),
+    Output('scatter_col', 'style'),
+    Input('country_name', 'value'),
+    Input('product_name', 'value'),
+    Input('top_brands_selector', 'value')
 )
 def update_scatter(selected_country, selected_product, top_n):
-    print(f"Country: {selected_country}, Product: {selected_product}, Top N: {top_n}")
-    
     if not selected_country or not selected_product:
         raise PreventUpdate
 
     file_path = f"Dataset/{selected_country}_{selected_product}.csv"
 
     if not os.path.exists(file_path):
-        print("Error: Dataset file not found.")
         fig = px.scatter(title="Dataset not found")
         return fig, {"display": "block"}  # Show error message
 
     try:
         df = pd.read_csv(file_path)
-        print(f"Loaded {df.shape[0]} rows.")
-        print("Columns found in dataset:", df.columns.tolist())  # Debugging statement
-
-        df.rename(columns={"Number of Sales": "Sales"}, inplace=True)  # Rename column to match expected name
+        df.rename(columns={"Number of Sales": "Sales"}, inplace=True)  # Ensure column name consistency
 
         required_columns = {"Price", "Rating", "Brand", "Sales"}
         if not required_columns.issubset(df.columns):
-            print("Error: Missing required columns in dataset.")
-            missing_columns = required_columns - set(df.columns)
-            print("Missing columns:", missing_columns)  # Show which columns are missing
             fig = px.scatter(title="Invalid dataset format")
             return fig, {"display": "block"}
 
         if df.empty:
-            print("Error: Dataset is empty.")
             fig = px.scatter(title="No data available")
             return fig, {"display": "block"}
 
-        # Normalize column names (in case of leading/trailing spaces)
+        # Normalize column names
         df.columns = df.columns.str.strip()
         
         top_brands = df.groupby("Brand")["Sales"].sum().nlargest(top_n).index
@@ -126,7 +116,6 @@ def update_scatter(selected_country, selected_product, top_n):
 
         return fig, {"display": "block"}
 
-    except Exception as e:
-        print(f"Unexpected error: {e}")
+    except Exception:
         fig = px.scatter(title="Error loading data")
         return fig, {"display": "block"}
