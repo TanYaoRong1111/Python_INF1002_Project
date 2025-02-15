@@ -51,7 +51,7 @@ layout = dbc.Container(
         dbc.Row(
             dbc.Col(
                 html.Div(
-                    id="criteria_not_met",  # Alert if country not present in input and/or price range format is wrong
+                    id="criteria_not_met",  # Alert if country and/or product is not present in input and/or price range format is wrong
                     children="Please specify a country and product[Laptop/Phones] in the filter input and/or use the correct format for price range!",
                     style={'display': 'none'}  # Initially hidden
                 ),
@@ -113,5 +113,5 @@ def update_content(input_filter):
         return update_top5(input_filter), {'display': 'none'}
     
     except (ValueError):
-        # If no country is found or price range format is wrong, trigger the popup (ValueError is raised)
+        # If no country and/or product is found or price range format is wrong, trigger the popup (ValueError is raised)
         return [], {'display': 'block'}
