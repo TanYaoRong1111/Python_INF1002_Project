@@ -1,11 +1,9 @@
 import dash
 from dash import dcc, html, register_page, Input, Output
 import dash_bootstrap_components as dbc
-from dash import callback, Input, Output
 import pandas as pd
 import plotly.express as px
 from dash.exceptions import PreventUpdate
-from callback_functions import update_revenue_pie_chart
 import os
 
 register_page(__name__, name="Total Sales by Brand Treemap", path='/sales-treemap')
@@ -22,6 +20,7 @@ flag_colors = {
     }
 
 layout = dbc.Container(
+#layout of app
     [
         dbc.Row(
             dbc.Col(
@@ -55,7 +54,7 @@ layout = dbc.Container(
 )
 
 def load_data(country, category):
-    """Loads data from CSV files based on country and category."""
+    # Loads data from CSV files based on country and category.
     filename = f"Dataset/{country}_{category}.csv"
     if os.path.exists(filename):
         return pd.read_csv(filename)
@@ -63,25 +62,32 @@ def load_data(country, category):
         return pd.DataFrame(columns=['Brand', 'Number of Sales'])
 
 @dash.callback(
+    #trigger update when user selects category
     [Output('treemap-chart-phones', 'figure'),
      Output('treemap_col_phones', 'style')],
     [Input('category_name', 'value')]
 )
 def update_treemap(selected_category):
+    #prevent update if nothing is selected
     if not selected_category:
         raise PreventUpdate
     
     sales_data = []
     country_totals = {}
+    #initialise variables
     for country in country_options:
         df = load_data(country, selected_category)
+        #iterate through country and load sales data
         if not df.empty:
             country_sales = df.groupby('Brand', as_index=False)['Number of Sales'].sum()
+            #group sales by brand 
             country_sales['Country'] = country
             sales_data.append(country_sales)
             country_totals[country] = df['Number of Sales'].sum()
+            #stores total sales per country
     
-    if not sales_data:
+    if not sales_data: 
+    #if no data is found return empty treemap and hides graph
         return px.treemap(title="No data available"), {"display": "none"}
     
     sales_df = pd.concat(sales_data, ignore_index=True)
@@ -89,11 +95,14 @@ def update_treemap(selected_category):
     sales_df = sales_df[sales_df['Country'].isin(flag_colors.keys())]
     
     if sales_df.empty:
+    #if no data is found return empty treemap and hides graph
         return px.treemap(title="No data available"), {"display": "none"}
     
     sales_df['Total Sales'] = sales_df['Country'].map(country_totals)
+    #replace each country name in the dictionary with its respective total sales
     
     treemap_fig = px.treemap(
+    #create treemap
         sales_df,
         path=['Country', 'Brand'],
         values='Number of Sales',
@@ -105,6 +114,7 @@ def update_treemap(selected_category):
     )
     
     treemap_fig.update_traces(
+    #add data when hovering over treemap
         hovertemplate=
         "<b>%{customdata[2]}</b>: %{customdata[0]} - %{customdata[1]} sales"
     )

@@ -1,4 +1,3 @@
-import dash
 from dash import dcc, html, register_page, Input, Output, callback
 import dash_bootstrap_components as dbc
 import pandas as pd
@@ -12,6 +11,7 @@ product_options = ['Laptop', 'Phones']
 country_options = ['Indonesia', 'Malaysia', 'Philippines', 'Singapore', 'Thailand']
 
 layout = dbc.Container(
+#layout of app
     [
         dbc.Row(
             dbc.Col(
@@ -47,6 +47,7 @@ layout = dbc.Container(
         dbc.Row(
             dbc.Col(
                 dcc.RadioItems(
+                    #include the radio buttons
                     id='top_brands_selector',
                     options=[
                         {'label': 'Top 5 Brands', 'value': 5},
@@ -72,6 +73,7 @@ layout = dbc.Container(
 )
 
 @callback(
+    #trigger update when user selects category
     Output('scatter-chart', 'figure'),
     Output('scatter_col', 'style'),
     Input('country_name', 'value'),
@@ -79,25 +81,31 @@ layout = dbc.Container(
     Input('top_brands_selector', 'value')
 )
 def update_scatter(selected_country, selected_product, top_n):
+    #prevent update when no inputs selected
     if not selected_country or not selected_product:
         raise PreventUpdate
 
     file_path = f"Dataset/{selected_country}_{selected_product}.csv"
 
     if not os.path.exists(file_path):
+        #error handling for no dataset
         fig = px.scatter(title="Dataset not found")
-        return fig, {"display": "block"}  # Show error message
+        return fig, {"display": "block"} 
 
     try:
+        #load dataset
         df = pd.read_csv(file_path)
-        df.rename(columns={"Number of Sales": "Sales"}, inplace=True)  # Ensure column name consistency
-
+        df.rename(columns={"Number of Sales": "Sales"}, inplace=True)
+        #rename number of sales from csv to sales
+        
         required_columns = {"Price", "Rating", "Brand", "Sales"}
+        #error handling for missing columns
         if not required_columns.issubset(df.columns):
             fig = px.scatter(title="Invalid dataset format")
             return fig, {"display": "block"}
 
         if df.empty:
+        #error handling for missing data
             fig = px.scatter(title="No data available")
             return fig, {"display": "block"}
 
@@ -105,9 +113,13 @@ def update_scatter(selected_country, selected_product, top_n):
         df.columns = df.columns.str.strip()
         
         top_brands = df.groupby("Brand")["Sales"].sum().nlargest(top_n).index
+        #group data by brand and sum total sales
+        #selects the top number of brands based on the selected radio button input(5 or 10)
         df_filtered = df[df["Brand"].isin(top_brands)]
+        #applies the filter
         
-        fig = px.scatter(df_filtered, x="Price", y="Rating", 
+        fig = px.scatter(df_filtered, x="Price", y="Rating",
+                        #create the scatter plot 
                          title=f"Price vs Rating for {selected_product} in {selected_country} (Top {top_n} Brands)",
                          color="Brand", 
                          size_max=10,
@@ -117,5 +129,6 @@ def update_scatter(selected_country, selected_product, top_n):
         return fig, {"display": "block"}
 
     except Exception:
+        #error handling for any exceptions along the way
         fig = px.scatter(title="Error loading data")
         return fig, {"display": "block"}

@@ -14,6 +14,7 @@ country_options = ['Indonesia', 'Malaysia', 'Philippines', 'Singapore', 'Thailan
 
 
 layout = dbc.Container(
+#layout of app
     [
         dbc.Row(
             dbc.Col(
@@ -67,35 +68,46 @@ layout = dbc.Container(
 
 
 @dash.callback(
+    #trigger update when user selects category from dropdown
     [Output('boxplot-chart', 'figure'),
      Output('boxplot_col', 'style')],
     [Input('country_name', 'value'),
      Input('product_name', 'value')]
 )
+
 def update_boxplot(selected_country, selected_product):
+    #prevent update if nothing is selected
     if not selected_country or not selected_product:
         raise PreventUpdate
 
     
     file_path = f"Dataset/{selected_country}_{selected_product}.csv"
-
+    # Loads data from CSV files based on country and product.
+    
     try:
         df = pd.read_csv(file_path)
 
         
         if "Brand" not in df.columns or "Rating" not in df.columns:
+            #if no data is found return empty treemap and hides graph
             return px.box(title="Invalid dataset format"), {"display": "none"}
 
         
         brand_counts = df["Brand"].value_counts()
+        #count how many times data appears in dataset
+        
         valid_brands = brand_counts[brand_counts >= 5].index
+        #more than 5 filter
+        
         filtered_df = df[df["Brand"].isin(valid_brands)]
+        #apply filter, remove invalid brands
 
         if filtered_df.empty:
             return px.box(title="No brands meet the minimum rating count (5)"), {"display": "none"}
-
+        #error handling for invalid datasets for the filter
         
         fig = px.box(filtered_df, x="Brand", y="Rating",
+        #display the boxplot
                      title=f"Rating Variability Across {selected_product} Brands in {selected_country}",
                      points="all",  
                      color="Brand",
@@ -104,4 +116,5 @@ def update_boxplot(selected_country, selected_product):
         return fig, {"display": "block"}
 
     except FileNotFoundError:
+    #error handling
         return px.box(title="Dataset not found"), {"display": "none"}
